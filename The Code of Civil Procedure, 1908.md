@@ -1108,47 +1108,25 @@ Provided that nothing in this rule shall apply to nonjoinder of a necessary part
 
 ## Order II FRAME OF SUIT
 
-**1. Frame of suit.** - Every suit shall as far as practicable be framed so as to afford ground for final decision upon the subjects in dispute and to prevent further litigation concerning them.
+**1. Frame of suit.** - Every suit shall as far as practicable be framed so as to afford <u>ground for final decision upon the subjects in dispute and to prevent further litigation</u> concerning them.
 
-
-
-**2. Suit to include the whole claim.** - (1) Every suit shall include the whole of the claim which the plaintiff is entitled to make in respect of the cause of action; but a plaintiff may relinquish any portion of his claim in order to bring the suit within the jurisdiction of any Court.
-
-
+**2. Suit to include the whole claim.** - (1) Every suit shall include the <u>whole of the claim</u> which the plaintiff is entitled to make in respect of the cause of action; but a plaintiff may relinquish any portion of his claim in order to bring the suit within the jurisdiction of any Court.
 
 (2) **Relinquishment of part of claim.-**Where a plaintiff omits to sue in respect of, or intentionally relinquishes, any portion of his claim he shall not afterwards sue in respect of the portion so omitted or relinquished.
 
-
-
 (3) **Omission to sue for one of several reliefs.-**A person entitled to more than one relief in respect of the same cause of action may sue for all or any of such reliefs; but if he omits, except with the leave of the Court, to sue for all such reliefs, he shall not afterwards sue for any relief so omitted.
 
-
-
 ***Explanation.\***-For the purposes of this rule an obligation and a collateral security for its performance and successive claims arising under the same obligation shall be deemed respectively to constitute but one cause of action.
-
-
 
 *Illustration*
 
 A lets a house to B at a yearly of rent Rs. 1200. The rent for the whole of the years 1905, 1906 and 1907 is due and unpaid. A sues B in 1908 only for the rent due for 1906. A shall not afterwards sue B for the rent due for 1905 or 1907.
 
-
-
-
-
-
-
 **3. Joinder of causes of action.** - (1) Save as otherwise provided, a plaintiff may unite in the same suit several causes of action against the same defendant, or the same defendants jointly; and any plaintiffs having causes of action in which they are jointly interested against the same defendant or the same defendants jointly may unite such causes of action in the same suit.
-
-
 
 (2) Where causes of action are united, the jurisdiction of the Court as regards the suit shall depend on the amount or value of the aggregate subject-matters at the date of instituting the suit.
 
-
-
 **4. Only certain claims to be joined for recovery of immovable property.** - No cause of action shall, unless with the leave of the Court, be joined with a suit for the recovery of immovable property, except-
-
-
 
 (a) claims for mesne profits or arrears of rent in respect of the property claimed or any part thereof;
 
@@ -1158,127 +1136,82 @@ A lets a house to B at a yearly of rent Rs. 1200. The rent for the whole of the 
 
 Provided that nothing in this rule shall be deemed to prevent any party in a suit for foreclosure or redemption from asking to be put into possession of the mortgaged property.
 
-
-
 **5. Claims by or against executor, administrator or heir.** - No claim by or against an executor, administrator or heir, as such, shall be joined with claims by or against him personally unless the last mentioned claims are alleged to arise with reference to the estate in respect of which the plaintiff or defendant sues or is sued as executor, administrator or heir, or are such as he was entitled to, or liable for, jointly with the deceased person whom he represents.
 
-
-
-**[6. Power of Court to separate trials.** - Where it appears to the Court that the joinder of causes of action in one suit may embarrass or delay the trial or is otherwise inconvenient, the Court may order separate trials or make such other order as may be expedient in the interests of justice.]
-
-
+**6. Power of Court to separate trials.** - Where it appears to the Court that the joinder of causes of action in one suit may embarrass or delay the trial or is otherwise inconvenient, the Court may order separate trials or make such other order as may be expedient in the interests of justice.
 
 **7. Objections as to misjoinder.** - All objections on the ground of misjoinder of causes of action shall be taken at the earliest possible opportunity and, in all cases where issues are settled, at or before such settlement unless the ground of objection has subsequently arisen, and any such objection to so taken shall be deemed to have been waived.
 
-
-
-
-
-
-
-
-
-## Order 3 RECOGNIZED AGENTS AND PLEADERS
+## Order III RECOGNIZED AGENTS AND PLEADERS
 
 **1. Appearances, etc., may be in person, by recognized agent or by pleader.** - Any appearance, application or act in or to any Court, required or authorized by law to be made or done by a party in such Court, may, except where otherwise expressly provided by any law for the time being in force, be made or done by the party in person, or by his recognized agent, or by a pleader [appearing, applying or acting, as the case may be,] on his behalf:
 
-
-
 Provide that any such appearance shall, if the Court so directs, be made by the party in person.
 
-
-
 **2. Recognized agent.** - The recognized agent of parties by whom such appearances, applications and acts may be made or done are-
-
-
 
 (a) persons holding powers-of-attorney, authorizing them to make and do such appearances, applications and acts on behalf of such parties;
 
 (b) persons carrying on trade or business for and in the names of parties not resident within the local limits of the jurisdiction of the Court within which limits the appearance, application or act is made or done, in matters connected with such trade or business only, where no other agent is expressly authorized to make and do such appearances, applications and acts.
 
-
-
-
-
 **3. Service of process on recognized agent.** - (1) Process served on the recognized agent of a party shall be as effectual as if the same had been served on the party in person, unless the Court otherwise directs.
-
-
 
 (2) The provisions for the service of process on a party to a suit shall apply to the service of process on his recognized agent.
 
+**[4. Appointment of pleader.** - (1) No pleader shall act for any person in any Court, unless he has been appointed for the purpose by such person by a document in writing signed by such person or by his recognized agent or by some other person duly authorized by or under a power-of-attorney to make such appointment.
+
+(2) Every such appointment shall be ][filed in Court and shall, for the purposes of sub-rule(1), be] [deemed to be in force until determined with the leave of the Court by a writing singed by the client or the pleader, as the case may be, and filed in Court, or until the client or the pleader dies, or until all proceedings in the suit are ended so far as regards the client.]
 
 
 
+**Explanation.**-For the purposes of this sub-rule, the following shall be deemed to be proceedings in the suit,-(a) an application for the review of decree or order in the suit,(b) an application under section 144 or under section 152 of this Code, in relation to any decree or order made in the suit,(c) an appeal from any decree or order in the suit, and(d) any application or act for the purpose of obtaining copies of documents or return of documents produced or filed in the suit or of obtaining refund of moneys paid into the Court in connection with the suit.][
 
+(3) Nothing in sub-rule (2) shall be construed-(a) as extending, as between the pleader and his client, the duration for which the pleader is engaged, or(b) as authorising service on the pleader of any notice or document issued by any Court other than the Court for which the pleader was engaged, except where such service was expressly agreed to by the client in the document referred in in sub-rule (1)].
 
+(4) The High Court may, by general order, direct that, where the person by whom a pleader is appointed is unable to write his name, his mark upon the document appointing the pleader shall be attested by such person and in such manner as may be specified by the order.
 
-**[4. Appointment of pleader.** - (1) No pleader shall act for any person in any Court, unless he has been appointed for the purpose by such person by a document in writing signed by such person or by his recognized agent or by some other person duly authorized by or under a power-of-attorney to make such appointment.(2) Every such appointment shall be ][filed in Court and shall, for the purposes of sub-rule(1), be] [deemed to be in force until determined with the leave of the Court by a writing singed by the client or the pleader, as the case may be, and filed in Court, or until the client or the pleader dies, or until all proceedings in the suit are ended so far as regards the client.]
+(5) No pleader who has been engaged for the purpose of pleading only shall plead on behalf of any party, unless he has filed in Court a memorandum of appearance signed by himself and stating-
+(a) the names of the parties to the suit,
+(b) the name of the party for whom he appears, and
+(c) the name of the person by whom he is authorized to appear :
 
+Provided that nothing in this sub-rule shall apply to any pleader engaged to plead on behalf of any party by any other pleader who has been duly appointed to act in Court on behalf of such party.
 
-
-[***Explanation.\***-For the purposes of this sub-rule, the following shall be deemed to be proceedings in the suit,-(a) an application for the review of decree or order in the suit,(b) an application under section 144 or under section 152 of this Code, in relation to any decree or order made in the suit,(c) an appeal from any decree or order in the suit, and(d) any application or act for the purpose of obtaining copies of documents or return of documents produced or filed in the suit or of obtaining refund of moneys paid into the Court in connection with the suit.][(3) Nothing in sub-rule (2) shall be construed-(a) as extending, as between the pleader and his client, the duration for which the pleader is engaged, or(b) as authorising service on the pleader of any notice or document issued by any Court other than the Court for which the pleader was engaged, except where such service was expressly agreed to by the client in the document referred in in sub-rule (1)].[(4) The High Court may, by general order, direct that, where the person by whom a pleader is appointed is unable to write his name, his mark upon the document appointing the pleader shall be attested by such person and in such manner as may be specified by the order.(5) No pleader who has been engaged for the purpose of pleading only shall plead on behalf of any party, unless he has filed in Court a memorandum of appearance signed by himself and stating-(a) the names of the parties to the suit,(b) the name of the party for whom he appears, and(c) the name of the person by whom he is authorized to appear :Provided that nothing in this sub-rule shall apply to any pleader engaged to plead on behalf of any party by any other pleader who has been duly appointed to act in Court on behalf of such party.]**5. Service of process on pleader.** - [Any process served on the pleader who has been duly appointed to act in Court for any party] or left at the office or ordinary residence of such pleader, and whether the same is for the personal appearance of the party or not, shall be presumed to be duly communicated and made known to the party whom the pleader represents, and, unless the Court otherwise directs, shall be as effectual for all purposes as if the same had been given to or served on the party in person.
-
-
-
-
+**5. Service of process on pleader.** - [Any process served on the pleader who has been duly appointed to act in Court for any party] or left at the office or ordinary residence of such pleader, and whether the same is for the personal appearance of the party or not, shall be presumed to be duly communicated and made known to the party whom the pleader represents, and, unless the Court otherwise directs, shall be as effectual for all purposes as if the same had been given to or served on the party in person.
 
 **6. Agent to accept service.** - (1) Besides the recognized agents described in rule 2 any person residing within the jurisdiction of the Court may be appointed an agent to accept service of process.
 
-
-
 (2) **Appointment to be in writing and to be filed in Court.-**Such appointment may be special or general and shall be made by a instrument in writing signed by the principal, and such instrument or, if the appointment is general, a certified copy thereof shall be filed in Court.
 
+(3)The Court may, at any stage of the suit, order any party to the suit not having a recognised agent residing within the jurisdiction of the Court, or a pleader who has been duly appointed to act in the Court on his behalf, to appoint, within a specified time, an agent residing within the jurisdiction of the Court to accept service of the procession his behalf.
 
-
-[(3)The Court may, at any stage of the suit, order any party to the suit not having a recognised agent residing within the jurisdiction of the Court, or a pleader who has been duly appointed to act in the Court on his behalf, to appoint, within a specified time, an agent residing within the jurisdiction of the Court to accept service of the procession his behalf.]
-
-
-
-
-
-
-
-
-
-## Order 4 INSTITUTION OF SUITS
+## Order IV INSTITUTION OF SUITS
 
 **1. Suit to be commenced by plaint.** - (1) Every suit shall be instituted by presenting a [plaint in duplicate to the Court] or such officer as it appoints in this behalf.
 
-
-
 (2) Every plaint shall comply with the rules contained in Orders VI and VII, so far as they are applicable.
-
-
 
 [(3) The plaint shall not be deemed to be duly instituted unless it complies with the requirements specified in sub rules (1) and (2).]
 
-
-
 **2. Register of suits.** - The Court shall cause the particulars of every suit to be entered in a book to be kept for the purposes and called the resister of civil suits. Such entries shall be numbered in every year according to the order in which the plaints are admitted.
 
+## Order IV-A Consolidation of Cases
 
+only in UP
 
+**1\. Consolidation of suits and proceedings:** 
 
+## Order V ISSUE AND SERVICE OF SUMMONS
 
+## *Issue of Summons*
 
+**1. Summons..** - (1)When a suit has been duly instituted a summons may be issued to the defendant to appear and answer the claim and to file the written statement of his defence, if any, **within thirty days** from the date of service of summons on that defendants:
 
-.
+Provided that no such summons shall be issued when the defendant has appeared at the presentation of the plaint and admitted the plaintiff's claim :
 
-
-
-
-
-## Order 5 ISSUE AND SERVICE OF SUMMONS
-
-*Issue of Summons*
-
-**1. Summons..** - [(1)When a suit has been duly instituted a summons may be issued to the defendant to appear and answer the claim and to file the written statement of his defence, if any, within thirty days from the date of service of summons on that defendants: Provided that no such summons shall be issued when the defendant has appeared at the presentation of the plaint and admitted the plaintiff's claim :Provided further that where a summons has been issued, the Court may direct the defendant to file the written statement of his defence, if any, on the date of his appearance and cause an entry to be made to that effect in the summons.]
-
-
+Provided further that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the same on such other day as may be specified by the Court, for reasons to be recorded in writing, but which shall not be later than ninety days from the date of service of summons.
 
 (2) A defendant to whom a summons has been issued under sub-rule (1) may appear-
-
-
 
 (a) in person, or
 
@@ -1288,469 +1221,189 @@ Provide that any such appearance shall, if the Court so directs, be made by the 
 
 (3) Every such summons shall be signed by the Judge or such officer as he appoints, and shall be sealed with the seal of the Court.
 
-
-
-**[2. Copy or statement annexed to summons.** - Every summons shall be accompanied by a copy of the plaint.]
-
-
-
-
-
-
-
-
+**2. Copy or statement annexed to summons.** - Every summons shall be accompanied by a copy of the plaint.
 
 **3. Court may order defendant or plaintiff to appear in person.** - (1) where the Court sees reason to require the personal appearance of the defendant, the summons shall order him to appear in person in Court on the day therein specified.
 
-
-
 (2) Where the Court sees reason to require the personal appearance of the plaintiff on the same day, it shall make an order for such appearance.
 
-
-
 **4. No party to be ordered to appear in person unless resident with certain limits.** - No party shall be ordered to appear in person unless he resides-
-
-
 
 (a) within the local limits of the Court's ordinary original jurisdiction, or
 
 (b) without such limits but at place less than fifty or (where there is railway or steamer communication or other established public conveyance for five-sixths of the distance between the place where he resides and the place where the Court is situate) less than two hundred miles distance from the Court-house.
 
-
-
-
-
 **5. Summons to be either to settle issues or for final disposal.** - The Court shall determine, at the time of issuing the summons, whether it shall be for the settlement of issues only, or for the final disposal of the suit; and the summons shall contain a direction accordingly :
-
-
 
 Provided that, in every suit heard by a Court of Small Causes, the summons shall be for the final disposal of the suit.
 
-
-
-
-
-
-
 **6. Fixing day for appearance of defendant.** - The day [under sub-rule (1) of rule 1] shall be fixed with reference to the current business of the Court, the place of residence of the defendant and the time necessary for the service of the summons; and the day shall be so fixed as to allow the defendant sufficient time to enable him to appear and answer on such day.
-
-
 
 **7. Summons to order defendant to produce documents relied on by him.** - The summons to appeal and answer shall order the defendant to produce [all documents or copies thereof specified in rule 1-A of Order VIII] in his possession or power upon which he intends to rely in support of his case.
 
-
-
-
-
-
-
 **8. On issue of summons for final disposal, defendant to be directed to produce his witnesses.** - Where the summons is for the final disposal of the suit, it shall also direct the defendant to produce, on the day fixed for his appearance, all witnesses upon whose evidence he intends to relay in support of his case.
 
-
-
-Service Of Summons
+## Service Of Summons
 
 **9. Delivery or transmission of summons for service.** - (1) Where the defendant resides within the jurisdiction of the Court in which the suit is instituted, or has an agent resident within that jurisdiction who is empowered to accept the service of the summons, the summons shall, unless the Court otherwise directs, be delivered or sent to the proper officer to be served by him or one of his subordinates or to such courier services as are approved by the Court.
 
-
-
 (2) The proper officer may be an officer of a Court other than that in which the suit is instituted, and, where he is such an officer, the summons may be sent to him by post or in such other manner as the Court may direct.
 
+(3) The services of summons may be made by delivering or transmitting a copy thereof by registered post acknowledgment due, addressed to the defendant or his agent empowered to accept the service or by speed post or by such courier services as are approved by the High Court or by the Court referred to in sub-rule (1) or by any other means of transmission of documents (including fax message or electronic mail service) provided by the rules made by the High Court:
 
-
-(3) The services of summons may be made by delivering or transmitting a copy thereof by registered post acknowledgment due, addressed to the defendant or his agent empowered to accept the service or by speed post or by such courier services as are approved by the High Court or by the Court referred to in sub-rule (!) or by any other means of transmission of documents (including fax message or electronic mail service) provided by the rules made by the High Court:
-
-
+Provided that the service of summons under this sub-rule shall be made at the expenses of the plaintiff.
 
 (4) Notwithstanding anything contained in sub-rule (1), where a defendant resides outside the jurisdiction of the Court in which the suit is instituted, and the Court directs that the service of summons on that defendant may be made by such mode of service of dsummons as is referred to in sub-rule (3)(except by registered post acknowledgment due), the provisions of rule 21 shall not apply.
 
-
-
-(5) When aan acknowledgment or any other receipt purporting to be signed by the defendant or his agent is received by the Court or postal article containing the summons is received back by the Court with an endorsement purporting to have been made by a postal employee or by any person authorised by the courier service to the effect that the defendant or his agent had refused to take delivery of the postal article containing the summons or had refused to accept the summons by any other means specified in sub-rule (3) when tendered or transmitted to him, the Court issuing the summons shall declare that the summons had been duly served on the defendant:
-
-
+(5) When an acknowledgment or any other receipt purporting to be signed by the defendant or his agent is received by the Court or postal article containing the summons is received back by the Court with an endorsement purporting to have been made by a postal employee or by any person authorised by the courier service to the effect that the defendant or his agent had refused to take delivery of the postal article containing the summons or had refused to accept the summons by any other means specified in sub-rule (3) when tendered or transmitted to him, the Court issuing the summons shall declare that the summons had been duly served on the defendant:
 
 Provided that where the summons was properly addressed, pre-paid and duly sent by registered post acknowledgment due, the declaration referred to in this sub-rule shall be made nothwithstanding the fact that the acknowledgment having been lost or mislaid, or for nay other reason, has not been received by the Court within thirty days from the date of issue of summons.
 
-
-
 (6) The High Court or the District Judge, as the case may be, shall prepare a panel or courier agencies for the purposes of sub-rule (1).
 
-
+### Dasti Summon Rule 9-A
 
 **9-A. Summons given to the plaintiff for service.-**(1) The Court may, in addition -to the service of summons under rule 9, on the application of the plaintiff for the issue of a summons for the appearance of the defendant, permit such plaintiff to effect service of such summons on such defendant and shall, in such a case, deliver the summons to such plaintiff for service.
 
-
-
 (2) The service of such summons shall be effected by or on behalf of such plaintiff by delivering or tendering to the defendant personally a copy thereof signed by the Judge or such officer of the Court as he may appoint in this behalf and sealed with the seal of the Court or by such mode of service as is referred to in sub-rule (3) of rule 9.
-
-
 
 (3) The provisions of rules 16 and 18 shall apply to a summons personally served under this rule as if the person effecting service were a serving officer.
 
-
-
 (4) If such summons, when tendered, is refused or if the person served refuses to sign an acknowledgment of service or for any reason such summons cannot be served personally, the Court shall, on the application of the party, re- issue such summons to be served by the Court in the same manner as a summons to a defendant.
-
-
-
-
-
-
 
 **10. Mode of service.** - Service of the summons shall be made by delivering or tendering a copy thereof signed by the Judge or such officer as he appoints in this behalf, and sealed with the seal of the Court.
 
-
-
-
-
-
-
-
-
 **11. Service on several defendants.** - Save as otherwise prescribed, where there are more defendants than one, service of the summons shall be made on each defendant.
-
-
 
 **12. Service to be on defendant on person when practicable, or on his agent.** - Wherever it is practicable service shall be made on the defendant in person, unless he has an agent empowered to accept service, in which case service on such agent shall be sufficient.
 
-
-
 **13. Service on agent by whom defendant carries on business.** - (1) In a suit relating to any business or work against a person who does not reside within the local limits of the jurisdiction of the Court from which the summons is issued, service on any manager or agent, who, at the time of service, personally carries on such business or work for such person within such limits, shall be deemed good service.
-
-
 
 (2) For the purpose of this rule the master of a ship shall be deemed to be the agent of the owner or chartered.
 
-
-
 **14. Service on agent in charge in suits for immovable property.** - Where in a suit to obtain relief respecting, or compensation for wrong to, immovable property, service cannot be made on the defendant in person, and the defendant has no agent empowered to accept the service, it may be made on any agent of the defendant in charge of the property.
 
+**15. Where service may be on an adult member of defendant's family.** - Where in any suit the defendant is absent from his residence at the time when the service of summons is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time and he has no agent empowered to accept service of the summons on his behalf service may be made on any adult member of the family, whether male or female, who is residing with him.
 
-
-**[15. Where service may be on an adult member of defendant's family.** - Where in any suit the defendant is absent from his residence at the time when the service of summons is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time and he has no agent empowered to accept service of the summons on his behalf service may be made on any adult member of the family, whether male or female, who is residing with him.***Explanation.\***-A servant is not a member of the family within the meaning of this rule.]
-
-
-
-
-
-
-
-
+***Explanation.\***-A servant is not a member of the family within the meaning of this rule.]
 
 **16. Person served to sign acknowledgement.** - Where the serving officer delivers or tenders a copy of the summons to the defendant personally, or to an agent or other person on his behalf, he shall require the signature of the person to whom the copy is so delivered or tendered to an acknowledgement of service endorsed on the original summons.
 
-
-
 **17. Procedure when defendant refuses to accept service, or cannot be found.** - Where the defendant or his agent or such other person as aforesaid refuses to sign the acknowledgement, or where the serving officer, after using all due and reasonable diligence, cannot find the defendant, [who is absent from his residence at the time when service is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time] and there is no agent empowered to accept service of the summons on his behalf, nor any other person on whom service can be made, the serving officer shall affix a copy of the summons on the outer door or some other conspicuous part of the house in which the defendant ordinarily resides or carries on business or personally works for gain, and shall then return the original to the Court from which it was issued, with a report endorsed thereon or annexed thereto stating that he has so affixed the copy, the circumstances under which he did do, and the name and address of the person (if any) by whom the house was identified and in whose presence the copy was affixed.
-
-
-
-
-
-
-
-
 
 **18. Endorsement of time and manner of service.** - The serving officer shall, in all cases in which the summons has been served under rule 16, endorse or annex, or cause to be endorsed or annexed, on or to the original summons, a return stating the time when and the manner in which the summons was served, and the name and address of the person (if any) identifying the person served and witnessing the delivery or tender of the summons.
 
-
-
-
-
-
-
-
-
 **19. Examination of serving officer..** - Where a summons is returned under rule 17, the Court shall, if the return under that rule has not been verified by the affidavit of the serving officer, and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another Court, touching his proceedings, and may make such further enquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such service as it thinks fit.
-
-
-
-
-
-
-
-
 
 **[19A. Simultaneous issue of summons for service by post in addition to personal service.** .- ]Omitted by the Code of Civil Procedure (Amendment Act 1999 (46 of 1999), section 15 (w.e.f. 1.7.2002).]
 
+### Publication 
 
-
-**20. Substituted service.** - (1) Where the Court is satisfied that there is preason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.
-
-
+**20. Substituted service.** - (1) Where the Court is satisfied that there is reason to believe that the defendant is keeping out of the way for the purpose of avoiding service, or that for any other reason the summons cannot be served in the ordinary way, the Court shall order the summons to be served by affixing a copy thereof in some conspicuous place in the Court-house, and also upon some conspicuous part of the house (if any) in which the defendant is known to have last resided or carried on business or personally worked for gain, or in such other manner as the Court thinks fit.
 
 [(1-A) Where the Court acting under sub-rule (1) orders service by an advertisement in a newspaper, the newspaper shall be a daily newspaper circulating in the locality in which the defendant is last known to have actually and voluntarily resided, carried on business or personally worked for gain.]
 
-
-
 (2) **Effect of substituted service.-**Service substituted by order of the Court shall be as effectual as if it had been made on the defendant personally.
-
-
 
 (3) **Where service substituted, time for appearance to be fixed.-**Where service is substituted by order of the Court, the Court shall fix such time for the appearance of the defendant as the case may require.
 
-
-
-
-
-
-
-
-
 **20-A. [Service of summons by post.]** Repealed by the Code of Civil Procedure (Amendment) Act, 1976 ( 104 of 1976), Section 55 (w.e.f. 1-2-1977).
-
-
-
-
-
-
 
 **21. Service of summons where defendant resides within jurisdiction of another Court.** - A summons may sent by the Court by which it is issued, whether within or without the State, either by one of its officers or by post to any Court (not being the High Court) having jurisdiction in the place where the defendant resides.
 
-
-
-
-
-
-
-
-
 **22. Service within presidency-towns of summons issued by Courts outside.** - Where as summons issued by any Court established beyond the limits of the towns of Calcutta, Madras [and Bombay] is to be served within any such limits, it shall be sent to the Court of Small Causes within whose jurisdiction it is to be served.
-
-
-
-
-
-
-
-
 
 **23. Duty of Court to which summons is sent.** - The Court to which a summons is sent under rule 21 or rule 22 shall, upon receipt thereof, proceed as if it had been issued by such Court and shall then return the summons to the Court of issue, together with the record (if any) of its proceedings with regard thereto.
 
-
-
 **24. Service on defendant in prison.** - Where the defendant is confined in a prison, the summons shall be delivered or sent [by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court] to the officer in charge of the prison for service on the defendant.
-
-
 
 **25. Service where defendant resides out of India and has no agent.** - Where the defendant resides out of [India] and has no agent in [India] empowered to accept service, the summons shall be addressed to the defendant at the place where he is residing and sent to him [by post or by post or by such courier service as may be approved by the High Court, by fax message or by Electronic Mail service or by any other means as may be provided by the rules made by the High Court], if there is postal communication between such place and the place where the Court is situate :
 
-
-
 Provided that where any such defendant [resides in Bangladesh or Pakistan] the summons, together with a copy thereof, may be sent for service on the defendant, to any Court in that country (not being the High Court) having jurisdiction in the place where the defendant resides:
-
-
 
 Provided further that where any such defendant is a public officer [in Bangladesh or Pakistan (not belonging to the Bangladesh or, as the case may be, Pakistan military naval or air forces)] or is servant of a railway company or local authority in that country, the summons, together with a copy thereof, may be sent for service on the defendant, to such officer or authority in that country as the Central Government may, by notification in the Official Gazette, specify in this behalf.
 
+**[26. Service in foreign territory through Political Agent or Court.**- Where-
+(a) in the exercise of any foreign jurisdiction vested in the Central Government, a Political Agent has been appointed, or a Court has been established or continued, with power to serve a summons, issued by a Court under this code, in any foreign territory in which the defendant actually and voluntarily resides, caries on business or personally works for gain, or
+(b) the Central Government has, by notification in the Official Gazette, declared, in respect of any Court situate in any such territory and not established or continued in the exercise of any such jurisdiction as aforesaid, that service by such Court of any summons issued by a Court under this Code shall be deemed to be vaild service, 
 
-
-
-
-
-
-
-
-**[26. Service in foreign territory through Political Agent or Court.**- Where-(a) in the exercise of any foreign jurisdiction vested in the Central Government, a Political Agent has been appointed, or a Court has been established or continued, with power to serve a summons, issued by a Court under this code, in any foreign territory in which the defendant actually and voluntarily resides, caries on business or personally works for gain, or(b) the Central Government has, by notification in the Official Gazette, declared, in respect of any Court situate in any such territory and not established or continued in the exercise of any such jurisdiction as aforesaid, that service by such Court of any summons issued by a Court under this Code shall be deemed to be vaild service, the summons may be sent to such Political Agent or Court, by post, or otherwise, or if so directed by the Central Government, through the Ministry of that Government dealing with foreign affairs, or in such other manner as may be specified by the Central Government for the purpose of being served upon the defendant: and, if the Political Agent or Court returns the summons with an endorsement purporting to have been made by such Political Agent or by the Judge or other officer of the Court to the effect that the summons has been served on the defendant in the manner hereinbefore directed, such endorsement shall be deemed to be evidence of service.
-
-
-
-
+the summons may be sent to such Political Agent or Court, by post, or otherwise, or if so directed by the Central Government, through the Ministry of that Government dealing with foreign affairs, or in such other manner as may be specified by the Central Government for the purpose of being served upon the defendant: and, if the Political Agent or Court returns the summons with an endorsement purporting to have been made by such Political Agent or by the Judge or other officer of the Court to the effect that the summons has been served on the defendant in the manner hereinbefore directed, such endorsement shall be deemed to be evidence of service.
 
 **26A. Summonses to be sent to officer to foreign countries.** - Where the Central Government has, by notification in the Official Gazette, declared in respect of any foreign territory that summonses to be served on defendants actually and voluntarily residing or carrying on business or personally working for gain in that foreign territory may be sent to an officer of the Government of the the foreign territory specified by the Central Government, the summonses may be sent to such officer, through the Ministry of the Government of India dealing with foreign affairs or in such other manner as may be specified by the Central Government; and if such officer returns any such summons with an endorsement purporting to have been made by him that the summons has been served on the defendant, such endorsement shall be deemed to be evidence of service.]
 
-
-
 **27. Service on civil public or on servant of railway officer or on servant of railway company or local authority.** - Where the defendant is a public officer (not belonging to [the Indian] military [naval or air] forces [***], or is the servant of a railway company or local authority, the Court may, if it appears to it that the summons may be most conveniently so served, send it for service on the defendant to the head of the office in which he is employed together with a copy to be retained by the defendant.
-
-
-
-
-
-
 
 **28. Service on soldiers, sailors or airmen.** - Where the defendant is a soldier, [sailor] [or airman], the Court shall send the summons for service to his commanding officer together with a copy to be retained by the defendant.
 
-
-
-
-
-
-
-
-
 **29. Duty of person to whom summons is delivered or sent for service.** - (1) Where a summons is delivered or sent to any person for service under rule 24, rule 27 or rule 28, such person shall be bound to serve it if possible and to return it under his signature, with the written acknowledgement of the defendant, and such signature shall be deemed to be evidence of service.
-
-
 
 (2) Where from any cause service is impossible, the summons shall be returned to the Court with a full statement of such cause and of the steps taken to procure service, and such statement shall be deemed to be evidence of non-service.
 
-
-
-
-
-
-
-
-
 **30. Substitution of letter for summons.** - (1) The Court may, notwithstanding anything hereinbefore contained, substitute for a summons a letter signed by the Judge or such officer as he may appoint in this behalf, where the defendant is, in the opinion of the Court, of a rank entitling him to such mark of consideration.
-
-
 
 (2) A letter substituted under sub-rule (1) shall contain all the particulars required to be stated in a summons, and, subject to the provisions of sub-rule (3), shall be treated in all respects as a summons.
 
-
-
 (3) A letter so substituted may be sent to the defendant by spot or by a special messenger selected by the Court, or in any other manner which the Court thinks fit; and where the defendant has an agent empowered to accept service, the letter may be delivered or sent to such agent.
 
-
-
-
-
-
-
-
-
-
-
-## Order 6 PLEADINGS GENERALLY
+## Order VI PLEADINGS GENERALLY
 
 **1. Pleading.** - "Pleading", shall mean plaint or written statement.
 
+**2. Pleading to state material facts and not evidence.**- (1) Every pleading shall contain, and contain only a statement in a concise form of the material facts on which the party pleading relies for his claim or defnece as the case may be, but not the evidence by which they are to be proved.
 
+(2) Every pleading shall, when necessary, be devided into paragraphs, numbered consecutively, each allegation being, so far as is convenient, contained in a separate paragraph.
 
-**[2. Pleading to state material facts and not evidence.**- (1) Every pleading shall contain, and contain only a statement in a concise form of the material facts on which the party pleading relies for his claim or defnece as the case may be, but not the evidence by which they are to be proved.(2) Every pleading shall, when necessary, be devided into paragraphs, numbered consecutively, each allegation being, so far as is convenient, contained in a separate paragraph.(3) Dates, sums and numbers shall be expressed in a pleading in figures as well as in words.]
-
-
+(3) Dates, sums and numbers shall be expressed in a pleading in figures as well as in words.
 
 **3. Forms of pleading.** - The forms in Appendix A when applicable, and where they are not applicable forms of the like character, nearly as may be, shall be used for all pleadings.
 
-
-
 **4. Particulars to be given where necessary.** - In all cases in which the party pleading relies on any misrepresentation, fraud, breach of trust, wilful default, or undue influence, and in all other cases in which particulars may be necessary beyond such as are exemplified in the forms aforesaid, particulars (with dates and items if necessary) shall be stated in the pleading.
-
-
-
-
-
-
 
 **5. Further and better statement, or particulars.** -*[Omitted by the Code of Civil Procedure (Amendment) Act, 1999 (46 of 1999), section 16 (w.e.f. 1.7.2002).]*
 
-
-
-
-
-
-
-
-
 **6. Condition precedent.** - Any condition precedent, the performance or occurrence of which is intended to be contested, shall be distinctly specified in his pleading by the plaintiff or defendant, as the case my be; and, subject thereto, an avernment of the performance or occurrence of all conditions precedent necessary for the case of the plaintiff or defendant shall be implied in his pleading.
-
-
 
 **7. Departure.** - No pleading shall, except by way of amendment, raise any new ground of claim or contain any allegation of fact inconsistent with the previous pleadings of the party pleading the same.
 
-
-
 **8. Denial of contract.** - Where a contract is alleged in any pleading, a bare denial of the same by the opposite party shall be construed only as a denial in fact of the express contract alleged or of the matters of fact from which the same may be implied and not as a denial of the legality or sufficiency in law of such contract.
-
-
 
 **9. Effect of document to be stated..** - Wherever the contents of any document are material, it shall be sufficient in any pleading to state the effect thereof as briefly as possible, without setting out the whole or any part thereof, unless the precise words of the document or any part thereof are material.
 
-
-
 **10. Malice, knowledge, etc.,.** - Wherever it is material to allege malice, fraudulent intention, knowledge or other condition of the mind of any person, it shall be sufficient to allege the same as a fact without setting out the circumstances from which the same is to be inferred.
-
-
 
 **11. Notice.** - Wherever it is material to allege notice to any person of any fact, mater or thing, it shall be sufficient to allege such notice as a fact, unless the form or the precise terms of such notice, or the circumstances from which such notice is to be inferred are material.
 
-
-
 **12. Implied contract, or relation.** - Wherever any contract or any relation between any persons is to be implied from a series of letters or conversations or otherwise from a number of circumstances it shall be sufficient to allege such contract or relation as a fact, and to refer generally to such letter, conversations or circumstances without setting them out in detail. And if in such case the person so pleading desires to rely in the alternative upon more contracts or relations than one as to be implied from such circumstances, he may state the same in the alternative.
-
-
 
 **13. Presumptions of law.** - Neither party need in any pleading allege any matter of fact which the law presumes in his favour or as to which the burden of proof lies upon the other side unless the same has first been specifically denied (e.g. consideration for a bill of exchange where the plaintiff sues only on the bill and not for the consideration as a substantive ground of claim.)
 
-
-
 **14. Pleading to be signed.** - Every pleading shall be signed by the party and his pleader (if any) :
-
-
 
 Provided that where a party pleading is, by reason of absence or for other good cause, unable to sign the pleading it may be signed by any person duly authorized by him to sign the same or to sue or defend on his behalf.
 
-
-
-
-
-
-
-
-
 **[14A. Address for service of notice.** - (1) Every pleading, when filed by a party, shall be accompanied by a statement in the prescribed form, signed as provided in rule 14, regarding the address of the party.(2) Such address may, from time to time, be changed by lodging in Court a form duly filled up and stating the new address of the party and accompanied by a verified petition.(3) The address furnished in the statement made sub-rule (1) shall be called the "registered address" of the party, and shall, until duly changed as aforesaid, be deemed to be the address of the party for the purpose of service of all processes in the suit of in any appeal from any decree or order therein made and for the purpose of execution, and shall hold good, subject as aforesaid, for a period of two years after the final determination of the cause or matter.(4) Service of any process may be effected upon a party at his registered address in all respects as though such party resided there at.(5) Where the registered address of a party is discovered by the court to be incomplete, false or fictitious, the Court may, either on its own motion, or on the application of any party, order-(a) in the case where such registered address was furnished by a plaintiff, stay of the suit, or(b) in the case where such registered address was furnished by a defendant, his be struck out and he be placed in the same position as if he had not put up and defence.(6) Where a suit is stayed or a defence is struck out under sub-rule (5), the plaintiff or, as the case may be, the defendant may, after furnishing his true address, apply to the Court for an order to set aside the order of stay or, as the case may be, the order striking out the defence.(7) the Court, if satisfied that the party was prevented by any sufficient cause from filing the true address at the proper time, shall set aside the order of stay or order striking out the defence, on such term as to costs or otherwise as it thinks fit and shall appoint a day for proceeding with the suit or defence, as the case may be.(8) Nothing in this rule shall prevent the Court from directing the service of a process at any other address, if, for any reason, it thinks fit to do so.]
-
-
-
-
-
-
-
-
 
 **15. Verification of pleadings.** - (1) Save as otherwise provided by any law for the time being in force, every pleading shall be varied at the foot by the party or by one of the parties pleading or by some other person proved to the satisfaction of the Court to be acquainted with the facts of the case.
 
-
-
 (2) The person verifying shall specify, by reference to the numbered paragraphs of the pleading, what he verifies of his own knowledge and what he verifies upon information received and believed to be true.
-
-
 
 (3) The verification shall be signed by the person making it and shall state the date on which and the place at which it was signed.
 
-
-
 [(4) The person verifying the pleading shall also furnish an affidavit in support of his pleadings.]
 
+**16. Striking out pleadings.** - The Court may at any stage of the proceedings order to be struck out or amended any matter in any pleading-
 
+(a) which may be unnecessary, scandalous, frivolous or vexatious, or
 
+(b) which may tend to prejudice, embarrass or delay the fair trail of the suit, or
 
-
-
-
-
-
-**[16. Striking out pleadings.** - The Court may at any stage of the proceedings order to be struck out or amended any matter in any pleading-(a) which may be unnecessary, scandalous, frivolous or vexatious, or(b) which may tend to prejudice, embarrass or delay the fair trail of the suit, or
-
-(c) which is otherwise an abuse of the process of the Court.]
+(c) which is otherwise an abuse of the process of the Court.
 
 **[17. Amendment of pleadings.** - The Court may at any stage of the proceedings allow either party to alter or amend his pleadings in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties:Provided that no application for amendment shall be allowed after the trial has commenced, unless the Court comes to the conclusion that in spite of due diligence, the party could not have raised the matter before the commencement of trial.]
 
-
-
-
-
-
-
-
-
 **18. Failure to amend after order.** - If a party who has obtained an order for leave to amend does not amend accordingly within the time limited for that purpose by the order, or if no time is thereby limited then within fourteen days from the date of the order, he shall not be permitted to amend after the expiration of such limited time as aforesaid or of such fourteen days, as the case may be, unless the time is extended by the Court.
 
-
-
-
-
-
-
-
-
-
-
-## Order 7 PLAINT
+## Order VII PLAINT
 
 **1. Particulars to be contained in plaint.** - The plaint shall contain the following particulars:-
 
