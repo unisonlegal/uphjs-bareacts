@@ -3678,22 +3678,20 @@ Where any such case is heard before a Bench of Judges and such Judges are equall
 
 ### 371. Procedure in cases submitted to High Court for confirmation. 
 
-
 In cases submitted by the Court of Session to the High Court for the confirmation of a sentence of death, the proper officer of the High Court shall, without delay, after the order of confirmation or other order has been made by the High Court, send a copy of the order, under the seal of the High Court and attested with his official signature, to the Court of Session.
-CHAPTER XXIX
 
-Appeals
+## CHAPTER XXIX Appeals
 
 ### 372. No appeal to lie unless otherwise provided. 
 
-
 No appeal shall lie from any judgment or order of a Criminal Court except as provided for by this Code or by any other law for the time being in force.
+
 [Provided that the victim shall have a right to prefer an appeal against any order passed by the Court acquitting the accused or convicting for a lesser offence or imposing inadequate compensation, and such appeal shall lie to the Court to which an appeal ordinarily lies against the order of conviction of such Court.]
 
 ### 373. Appeal from orders requiring security or refusal to accept or rejecting surety for keeping peace or good behaviour. 
 
-
 Any person, -
+
 (i) who has been ordered under Section 117 to give security for keeping the peace or for good behaviour, or
 
 (ii) who is aggrieved by any order refusing to accept or rejecting a surety under Section 121, may appeal against such order to the Court of Session :
