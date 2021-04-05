@@ -1,24 +1,6 @@
-[![CaseMine Logo](https://www.casemine.com/images/logo.png)](https://www.casemine.com/)
-
-
-
-All
-
-[Citation Search](https://www.casemine.com/citationsearch)
-
-[Select Case/Topic](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#)[CaseIQTM](https://www.casemine.com/caseiq)[AttorneyIQ](https://www.casemine.com/lawyers/recommend/in)
-
-![India Judgments](https://www.casemine.com/images/icons/ind.png)
-
-
-
-# ACT 002 OF 1974 : CRIMINAL PROCEDURE CODE, 1973
-
-- Text
-
 # Criminal Procedure Code, 1973
 
-ACTNO. 2 OF 1974
+ACT NO. 2 OF 1974
 
 01 January, 1976
 
@@ -196,9 +178,7 @@ Chapter I
 
 PRELIMINARY
 
-## Section 1. Short title, extent and commencement
-
-
+## Section 1. Short title, extent and commencement 
 
 (1) This Act may be called the Code of Criminal Procedure, 1973.
 
@@ -220,13 +200,9 @@ but the concerned State Government may, by notification, apply such provisions o
 
 *Explanation*. In this section, tribal areas means the territories which immediately before the 21st day of January, 1972, were included in the tribal areas of Assam, as referred to in Paragraph 20 of the Sixth Schedule to the Constitution, other than those within the local limits of the municipality of Shillong.
 
-(3) It shall come into force on the 1st day of April, 1974.
+(3) It shall come into force on the 1st day of April, 1974. 
 
-
-
-## Section 2. Definitions
-
-
+## Section 2. Definitions 
 
 In this Code, unless the context otherwise requires,
 
@@ -290,13 +266,9 @@ In this Code, unless the context otherwise requires,
 
 (*y*) words and expressions used herein and not defined but defined in the Indian Penal Code (45 of 1860) have the meanings respectively assigned to them in that Code.
 
-**Corresponding Law:** S. 4 of Act V of 1898.
+**Corresponding Law:** S. 4 of Act V of 1898. 
 
-
-
-## Section 3. Construction of references
-
-
+## Section 3. Construction of references 
 
 (1) In this Code,
 
@@ -352,9 +324,7 @@ STATE AMENDMENTS
 
 (5) Notwithstanding anything contained in the foregoing provisions of this sub-section,
 
-(*i*) any reference in such of the provisions of this Code, as apply to the Union territories of Arunachal Pradesh and Mizoram, to the Courts mentioned in Column (1) of the Table below shall, until the Courts of Session and Courts of Judicial Magistrates are constituted in the said Union territories be construed as references to the Court of Magistrate mentioned in the corresponding entry in Column (2) of that Table:
-
-
+(*i*) any reference in such of the provisions of this Code, as apply to the Union territories of Arunachal Pradesh and Mizoram, to the Courts mentioned in Column (1) of the Table below shall, until the Courts of Session and Courts of Judicial Magistrates are constituted in the said Union territories be construed as references to the Court of Magistrate mentioned in the corresponding entry in Column (2) of that Table: 
 
 | **TABLE**                                                    |                       |
 | ------------------------------------------------------------ | --------------------- |
@@ -362,19 +332,13 @@ STATE AMENDMENTS
 | Court of Session or Sessions Judge or Chief Judicial Magistrate. | District Magistrate   |
 | Magistrate or Magistrate of the first class or Judicial Magistrate of the first class. | Executive Magistrate. |
 
-
-
-
-
 (*ii*) the functions mentioned in clause (*a*) of sub-section (4) shall be exercisable by an Executive Magistrate. Noti. No. Jud. 25/74, dt. 2-4-1974.
 
 **Nagaland**. In its application to the State of Nagaland, after sub-section (4), the following sub-section shall be *inserted*, namely:
 
 (5) Notwithstanding anything contained in the foregoing provisions of this sub-section,
 
-(*i*) any reference in such of the provisions of this Code, as apply to the State of Nagaland to the Court and authority mentioned in Column (1) of the Table below shall, until the Courts of Session and Court of Judicial Magistrates are constituted in the said areas, be construed, as references to the Court and authority mentioned in the corresponding entry in Column (2) of that Table:
-
-
+(*i*) any reference in such of the provisions of this Code, as apply to the State of Nagaland to the Court and authority mentioned in Column (1) of the Table below shall, until the Courts of Session and Court of Judicial Magistrates are constituted in the said areas, be construed, as references to the Court and authority mentioned in the corresponding entry in Column (2) of that Table: 
 
 | **TABLE**                                                    |                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------ |
@@ -382,31 +346,19 @@ STATE AMENDMENTS
 | Court of Session or Sessions Judge or Chief Judicial Magistrate. | District Magistrate or Additional District Magistrate. |
 | Magistrate or Magistrate of the first class or Judicial Magistrate of the first class. | Executive Magistrate                                   |
 
-
-
-
-
 (*ii*) references mentioned in sub-section (3) to a Judicial Magistrate and functions mentioned in sub-section (4) exercisable by a Judicial Magistrate and Executive Magistrate shall be construed as reference to, and exercised by, Deputy Commissioner and Additional Deputy Commissioner and Assistant to Deputy Commissioner appointed under any law in force:
 
-Provided that an Assistant to Deputy Commissioner shall exercise such powers of a Judicial Magistrate as may be invested by the Governor. [Nagaland Gaz., dt. 19-6-1975, Extraordinary, No. 15]
+Provided that an Assistant to Deputy Commissioner shall exercise such powers of a Judicial Magistrate as may be invested by the Governor. [Nagaland Gaz., dt. 19-6-1975, Extraordinary, No. 15] 
 
-
-
-## Section 4. Trial of offences under the Indian Penal Code and other laws
-
-
+## Section 4. Trial of offences under the Indian Penal Code and other laws 
 
 (1) All offences under the Indian Penal Code (45 of 1860) shall be investigated, inquired into, tried, and otherwise dealt with according to the provisions hereinafter contained.
 
 (2) All offences under any other law shall be investigated, inquired into, tried, and otherwise dealt with according to the same provisions, but subject to any enactment for the time being in force regulating the manner or place of investigating, inquiring into, trying or otherwise dealing with such offences.
 
-**Corresponding Law:** S. 5 of Act V of 1898.
+**Corresponding Law:** S. 5 of Act V of 1898. 
 
-
-
-## Section 5. Saving
-
-
+## Section 5. Saving 
 
 Nothing contained in this Code shall, in the absence of a specific provision to the contrary, affect any special or local law for the time being in force, or any special jurisdiction or power conferred, or any special form of procedure prescribed, by any other law for the time being in force.
 
@@ -414,13 +366,9 @@ Nothing contained in this Code shall, in the absence of a specific provision to 
 
 Chapter II
 
-CONSTITUTION OF CRIMINAL COURTS AND OFFICES
+CONSTITUTION OF CRIMINAL COURTS AND OFFICES 
 
-
-
-## Section 6. Classes of Criminal Courts
-
-
+## Section 6. Classes of Criminal Courts 
 
 Besides the High Courts and the Courts constituted under any law, other than this Code, there shall be, in every State, the following classes of Criminal Courts, namely:
 
@@ -432,13 +380,9 @@ Besides the High Courts and the Courts constituted under any law, other than thi
 
 (*iv*) Executive Magistrates.
 
-**Corresponding Law:** S. 6 of Act V of 1898.
+**Corresponding Law:** S. 6 of Act V of 1898. 
 
-
-
-## Section 7. Territorial divisions
-
-
+## Section 7. Territorial divisions 
 
 (1) Every State shall be a sessions division or shall consist of sessions divisions; and every sessions division shall, for the purposes of this Code, be a district or consist of districts:
 
@@ -458,13 +402,9 @@ Provided that every metropolitan area shall, for the said purposes, be a separat
 
 (4) The sessions divisions, districts and sub-divisions existing in a State at the commencement of this Code, shall be deemed to have been formed under this section.
 
-**Corresponding Law:** Ss. 7(3) and 3(2) of Act V of 1898.
+**Corresponding Law:** Ss. 7(3) and 3(2) of Act V of 1898. 
 
-
-
-## Section 8. Metropolitan areas
-
-
+## Section 8. Metropolitan areas 
 
 (1) The State Government may, by notification, declare that, as from such date as may be specified in the notification, any area in the State comprising a city or town whose population exceeds one million shall be a metropolitan area for the purposes of this Code.
 
@@ -496,13 +436,9 @@ Provided that
 
 (*c*) after sub-section (4), the following sub-section shall be *inserted*, namely
 
-(4-A) Where any metropolitan area is divided under sub-section (3), the High Court may issue such directions as it deems fit with respect to the disposal of the proceedings pending immediately before such division before any Magistrate or Court having jurisdiction in respect of such area. . [*Vide* Delhi Act No. 9 of 2011, S. 2 (w.e.f. the date to be notified)]
+(4-A) Where any metropolitan area is divided under sub-section (3), the High Court may issue such directions as it deems fit with respect to the disposal of the proceedings pending immediately before such division before any Magistrate or Court having jurisdiction in respect of such area. . [*Vide* Delhi Act No. 9 of 2011, S. 2 (w.e.f. the date to be notified)] 
 
-
-
-## Section 9. Court of Session
-
-
+## Section 9. Court of Session 
 
 (1) The State Government shall establish a Court of Session for every sessions division.
 
@@ -550,25 +486,17 @@ Provided that the Court of Session may hold, or the High Court may direct the Co
 
 Provided that notwithstanding anything to the contrary contained in this Code, an additional Sessions Judge in a sub-division, other than the sub-division, by whatever name called, wherein the headquarters of the Sessions Judge are situated, exercising jurisdiction in a Court of Session, shall have all the powers of the Sessions Judge under this Code, in respect of the cases and proceedings in the Criminal Courts in that sub-division, for the purposes of sub-section (7) of Section 116, Sections 193 and 194, clause (*a*) of Section 209 and Sections 409, 439 and 449:
 
-Provided further that the above powers shall not be in derogation of the powers otherwise exercisable by an Additional Sessions Judge or a Sessions Judge under this Code. [*Vide* W.B. Act 24 of 1988, S. 3 (*w.e.f. a date to be notified*)]
+Provided further that the above powers shall not be in derogation of the powers otherwise exercisable by an Additional Sessions Judge or a Sessions Judge under this Code. [*Vide* W.B. Act 24 of 1988, S. 3 (*w.e.f. a date to be notified*)] 
 
-
-
-## Section 10. Subordination of Assistant Sessions Judges
-
-
+## Section 10. Subordination of Assistant Sessions Judges 
 
 (1) All Assistant Sessions Judges shall be subordinate to the Sessions Judge in whose Court they exercise jurisdiction.
 
 (2) The Sessions Judge may, from time to time, make rules consistent with this Code, as to the distribution of business among such Assistant Sessions Judges.
 
-(3) The Sessions Judge may also make provision for the disposal of any urgent application, in the event of his absence or inability to act, by an Additional or Assistant Sessions Judge, or, if there be no Additional or Assistant Sessions Judge, by the Chief Judicial Magistrate, and every such Judge or Magistrate shall be deemed to have jurisdiction to deal with any such application.
+(3) The Sessions Judge may also make provision for the disposal of any urgent application, in the event of his absence or inability to act, by an Additional or Assistant Sessions Judge, or, if there be no Additional or Assistant Sessions Judge, by the Chief Judicial Magistrate, and every such Judge or Magistrate shall be deemed to have jurisdiction to deal with any such application. 
 
-
-
-## Section 11. Courts of Judicial Magistrates
-
-
+## Section 11. Courts of Judicial Magistrates 
 
 (1) In every district (not being a metropolitan area), there shall be established as many Courts of Judicial Magistrates of the first class and of the second class, and at such places, as the State Government may, after consultation with the High Court, by notification, specify:
 
@@ -608,13 +536,9 @@ STATE AMENDMENTS
 
 (1-A) The State Government may likewise establish as many Courts of Judicial Magistrates of the first class and of the second class in respect to particular cases, or to a particular class or particular classes of cases, or in regard to cases generally, in any local area. U.P. Act 16 of 1976, S. 3.
 
-(*See also* provision on *validation* given with U.P. Amendment under Section 13.)
+(*See also* provision on *validation* given with U.P. Amendment under Section 13.) 
 
-
-
-## Section 12. Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc
-
-
+## Section 12. Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc 
 
 (1) In every district (not being a metropolitan area), the High Court shall appoint a Judicial Magistrate of the first class to be the Chief Judicial Magistrate.
 
@@ -632,13 +556,9 @@ STATE AMENDMENTS
 
 **Uttar Pradesh**. In Section 12 of the said Code, after sub-section (3), the following sub-section shall be *inserted*, namely:
 
-(4) Where the Office of the Chief Judicial Magistrate is vacant or he is incapacitated by illness, absence or otherwise for the performance of his duties, the senior-most among the Additional Chief Judicial Magistrates and other Judicial Magistrates present at the place, and in their absence the District Magistrate and in his absence the senior-most Executive Magistrate shall dispose of the urgent work of the Chief Judicial Magistrate. U.P. Act 1 of 1984, S. 3, w.e.f. 1-5-1984.
+(4) Where the Office of the Chief Judicial Magistrate is vacant or he is incapacitated by illness, absence or otherwise for the performance of his duties, the senior-most among the Additional Chief Judicial Magistrates and other Judicial Magistrates present at the place, and in their absence the District Magistrate and in his absence the senior-most Executive Magistrate shall dispose of the urgent work of the Chief Judicial Magistrate. U.P. Act 1 of 1984, S. 3, w.e.f. 1-5-1984. 
 
-
-
-## Section 13. Special Judicial Magistrates
-
-
+## Section 13. Special Judicial Magistrates 
 
 (1) The High Court may, if requested by the Central or State Government so to do, confer upon any person who holds or has held any post under the Government, all or any of the powers conferred or conferrable by or under this Code on a Judicial Magistrate [7](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_7)[of the first class or of the second class, in respect to particular cases or to particular classes of cases, in any local area, not being a metropolitan area:]
 
@@ -674,13 +594,9 @@ Provided that any person who is holding the office of Special Judicial Magistrat
 
 *Validation*. Notwithstanding any judgment, decree or order of any Court,
 
-(*a*) any notification of the State Government issued before November 28, 1975 purporting to establish any Court of Judicial Magistrates having jurisdiction over more than one district shall be deemed to have been issued under Section 11 read with Section 13 of the said Code as amended by this Act and be deemed to be and always to have been valid. U.P. Act 16 of 1976, Ss. 4 and 11.
+(*a*) any notification of the State Government issued before November 28, 1975 purporting to establish any Court of Judicial Magistrates having jurisdiction over more than one district shall be deemed to have been issued under Section 11 read with Section 13 of the said Code as amended by this Act and be deemed to be and always to have been valid. U.P. Act 16 of 1976, Ss. 4 and 11. 
 
-
-
-## Section 14. Local jurisdiction of Judicial Magistrates
-
-
+## Section 14. Local jurisdiction of Judicial Magistrates 
 
 (1) Subject to the control of the High Court, the Chief Judicial Magistrate may, from time to time, define the local limits of the areas within which the Magistrates appointed under Section 11 or under Section 13 may exercise all or any of the powers with which they may respectively be invested under this Code:
 
@@ -698,13 +614,9 @@ SECTION 14-A
 
 **Maharashtra**. After Section 14, the following section shall be *inserted*, namely:
 
-14-A. *Investing Judicial Magistrates with jurisdiction in specified cases or local area*. The High Court may invest any Judicial Magistrate with all or any of the powers conferred or conferrable by or under this Code upon a Judicial Magistrate in respect to particular cases or to a particular class or classes of cases or in regard to cases generally in any local area consisting of all or any of the districts specified by it in this behalf. Maharashtra Act 23 of 1976, S. 2, w.e.f. 9-6-1976.
+14-A. *Investing Judicial Magistrates with jurisdiction in specified cases or local area*. The High Court may invest any Judicial Magistrate with all or any of the powers conferred or conferrable by or under this Code upon a Judicial Magistrate in respect to particular cases or to a particular class or classes of cases or in regard to cases generally in any local area consisting of all or any of the districts specified by it in this behalf. Maharashtra Act 23 of 1976, S. 2, w.e.f. 9-6-1976. 
 
-
-
-## Section 15. Subordination of Judicial Magistrates
-
-
+## Section 15. Subordination of Judicial Magistrates 
 
 (1) Every Chief Judicial Magistrate shall be subordinate to the Sessions Judge; and every other Judicial Magistrate shall, subject to the general control of the Sessions Judge, be subordinate to the Chief Judicial Magistrate.
 
@@ -716,13 +628,9 @@ STATE AMENDMENTS
 
 **Bihar**. After sub-section (2) of Section 15 the following sub-section shall be *substituted* and shall be deemed always to have been *substituted*, namely:
 
-(3) Any Judicial Magistrate exercising powers over any local area extending beyond the district in which he holds his court shall be subordinate to the Chief Judicial Magistrate of the said district and reference in this Code to the Sessions Judge shall be deemed to be reference to the Sessions Judge of that district where he holds his court. Bihar Act 8 of 1977, S. 4 (w.e.f. 10-1-1977).
+(3) Any Judicial Magistrate exercising powers over any local area extending beyond the district in which he holds his court shall be subordinate to the Chief Judicial Magistrate of the said district and reference in this Code to the Sessions Judge shall be deemed to be reference to the Sessions Judge of that district where he holds his court. Bihar Act 8 of 1977, S. 4 (w.e.f. 10-1-1977). 
 
-
-
-## Section 16. Courts of Metropolitan Magistrates
-
-
+## Section 16. Courts of Metropolitan Magistrates 
 
 (1) In every metropolitan area, there shall be established as many Courts of Metropolitan Magistrates, and at such places, as the State Government may, after consultation with the High Court, by notification, specify.
 
@@ -736,25 +644,17 @@ STATE AMENDMENTS
 
 **Uttar Pradesh**. In Section 16 of the said Code, after sub-section (3), the following sub-section shall be *inserted*, namely:
 
-(4) Where the Office of the Chief Metropolitan Magistrate is vacant or he is incapacitated by illness, absence or otherwise for the performance of his duties, the senior-most among the Additional Chief Metropolitan Magistrates and other Metropolitan Magistrates present at the place, shall dispose of the urgent work of the Chief Metropolitan Magistrate. U.P. Act 1 of 1984, S. 4 (w.e.f. 1-5-1984).
+(4) Where the Office of the Chief Metropolitan Magistrate is vacant or he is incapacitated by illness, absence or otherwise for the performance of his duties, the senior-most among the Additional Chief Metropolitan Magistrates and other Metropolitan Magistrates present at the place, shall dispose of the urgent work of the Chief Metropolitan Magistrate. U.P. Act 1 of 1984, S. 4 (w.e.f. 1-5-1984). 
 
-
-
-## Section 17. Chief Metropolitan Magistrate and Additional Chief Metropolitan Magistrate
-
-
+## Section 17. Chief Metropolitan Magistrate and Additional Chief Metropolitan Magistrate 
 
 (1) The High Court shall, in relation to every metropolitan area within its local jurisdiction, appoint a Metropolitan Magistrate to be the Chief Metropolitan Magistrate for such metropolitan area.
 
 (2) The High Court may appoint any Metropolitan Magistrate to be an Additional Chief Metropolitan Magistrate, and such Magistrate shall have all or any of the powers of a Chief Metropolitan Magistrate under this Code or under any other law for the time being in force as the High Court may direct.
 
-**Corresponding Law:** S. 18 of Act V of 1898.
+**Corresponding Law:** S. 18 of Act V of 1898. 
 
-
-
-## Section 18. Special Metropolitan Magistrates
-
-
+## Section 18. Special Metropolitan Magistrates 
 
 (1) The High Court may, if requested by the Central or State Government so to do, confer upon any person who holds or has held any post under the Government, all or any of the powers conferred or conferrable by or under this Code on a Metropolitan Magistrate, in respect to particular cases or to particular classes of cases [11](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_11)[* * *], in any metropolitan area within its local jurisdiction:
 
@@ -772,13 +672,9 @@ STATE AMENDMENTS
 
 Provided that a person who is holding the office of Special Metropolitan Magistrate at the commencement of the Code of Criminal Procedure (Andhra Pradesh Amendment) Act, 1992, and has not completed sixty five years of age shall continue to hold office for a term of two years from the date of his appointment . A.P. Act 2 of 1992, S. 2 (w.e.f. a date to be notified).
 
-**Maharashtra**. In Section 18, in sub-section (1), for the words in any metropolitan area the words in one or more metropolitan areas shall be *substituted*. Maharashtra Act 23 of 1976, S. 3, w.e.f. 9-6-1976.
+**Maharashtra**. In Section 18, in sub-section (1), for the words in any metropolitan area the words in one or more metropolitan areas shall be *substituted*. Maharashtra Act 23 of 1976, S. 3, w.e.f. 9-6-1976. 
 
-
-
-## Section 19. Subordination of Metropolitan Magistrates
-
-
+## Section 19. Subordination of Metropolitan Magistrates 
 
 (1) The Chief Metropolitan Magistrate and every Additional Chief Metropolitan Magistrate shall be subordinate to the Sessions Judge; and every other Metropolitan Magistrate shall, subject to the general control of the Sessions Judge, be subordinate to the Chief Metropolitan Magistrate.
 
@@ -786,13 +682,9 @@ Provided that a person who is holding the office of Special Metropolitan Magistr
 
 (3) The Chief Metropolitan Magistrate may, from time to time, make rules or give special orders, consistent with this Code, as to the distribution of business among the Metropolitan Magistrates and as to the allocation of business to an Additional Chief Metropolitan Magistrate.
 
-**Corresponding Law:** S. 21 of Act V of 1898.
+**Corresponding Law:** S. 21 of Act V of 1898. 
 
-
-
-## Section 20. Executive Magistrates
-
-
+## Section 20. Executive Magistrates 
 
 (1) In every district and in every metropolitan area, the State Government may appoint as many persons as it thinks fit to be Executive Magistrates and shall appoint one of them to be the District Magistrate.
 
@@ -812,33 +704,21 @@ STATE AMENDMENTS
 
 **Uttar Pradesh**. In Section 20 of the said Code, after sub-section (5), the following sub-section shall be *inserted*, namely,
 
-(6) the State Government may delegate its powers under sub-section (4) to the District Magistrate U.P. Act 1 of 1984, S. 5 (w.e.f. 1-5-1984).
+(6) the State Government may delegate its powers under sub-section (4) to the District Magistrate U.P. Act 1 of 1984, S. 5 (w.e.f. 1-5-1984). 
 
-
-
-## Section 21. Special Executive Magistrates
-
-
+## Section 21. Special Executive Magistrates 
 
 The State Government may appoint, for such term as it may think fit, Executive Magistrates, to be known as Special Executive Magistrates, for particular areas or for the performance of particular functions and confer on such Special Executive Magistrates such of the powers as are conferrable under this Code on Executive Magistrates, as it may deem fit.
 
-**Corresponding Law:** S. 13 of Act V of 1898.
+**Corresponding Law:** S. 13 of Act V of 1898. 
 
-
-
-## Section 22. Local Jurisdiction of Executive Magistrates
-
-
+## Section 22. Local Jurisdiction of Executive Magistrates 
 
 (1) Subject to the control of the State Government, the District Magistrate may, from time to time, define the local limits of the areas within which the Executive Magistrates may exercise all or any of the powers with which they may be invested under this Code.
 
-(2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.
+(2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district. 
 
-
-
-## Section 23. Subordination of Executive Magistrates
-
-
+## Section 23. Subordination of Executive Magistrates 
 
 (1) All Executive Magistrates, other than the Additional District Magistrate, shall be subordinate to the District Magistrate, and every Executive Magistrate (other than the Sub-Divisional Magistrate) exercising powers in a sub-division shall also be subordinate to the Sub-Divisional Magistrate, subject, however, to the general control of the District Magistrate.
 
@@ -846,13 +726,9 @@ The State Government may appoint, for such term as it may think fit, Executive M
 
 (2) The District Magistrate may, from time to time, make rules or give special orders, consistent with this Code, as to the distribution of business among the Executive Magistrates subordinate to him and as to the allocation of business to an Additional District Magistrate.
 
-**Corresponding Law:** S. 17 of Act V of 1898.
+**Corresponding Law:** S. 17 of Act V of 1898. 
 
-
-
-## Section 24. Public Prosecutors
-
-
+## Section 24. Public Prosecutors 
 
 [16](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_16)[(1) For every High Court, the Central Government or the State Government shall, after consultation with the High Court, appoint a Public Prosecutor and may also appoint one or more Additional Public Prosecutors, for conducting in such Court, any prosecution, appeal or other proceeding on behalf of the Central Government or State Government, as the case may be.
 
@@ -968,13 +844,9 @@ but subject to the provisions of sub-section (6-A)
 
 **West Bengal**. (1) In sub-section (6) of Section 24 for the words shall appoint a Public Prosecutor or an Additional Public Prosecutor only , the words may also appoint a Public Prosecutor or an Additional Public Prosecutor shall be *substituted*. W.B. Act 26 of 1990, S. 3 (w.e.f. the notified date).
 
-(2) In sub-section (6) of Section 24 of the Principal Act, the proviso shall be *omitted*. *vide* W.B. Act 25 of 1992, S. 3 (w.e.f. the notified date).
+(2) In sub-section (6) of Section 24 of the Principal Act, the proviso shall be *omitted*. *vide* W.B. Act 25 of 1992, S. 3 (w.e.f. the notified date). 
 
-
-
-## Section 25. Assistant Public Prosecutors
-
-
+## Section 25. Assistant Public Prosecutors 
 
 (1) The State Government shall appoint in every district one or more Assistant Public Prosecutors for conducting prosecutions in the Courts of Magistrates.
 
@@ -1072,13 +944,9 @@ Every Public Prosecutor, Additional Public Prosecutor and Special Public Prosecu
 
 Chapter III
 
-POWER OF COURTS
+POWER OF COURTS 
 
-
-
-## Section 26. Courts by which offences are triable
-
-
+## Section 26. Courts by which offences are triable 
 
 Subject to the other provisions of this Code,
 
@@ -1108,23 +976,15 @@ STATE AMENDMENTS
 
 (*i*) when any court is mentioned in this behalf in such law, by such court, or by any court superior in rank to such court, and
 
-(*ii*) when no court is so mentioned, by any court by which such offence is shown in the First Schedule to be triable, or by any court superior in rank to such court. U.P. Act 1 of 1984, S. 6 (w.e.f. 1-5-1984).
+(*ii*) when no court is so mentioned, by any court by which such offence is shown in the First Schedule to be triable, or by any court superior in rank to such court. U.P. Act 1 of 1984, S. 6 (w.e.f. 1-5-1984). 
 
-
-
-## Section 27. Jurisdiction in the case of juveniles
-
-
+## Section 27. Jurisdiction in the case of juveniles 
 
 Any offence not punishable with death or imprisonment for life, committed by any person who at the date when he appears or is brought before the Court is under the age of sixteen years, may be tried by the Court of a Chief Judicial Magistrate, or by any Court specially empowered under the Children Act, 1960 (60 of 1960), or any other law for the time being in force providing for the treatment, training and rehabilitation of youthful offenders.
 
-**Corresponding Law:** S. 29-B of Act V of 1898.
+**Corresponding Law:** S. 29-B of Act V of 1898. 
 
-
-
-## Section 28. Sentences which High Courts and Sessions Judges may pass
-
-
+## Section 28. Sentences which High Courts and Sessions Judges may pass 
 
 (1) A High Court may pass any sentence authorised by law.
 
@@ -1132,13 +992,9 @@ Any offence not punishable with death or imprisonment for life, committed by any
 
 (3) An Assistant Sessions Judge may pass any sentence authorised by law except a sentence of death or of imprisonment for life or of imprisonment for a term exceeding ten years.
 
-**Corresponding Law:** S. 31 of Act V of 1898.
+**Corresponding Law:** S. 31 of Act V of 1898. 
 
-
-
-## Section 29. Sentences which Magistrates may pass
-
-
+## Section 29. Sentences which Magistrates may pass 
 
 (1) The Court of a Chief Judicial Magistrate may pass any sentence authorised by law except a sentence of death or of imprisonment for life or of imprisonment for a term exceeding seven years.
 
@@ -1164,13 +1020,9 @@ STATE AMENDMENTS
 
 **Rajasthan**. In sub-section (2) of Section 29, in its application to the State of Rajasthan, for the existing expression ten thousand rupees , the expression fifty thousand rupees shall be *substituted*. [*Vide* Rajasthan Act 1 of 2015, S. 2]
 
-**Corresponding Law:** S. 32 of Act V of 1898.
+**Corresponding Law:** S. 32 of Act V of 1898. 
 
-
-
-## Section 30. Sentence of imprisonment in default of fine
-
-
+## Section 30. Sentence of imprisonment in default of fine 
 
 (1) The Court of a Magistrate may award such term of imprisonment in default of payment of fine as is authorised by law:
 
@@ -1182,13 +1034,9 @@ Provided that the term
 
 (2) The imprisonment awarded under this section may be in addition to a substantive sentence of imprisonment for the maximum term awardable by the Magistrate under Section 29.
 
-**Corresponding Law:** S. 33 of Act V of 1898.
+**Corresponding Law:** S. 33 of Act V of 1898. 
 
-
-
-## Section 31. Sentence in cases of conviction of several offences at one trial
-
-
+## Section 31. Sentence in cases of conviction of several offences at one trial 
 
 (1) When a person is convicted at one trial of two or more offences, the Court may, subject to the provisions of Section 71 of the Indian Penal Code (45 of 1860), sentence him for such offences, to the several punishments prescribed therefor which such Court is competent to inflict; such punishments when consisting of imprisonment to commence the one after the expiration of the other in such order as the Court may direct, unless the Court directs that such punishments shall run concurrently.
 
@@ -1202,47 +1050,31 @@ Provided that
 
 (3) For the purpose of appeal by a convicted person, the aggregate of the consecutive sentences passed against him under this section shall be deemed to be a single sentence.
 
-**Corresponding Law:** S. 35 of Act V of 1898.
+**Corresponding Law:** S. 35 of Act V of 1898. 
 
-
-
-## Section 32. Mode of conferring powers
-
-
+## Section 32. Mode of conferring powers 
 
 (1) In conferring powers under this Code, the High Court or the State Government, as the case may be, may, by order, empower persons specially by name or in virtue of their offices or classes of officials generally by their official titles.
 
 (2) Every such order shall take effect from the date on which it is communicated to the person so empowered.
 
-**Corresponding Law:** S. 39 of Act V of 1898.
+**Corresponding Law:** S. 39 of Act V of 1898. 
 
-
-
-## Section 33. Powers of officers appointed
-
-
+## Section 33. Powers of officers appointed 
 
 Whenever any person holding an office in the service of Government who has been invested by the High Court or the State Government with any powers under this Code throughout any local area is appointed to an equal or higher office of the same nature, within a like local area under the same State Government, he shall, unless the High Court or the State Government, as the case may be, otherwise directs, or has otherwise directed, exercise the same powers in the local area in which he is so appointed.
 
-**Corresponding Law:** S. 40 of Act V of 1898.
+**Corresponding Law:** S. 40 of Act V of 1898. 
 
-
-
-## Section 34. Withdrawal of powers
-
-
+## Section 34. Withdrawal of powers 
 
 (1) The High Court or the State Government, as the case may be, may withdraw all or any of the powers conferred by it under this Code on any person or by any officer subordinate to it.
 
 (2) Any powers conferred by the Chief Judicial Magistrate or by the District Magistrate may be withdrawn by the respective Magistrate by whom such powers were conferred.
 
-**Corresponding Law:** S. 41 of Act V of 1898.
+**Corresponding Law:** S. 41 of Act V of 1898. 
 
-
-
-## Section 35. Powers of Judges and Magistrates exercisable by their successors-in-office
-
-
+## Section 35. Powers of Judges and Magistrates exercisable by their successors-in-office 
 
 (1) Subject to the other provisions of this Code, the powers and duties of a Judge or Magistrate may be exercised or performed by his successor-in-office.
 
@@ -1254,25 +1086,17 @@ Whenever any person holding an office in the service of Government who has been 
 
 Chapter IV
 
-A. POWERS OF SUPERIOR OFFICERS OF POLICE
+A. POWERS OF SUPERIOR OFFICERS OF POLICE 
 
-
-
-## Section 36. Powers of superior officers of police
-
-
+## Section 36. Powers of superior officers of police 
 
 Police officers superior in rank to an officer in charge of a police station may exercise the same powers, throughout the local area to which they are appointed, as may be exercised by such officer within the limits of his station.
 
 **Corresponding Law:** S. 551 of Act V of 1898.
 
-B. AID TO THE MAGISTRATES AND THE POLICE
+B. AID TO THE MAGISTRATES AND THE POLICE 
 
-
-
-## Section 37. Public when to assist Magistrates and police
-
-
+## Section 37. Public when to assist Magistrates and police 
 
 Every person is bound to assist a Magistrate or police officer reasonably demanding his aid
 
@@ -1282,23 +1106,15 @@ Every person is bound to assist a Magistrate or police officer reasonably demand
 
 (*c*) in the prevention of any injury attempted to be committed to any railway, canal, telegraph or public property.
 
-**Corresponding Law:** S. 42 of Act V of 1898.
+**Corresponding Law:** S. 42 of Act V of 1898. 
 
-
-
-## Section 38. Aid to person, other than police officer, executing warrant
-
-
+## Section 38. Aid to person, other than police officer, executing warrant 
 
 When a warrant is directed to a person other than a police officer, any person may aid in the execution of such warrant, if the person to whom the warrant is directed be near at hand and acting in the execution of the warrant.
 
-**Corresponding Law:** S. 43 of Act V of 1898.
+**Corresponding Law:** S. 43 of Act V of 1898. 
 
-
-
-## Section 39. Public to give information of certain offences
-
-
+## Section 39. Public to give information of certain offences 
 
 (1) Every person, aware of the commission of, or of the intention of any other person to commit, any offence punishable under any of the following sections of the Indian Penal Code (45 of 1860), namely:
 
@@ -1332,13 +1148,9 @@ shall, in the absence of any reasonable excuse, the burden of proving which excu
 
 (2) For the purposes of this section, the term offence includes any act committed at any place out of India which would constitute an offence if committed in India.
 
-**Corresponding Law:** S. 44 of Act V of 1898.
+**Corresponding Law:** S. 44 of Act V of 1898. 
 
-
-
-## Section 40. Duty of officers employed in connection with the affairs of a village to make certain report
-
-
+## Section 40. Duty of officers employed in connection with the affairs of a village to make certain report 
 
 (1) Every officer employed in connection with the affairs of a village and every person residing in a village shall forthwith communicate to the nearest Magistrate or to the officer in charge of the nearest police station, whichever is nearer, any information which he may possess respecting
 
@@ -1366,13 +1178,9 @@ shall, in the absence of any reasonable excuse, the burden of proving which excu
 
 Chapter V
 
-ARREST OF PERSONS
+ARREST OF PERSONS 
 
-
-
-## Section 41. When police may arrest without warrant
-
-
+## Section 41. When police may arrest without warrant 
 
 (1) Any police officer may without an order from a Magistrate and without a warrant, arrest any person
 
@@ -1450,13 +1258,9 @@ and the police officer shall record while making such arrest, his reasons in wri
 
 (3) The control room at the Police Headquarters at the State level shall collect from time to time, details about the persons arrested, nature of the offence with which they are charged and maintain a database for the information of the general public.
 
-**41-D. Right of arrested person to meet an advocate of his choice during interrogation**. When any person is arrested and interrogated by the police, he shall be entitled to meet an advocate of his choice during interrogation, though not throughout interrogation.]
+**41-D. Right of arrested person to meet an advocate of his choice during interrogation**. When any person is arrested and interrogated by the police, he shall be entitled to meet an advocate of his choice during interrogation, though not throughout interrogation.] 
 
-
-
-## Section 42. Arrest on refusal to give name and residence
-
-
+## Section 42. Arrest on refusal to give name and residence 
 
 (1) When any person who, in the presence of a police officer, has committed or has been accused of committing a non-cognizable offence refuses, on demand of such officer, to give his name and residence or gives a name or residence which such officer has reason to believe to be false, he may be arrested by such officer in order that his name or residence may be ascertained.
 
@@ -1466,13 +1270,9 @@ Provided that, if such person is not resident in India, the bond shall be secure
 
 (3) Should the true name and residence of such person not be ascertained within twenty-four hours from the time of arrest or should he fail to execute the bond, or, if so required, to furnish sufficient sureties, he shall forthwith be forwarded to the nearest Magistrate having jurisdiction.
 
-**Corresponding Law:** S. 57 of Act V of 1898.
+**Corresponding Law:** S. 57 of Act V of 1898. 
 
-
-
-## Section 43. Arrest by private person and procedure on such arrest
-
-
+## Section 43. Arrest by private person and procedure on such arrest 
 
 (1) Any private person may arrest or cause to be arrested any person who in his presence commits a non-bailable and cognizable offence, or any proclaimed offender, and, without unnecessary delay, shall make over or cause to be made over any person so arrested to a police officer, or, in the absence of a police officer, take such person or cause him to be taken in custody to the nearest police station.
 
@@ -1480,13 +1280,9 @@ Provided that, if such person is not resident in India, the bond shall be secure
 
 (3) If there is reason to believe that he has committed a non-cognizable offence, and he refuses on the demand of a police officer to give his name and residence, or gives a name or residence which such officer has reason to believe to be false, he shall be dealt with under the provisions of Section 42; but if there is no sufficient reason to believe that he has committed any offence, he shall be at once released.
 
-**Corresponding Law:** S. 59 of Act V of 1898.
+**Corresponding Law:** S. 59 of Act V of 1898. 
 
-
-
-## Section 44. Arrest by Magistrate
-
-
+## Section 44. Arrest by Magistrate 
 
 (1) When any offence is committed in the presence of a Magistrate, whether Executive or Judicial, within his local jurisdiction, he may himself arrest or order any person to arrest the offender, and may thereupon, subject to the provisions herein contained as to bail, commit the offender to custody.
 
@@ -1494,13 +1290,9 @@ Provided that, if such person is not resident in India, the bond shall be secure
 
 (2) Any Magistrate, whether Executive or Judicial, may at any time arrest or direct the arrest, in his presence, within his local jurisdiction, of any person for whose arrest he is competent at the time and in the circumstances to issue a warrant.
 
-**Corresponding Law:** S. 65 of Act V of 1898.
+**Corresponding Law:** S. 65 of Act V of 1898. 
 
-
-
-## Section 45. Protection of members of the Armed Forces from arrest
-
-
+## Section 45. Protection of members of the Armed Forces from arrest 
 
 (1) Notwithstanding anything contained in Sections 41 to 44 (both inclusive), no member of the Armed Forces of the Union shall be arrested for anything done or purported to be done by him in the discharge of his official duties except after obtaining the consent of the Central Government.
 
@@ -1524,13 +1316,9 @@ as may be specified in the notification, wherever they may be serving, and there
 
 (*a*) to such class or category of the members of the Forces charged with the maintenance of Public Order, or
 
-(*b*) to such class or category of other public servants [not being persons to whom the provisions of sub-section (1) apply] charged with the maintenance of Public Order, as may be specified in the notification, wherever they may be serving and thereupon the provisions of that sub-section shall apply as if for the expression Central Government occurring therein, the expression State Government were *substituted*. [*Vide* Manipur Act 3 of 1983, S. 2, w.e.f. 22-3-1983]
+(*b*) to such class or category of other public servants [not being persons to whom the provisions of sub-section (1) apply] charged with the maintenance of Public Order, as may be specified in the notification, wherever they may be serving and thereupon the provisions of that sub-section shall apply as if for the expression Central Government occurring therein, the expression State Government were *substituted*. [*Vide* Manipur Act 3 of 1983, S. 2, w.e.f. 22-3-1983] 
 
-
-
-## Section 46. Arrest how made
-
-
+## Section 46. Arrest how made 
 
 (1) In making an arrest the police officer or other person making the same shall actually touch or confine the body of the person to be arrested, unless there be a submission to the custody by word or action:
 
@@ -1542,13 +1330,9 @@ as may be specified in the notification, wherever they may be serving, and there
 
 [34](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_34)[(4) Save in exceptional circumstances, no woman shall be arrested after sunset and before sunrise, and where such exceptional circumstances exist, the woman police officer shall, by making a written report, obtain the prior permission of the Judicial Magistrate of the first class within whose local jurisdiction the offence is committed or the arrest is to be made.]
 
-**Notes on Clauses to 2005 Amendment** This clause seeks to amend Section 46 to empower the police officer concerned to use all means necessary to effect the arrest, including causing death, in the case of proclaimed offender under sub-section (4) of Section 82. A new sub-section (4) is being added to said Section 46 to prohibit arrest of a woman after sunset and before sunrise except in unavoidable circumstances.
+**Notes on Clauses to 2005 Amendment** This clause seeks to amend Section 46 to empower the police officer concerned to use all means necessary to effect the arrest, including causing death, in the case of proclaimed offender under sub-section (4) of Section 82. A new sub-section (4) is being added to said Section 46 to prohibit arrest of a woman after sunset and before sunrise except in unavoidable circumstances. 
 
-
-
-## Section 47. Search of place entered by person sought to be arrested
-
-
+## Section 47. Search of place entered by person sought to be arrested 
 
 (1) If any person acting under a warrant of arrest, or any police officer having authority to arrest, has reason to believe that the person to be arrested has entered into, or is within, any place, any person residing in, or being in charge of, such place shall, on demand of such person acting as aforesaid or such police officer, allow him free ingress thereto, and afford all reasonable facilities for a search therein.
 
@@ -1562,33 +1346,21 @@ Provided that, if any such place is an apartment in the actual occupancy of a fe
 
 (3) Any police officer or other person authorised to make an arrest may break open any outer or inner door or window of any house or place in order to liberate himself or any other person who, having lawfully entered for the purpose of making an arrest, is detained therein.
 
-**Corresponding Law:** S. 49 of Act V of 1898.
+**Corresponding Law:** S. 49 of Act V of 1898. 
 
-
-
-## Section 48. Pursuit of offenders into other jurisdictions
-
-
+## Section 48. Pursuit of offenders into other jurisdictions 
 
 A police officer may, for the purpose of arresting without warrant any person whom he is authorised to arrest, pursue such person into any place in India.
 
-**Corresponding Law:** S. 58 of Act V of 1898.
+**Corresponding Law:** S. 58 of Act V of 1898. 
 
-
-
-## Section 49. No unnecessary restraint
-
-
+## Section 49. No unnecessary restraint 
 
 The person arrested shall not be subjected to more restraint than is necessary to prevent his escape.
 
-**Corresponding Law:** S. 50 of Act V of 1898.
+**Corresponding Law:** S. 50 of Act V of 1898. 
 
-
-
-## Section 50. Person arrested to be informed of grounds of arrest and of right to bail
-
-
+## Section 50. Person arrested to be informed of grounds of arrest and of right to bail 
 
 (1) Every police officer or other person arresting any person without warrant shall forthwith communicate to him full particulars of the offence for which he is arrested or other grounds for such arrest.
 
@@ -1602,13 +1374,9 @@ The person arrested shall not be subjected to more restraint than is necessary t
 
 (4) It shall be the duty of the Magistrate before whom such arrested person is produced, to satisfy himself that the requirements of sub-section (2) and sub-section (3) have been complied with in respect of such arrested person.]
 
-**Notes on Clauses to 2005 Amendment** This clause seeks to insert a new Section 50-A to require the police to give information about the arrest of the person as well as the place where he is being held to any one who may be nominated by him for sending such information.
+**Notes on Clauses to 2005 Amendment** This clause seeks to insert a new Section 50-A to require the police to give information about the arrest of the person as well as the place where he is being held to any one who may be nominated by him for sending such information. 
 
-
-
-## Section 51. Search of arrested person
-
-
+## Section 51. Search of arrested person 
 
 (1) Whenever a person is arrested by a police officer under a warrant which does not provide for the taking of bail, or under a warrant which provides for the taking of bail but the person arrested cannot furnish bail, and
 
@@ -1620,23 +1388,15 @@ the officer making the arrest or, when the arrest is made by a private person, t
 
 (2) Whenever it is necessary to cause a female to be searched, the search shall be made by another female with strict regard to decency.
 
-**Corresponding Law:** S. 52 of Act V of 1898.
+**Corresponding Law:** S. 52 of Act V of 1898. 
 
-
-
-## Section 52. Power to seize offensive weapons
-
-
+## Section 52. Power to seize offensive weapons 
 
 The officer or other person making any arrest under this Code may take from the person arrested any offensive weapons which he has about his person, and shall deliver all weapons so taken to the Court or officer before which or whom the officer or person making the arrest is required by this Code to produce the person arrested.
 
-**Corresponding Law:** S. 53 of Act V of 1898.
+**Corresponding Law:** S. 53 of Act V of 1898. 
 
-
-
-## Section 53. Examination of accused by medical practitioner at the request of police officer
-
-
+## Section 53. Examination of accused by medical practitioner at the request of police officer 
 
 (1) When a person is arrested on a charge of committing an offence of such a nature and alleged to have been committed under such circumstances that there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of an offence, it shall be lawful for a registered medical practitioner, acting at the request of a police officer not below the rank of Sub-Inspector, and for any person acting in good faith in his aid and under his direction, to make such an examination of the person arrested as is reasonably necessary in order to ascertain the facts which may afford such evidence, and to use such force as is reasonably necessary for that purpose.
 
@@ -1670,13 +1430,9 @@ The officer or other person making any arrest under this Code may take from the 
 
 (5) The registered medical practitioner shall, without delay, forward the report to the investigating officer, who shall forward it to the Magistrate referred to in Section 173 as part of the documents referred to in clause (*a*) of sub-section (5) of that section.]
 
-**Notes on Clauses to 2005 Amendment** This clause seeks to insert a new Section 53-A to provide for a detailed medical examination of a person accused of an offence of rape or an attempt to commit rape by the registered medical practitioner employed in a hospital run by the Government or a local authority and in the absence of such a practitioner by any other registered medical practitioner.
+**Notes on Clauses to 2005 Amendment** This clause seeks to insert a new Section 53-A to provide for a detailed medical examination of a person accused of an offence of rape or an attempt to commit rape by the registered medical practitioner employed in a hospital run by the Government or a local authority and in the absence of such a practitioner by any other registered medical practitioner. 
 
-
-
-## Section 54. Examination of arrested person by medical officer
-
-
+## Section 54. Examination of arrested person by medical officer 
 
 [38](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_38)[(1) When any person is arrested, he shall be examined by a medical officer in the service of Central or State Government, and in case the medical officer is not available, by a registered medical practitioner soon after the arrest is made:
 
@@ -1704,13 +1460,9 @@ STATE AMENDMENTS
 
 **Uttar Pradesh**. After Section 54 of the said Code, the following section shall be *inserted*, namely:
 
-54-A. *Test identification of the accused*. When a person is arrested on a charge of committing an offence and his test identification by any witness is considered necessary by any court having jurisdiction, it shall be lawful for an Executive Magistrate acting at the instance of such court, to hold test identification of the person arrested . U.P. Act 1 of 1984, S. 8 (w.e.f. 1-5-1984).
+54-A. *Test identification of the accused*. When a person is arrested on a charge of committing an offence and his test identification by any witness is considered necessary by any court having jurisdiction, it shall be lawful for an Executive Magistrate acting at the instance of such court, to hold test identification of the person arrested . U.P. Act 1 of 1984, S. 8 (w.e.f. 1-5-1984). 
 
-
-
-## Section 55. Procedure when police officer deputes subordinate to arrest without warrant
-
-
+## Section 55. Procedure when police officer deputes subordinate to arrest without warrant 
 
 (1) When any officer in charge of a police station or any police officer making an investigation under Chapter XII requires any officer subordinate to him to arrest without a warrant (otherwise than in his presence) any person who may lawfully be arrested without a warrant, he shall deliver to the officer required to make the arrest an order in writing, specifying the person to be arrested and the offence or other cause for which the arrest is to be made and the officer so required shall, before making the arrest, notify to the person to be arrested the substance of the order and, if so required by such person, shall show him the order.
 
@@ -1718,53 +1470,33 @@ STATE AMENDMENTS
 
 **Corresponding Law:** S. 56 of Act V of 1898.
 
-[41](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_41)[**55-A. Health and safety of arrested person**. It shall be the duty of the person having the custody of an accused to take reasonable care of the health and safety of the accused.]
+[41](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_41)[**55-A. Health and safety of arrested person**. It shall be the duty of the person having the custody of an accused to take reasonable care of the health and safety of the accused.] 
 
-
-
-## Section 56. Person arrested to be taken before Magistrate or officer in charge of police station
-
-
+## Section 56. Person arrested to be taken before Magistrate or officer in charge of police station 
 
 A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case, or before the officer in charge of a police station.
 
-**Corresponding Law:** S. 60 of Act V of 1898.
+**Corresponding Law:** S. 60 of Act V of 1898. 
 
-
-
-## Section 57. Person arrested not to be detained more than twenty-four hours
-
-
+## Section 57. Person arrested not to be detained more than twenty-four hours 
 
 No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under Section 167, exceed twenty-four hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.
 
-**Corresponding Law:** S. 61 of Act V of 1898.
+**Corresponding Law:** S. 61 of Act V of 1898. 
 
-
-
-## Section 58. Police to report apprehensions
-
-
+## Section 58. Police to report apprehensions 
 
 Officers in charge of police stations shall report to the District Magistrate, or, if he so directs, to the Sub-divisional Magistrate, the cases of all persons arrested without warrant, within the limits of their respective stations, whether such persons have been admitted to bail or otherwise.
 
-**Corresponding Law:** S. 62 of Act V of 1898.
+**Corresponding Law:** S. 62 of Act V of 1898. 
 
-
-
-## Section 59. Discharge of person apprehended
-
-
+## Section 59. Discharge of person apprehended 
 
 No person who has been arrested by a police officer shall be discharged except on his own bond, or on bail, or under the special order of a Magistrate.
 
-**Corresponding Law:** S. 63 of Act V of 1898.
+**Corresponding Law:** S. 63 of Act V of 1898. 
 
-
-
-## Section 60. Power, on escape, to pursue and re-take
-
-
+## Section 60. Power, on escape, to pursue and re-take 
 
 (1) If a person in lawful custody escapes or is rescued, the person from whose custody he escaped or was rescued may immediately pursue and arrest him in any place in India.
 
@@ -1780,23 +1512,15 @@ Chapter VI
 
 PROCESSES TO COMPEL APPEARANCE
 
-A. *Summons*
+A. *Summons* 
 
-
-
-## Section 61. Form of summons
-
-
+## Section 61. Form of summons 
 
 Every summons issued by a Court under this Code shall be in writing, in duplicate, signed by the presiding officer of such Court or by such other officer as the High Court may, from time to time, by rule direct, and shall bear the seal of the Court.
 
-**Corresponding Law:** S. 68(1) of Act V of 1898.
+**Corresponding Law:** S. 68(1) of Act V of 1898. 
 
-
-
-## Section 62. Summons how served
-
-
+## Section 62. Summons how served 
 
 (1) Every summons shall be served by a police officer, or subject to such rules as the State Government may make in this behalf, by an officer of the Court issuing it or other public servant.
 
@@ -1808,81 +1532,53 @@ Every summons issued by a Court under this Code shall be in writing, in duplicat
 
 (3) Every person on whom a summons is so served shall, if so required by the serving officer, sign a receipt therefor on the back of the other duplicate.
 
-**Corresponding Law:** S. 69(2) of Act V of 1898.
+**Corresponding Law:** S. 69(2) of Act V of 1898. 
 
-
-
-## Section 63. Service of summons on corporate bodies and societies
-
-
+## Section 63. Service of summons on corporate bodies and societies 
 
 Service of a summons on a corporation may be effected by serving it on the secretary, local manager or other principal officer of the corporation, or by letter sent by registered post, addressed to the chief officer of the corporation in India, in which case the service shall be deemed to have been effected when the letter would arrive in ordinary course of post.
 
 *Explanation*. In this section, corporation means an incorporated company or other body corporate and includes a society registered under the Societies Registration Act, 1860 (21 of 1860).
 
-**Corresponding Law:** S. 69(3) of Act V of 1898.
+**Corresponding Law:** S. 69(3) of Act V of 1898. 
 
-
-
-## Section 64. Service when persons summoned cannot be found
-
-
+## Section 64. Service when persons summoned cannot be found 
 
 Where the person summoned cannot, by the exercise of due diligence, be found, the summons may be served by leaving one of the duplicates for him with some adult male member of his family residing with him, and the person with whom the summons is so left shall, if so required by the serving officer, sign a receipt therefor on the back of the other duplicate.
 
 *Explanation*. A servant is not a member of the family within the meaning of this section.
 
-**Corresponding Law:** S. 70 of Act V of 1898.
+**Corresponding Law:** S. 70 of Act V of 1898. 
 
-
-
-## Section 65. Procedure when service cannot be effected as before provided
-
-
+## Section 65. Procedure when service cannot be effected as before provided 
 
 If service cannot by the exercise of due diligence be effected as provided in Section 62, Section 63 or Section 64, the serving officer shall affix one of the duplicates of the summons to some conspicuous part of the house or homestead in which the person summoned ordinarily resides; and thereupon the Court, after making such inquiries as it thinks fit, may either declare that the summons has been duly served or order fresh service in such manner as it considers proper.
 
-**Corresponding Law:** S. 71 of Act V of 1898.
+**Corresponding Law:** S. 71 of Act V of 1898. 
 
-
-
-## Section 66. Service on Government servant
-
-
+## Section 66. Service on Government servant 
 
 (1) Where the person summoned is in the active service of the Government, the Court issuing the summons shall ordinarily send it in duplicate to the head of the office in which such person is employed; and such head shall thereupon cause the summons to be served in the manner provided by Section 62, and shall return it to the Court under his signature with the endorsement required by that section.
 
 (2) Such signature shall be evidence of due service.
 
-**Corresponding Law:** S. 72 of Act V of 1898.
+**Corresponding Law:** S. 72 of Act V of 1898. 
 
-
-
-## Section 67. Service of summons outside local limits
-
-
+## Section 67. Service of summons outside local limits 
 
 When a Court desires that a summons issued by it shall be served at any place outside its local jurisdiction, it shall ordinarily send such summons in duplicate to a Magistrate within whose local jurisdiction the person summoned resides, or is, to be there served.
 
-**Corresponding Law:** S. 73 of Act V of 1898.
+**Corresponding Law:** S. 73 of Act V of 1898. 
 
-
-
-## Section 68. Proof of service in such cases and when serving officer not present
-
-
+## Section 68. Proof of service in such cases and when serving officer not present 
 
 (1) When a summons issued by a Court is served outside its local jurisdiction, and in any case where the officer who has served a summons is not present at the hearing of the case, an affidavit, purporting to be made before a Magistrate, that such summons has been served, and a duplicate of the summons purporting to be endorsed (in the manner provided by Section 62 or Section 64) by the person to whom it was delivered or tendered or with whom it was left, shall be admissible in evidence, and the statements made therein shall be deemed to be correct unless and until the contrary is proved.
 
 (2) The affidavit mentioned in this section may be attached to the duplicate of the summons and returned to the Court.
 
-**Corresponding Law:** S. 74 of Act V of 1898.
+**Corresponding Law:** S. 74 of Act V of 1898. 
 
-
-
-## Section 69. Service of summons on witness by post
-
-
+## Section 69. Service of summons on witness by post 
 
 (1) Notwithstanding anything contained in the preceding sections of this Chapter, a Court issuing a summons to a witness may, in addition to and simultaneously with the issue of such summons, direct a copy of the summons to be served by registered post addressed to the witness at the place where he ordinarily resides or carries on business or personally works for gain.
 
@@ -1896,25 +1592,17 @@ STATE AMENDMENTS
 
 (*b*) in sub-section (2), for the words that the witness refused to take delivery of the summons , the words or a wireless messenger that the witness refused to take delivery of the summons or the message, as the case may be , shall be *substituted*. Regn. 6 of 1977, S. 2 (w.e.f. 17-11-1977).
 
-B. *Warrant of arrest*
+B. *Warrant of arrest* 
 
-
-
-## Section 70. Form of warrant of arrest and duration
-
-
+## Section 70. Form of warrant of arrest and duration 
 
 (1) Every warrant of arrest issued by a Court under this Code shall be in writing, signed by the presiding officer of such Court and shall bear the seal of the Court.
 
 (2) Every such warrant shall remain in force until it is cancelled by the Court which issued it, or until it is executed.
 
-**Corresponding Law:** S. 75 of Act V of 1898.
+**Corresponding Law:** S. 75 of Act V of 1898. 
 
-
-
-## Section 71. Power to direct security to be taken
-
-
+## Section 71. Power to direct security to be taken 
 
 (1) Any Court issuing a warrant for the arrest of any person may in its discretion direct by endorsement on the warrant that, if such person executes a bond with sufficient sureties for his attendance before the Court at a specified time and thereafter until otherwise directed by the Court, the officer to whom the warrant is directed shall take such security and shall release such person from custody.
 
@@ -1928,25 +1616,17 @@ B. *Warrant of arrest*
 
 (3) Whenever security is taken under this section, the officer to whom the warrant is directed shall forward the bond to the Court.
 
-**Corresponding Law:** S. 76 of Act V of 1898.
+**Corresponding Law:** S. 76 of Act V of 1898. 
 
-
-
-## Section 72. Warrants to whom directed
-
-
+## Section 72. Warrants to whom directed 
 
 (1) A warrant of arrest shall ordinarily be directed to one or more police officers; but the Court issuing such a warrant may, if its immediate execution is necessary and no police officer is immediately available, direct it to any other person or persons, and such person or persons shall execute the same.
 
 (2) When a warrant is directed to more officers or persons than one, it may be executed by all, or by any one or more of them.
 
-**Corresponding Law:** S. 77 of Act V of 1898.
+**Corresponding Law:** S. 77 of Act V of 1898. 
 
-
-
-## Section 73. Warrant may be directed to any person
-
-
+## Section 73. Warrant may be directed to any person 
 
 (1) The Chief Judicial Magistrate or a Magistrate of the first class may direct a warrant to any person within his local jurisdiction for the arrest of any escaped convict, proclaimed offender or of any person who is accused of a non-bailable offence and is evading arrest.
 
@@ -1954,67 +1634,43 @@ B. *Warrant of arrest*
 
 (3) When the person against whom such warrant is issued is arrested, he shall be made over with the warrant to the nearest police officer, who shall cause him to be taken before a Magistrate having jurisdiction in the case, unless security is taken under Section 71.
 
-**Corresponding Law:** S. 78 of Act V of 1898.
+**Corresponding Law:** S. 78 of Act V of 1898. 
 
-
-
-## Section 74. Warrant directed to police officer
-
-
+## Section 74. Warrant directed to police officer 
 
 A warrant directed to any police officer may also be executed by any other police officer whose name is endorsed upon the warrant by the officer to whom it is directed or endorsed.
 
-**Corresponding Law:** S. 79 of Act V of 1898.
+**Corresponding Law:** S. 79 of Act V of 1898. 
 
-
-
-## Section 75. Notification of substance of warrant
-
-
+## Section 75. Notification of substance of warrant 
 
 The police officer or other person executing a warrant of arrest shall notify the substance thereof to the person to be arrested, and, if so required, shall show him the warrant.
 
-**Corresponding Law:** S. 80 of Act V of 1898.
+**Corresponding Law:** S. 80 of Act V of 1898. 
 
-
-
-## Section 76. Person arrested to be brought before Court without delay
-
-
+## Section 76. Person arrested to be brought before Court without delay 
 
 The police officer or other person executing a warrant of arrest shall (subject to the provisions of Section 71 as to security) without unnecessary delay bring the person arrested before the Court before which he is required by law to produce such person:
 
 Provided that such delay shall not, in any case, exceed 24 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.
 
-**Corresponding Law:** S. 81 of Act V of 1898.
+**Corresponding Law:** S. 81 of Act V of 1898. 
 
-
-
-## Section 77. Where warrant may be executed
-
-
+## Section 77. Where warrant may be executed 
 
 A warrant of arrest may be executed at any place in India.
 
-**Corresponding Law:** S. 82 of Act V of 1898.
+**Corresponding Law:** S. 82 of Act V of 1898. 
 
-
-
-## Section 78. Warrant forwarded for execution outside jurisdiction
-
-
+## Section 78. Warrant forwarded for execution outside jurisdiction 
 
 (1) When a warrant is to be executed outside the local jurisdiction of the Court issuing it, such Court may, instead of directing the warrant to a police officer within its jurisdiction, forward it by post or otherwise to any Executive Magistrate or District Superintendent of Police or Commissioner of Police within the local limits of whose jurisdiction it is to be executed; and the Executive Magistrate or District Superintendent or Commissioner shall endorse his name thereon, and if practicable, cause it to be executed in the manner hereinbefore provided.
 
 (2) The Court issuing a warrant under sub-section (1) shall forward, along with the warrant, the substance of the information against the person to be arrested together with such documents, if any, as may be sufficient to enable the Court acting under Section 81 to decide whether bail should or should not be granted to the person.
 
-**Corresponding Law:** S. 83 of Act V of 1898.
+**Corresponding Law:** S. 83 of Act V of 1898. 
 
-
-
-## Section 79. Warrant directed to police officer for execution outside jurisdiction
-
-
+## Section 79. Warrant directed to police officer for execution outside jurisdiction 
 
 (1) When a warrant directed to a police officer is to be executed beyond the local jurisdiction of the Court issuing the same, he shall ordinarily take it for endorsement either to an Executive Magistrate or to a police officer not below the rank of an officer in charge of a police station, within the local limits of whose jurisdiction the warrant is to be executed.
 
@@ -2022,23 +1678,15 @@ A warrant of arrest may be executed at any place in India.
 
 (3) Whenever there is reason to believe that the delay occasioned by obtaining the endorsement of the Magistrate or police officer within whose local jurisdiction the warrant is to be executed will prevent such execution, the police officer to whom it is directed may execute the same without such endorsement in any place beyond the local jurisdiction of the Court which issued it.
 
-**Corresponding Law:** S. 84 of Act V of 1898.
+**Corresponding Law:** S. 84 of Act V of 1898. 
 
-
-
-## Section 80. Procedure of arrest of person against whom warrant issued
-
-
+## Section 80. Procedure of arrest of person against whom warrant issued 
 
 When a warrant of arrest is executed outside the district in which it was issued, the person arrested shall, unless the Court which issued the warrant is within thirty kilometres of the place of arrest or is nearer than the Executive Magistrate or District Superintendent of Police or Commissioner of Police within the local limits of whose jurisdiction the arrest was made, or unless security is taken under Section 71, be taken before such Magistrate or District Superintendent or Commissioner.
 
-**Corresponding Law:** S. 85 of Act V of 1898.
+**Corresponding Law:** S. 85 of Act V of 1898. 
 
-
-
-## Section 81. Procedure by Magistrate before whom such person arrested is brought
-
-
+## Section 81. Procedure by Magistrate before whom such person arrested is brought 
 
 (1) The Executive Magistrate or District Superintendent of Police or Commissioner of Police shall, if the person arrested appears to be the person intended by the Court which issued the warrant, direct his removal in custody to such Court:
 
@@ -2056,13 +1704,9 @@ STATE AMENDMENTS
 
 Provided also that where such person is not released on bail or where he fails to give such security as aforesaid, the Chief Judicial Magistrate in the case of a non-bailable offence or any Judicial Magistrate in the case of a bailable offence may pass such orders as he thinks fit for his custody till such time as may be necessary for his removal to the court which issued the warrant. U.P. Act 1 of 1984, S. 9 (w.e.f. 1-5-1984).
 
-C. *Proclamation and attachment*
+C. *Proclamation and attachment* 
 
-
-
-## Section 82. Proclamation for person absconding
-
-
+## Section 82. Proclamation for person absconding 
 
 (1) If any Court has reason to believe (whether after taking evidence or not) that any person against whom a warrant has been issued by it has absconded or is concealing himself so that such warrant cannot be executed, such Court may publish a written proclamation requiring him to appear at a specified place and at a specified time not less than thirty days from the date of publishing such proclamation.
 
@@ -2084,13 +1728,9 @@ C. *Proclamation and attachment*
 
 **Notes on Clauses to 2005 Amendment** This clause seeks to insert new sub-sections (4) and (5) in Section 82 empowering the Court to make the declaration that the person is a proclaimed offender where he fails to appear at the specified place and time mentioned in the proclamation issued under sub-section (1) of Section 82 in relation to offences under Sections 302, 304, 364, etc., of the Indian Penal Code.
 
-**Corresponding Law:** S. 87 of Act V of 1898.
+**Corresponding Law:** S. 87 of Act V of 1898. 
 
-
-
-## Section 83. Attachment of property of person absconding
-
-
+## Section 83. Attachment of property of person absconding 
 
 (1) The Court issuing a proclamation under Section 82 may, for reasons to be recorded in writing, at any time after the issue of the proclamation, order the attachment of any property, movable or immovable or both, belonging to the proclaimed person:
 
@@ -2128,13 +1768,9 @@ it may order the attachment simultaneously with the issue of the proclamation.
 
 (6) The powers, duties and liabilities of a receiver appointed under this section shall be the same as those of a receiver appointed under the Code of Civil Procedure, 1908 (5 of 1908).
 
-**Corresponding Law:** S. 88(1) to (6) of Act V of 1898.
+**Corresponding Law:** S. 88(1) to (6) of Act V of 1898. 
 
-
-
-## Section 84. Claims and objections to attachment
-
-
+## Section 84. Claims and objections to attachment 
 
 (1) If any claim is preferred to, or objection made to the attachment of, any property attached under Section 83, within six months from the date of such attachment, by any person other than the proclaimed person, on the ground that the claimant or objector has an interest in such property, and that such interest is not liable to attachment under Section 83, the claim or objection shall be inquired into, and may be allowed or disallowed in whole or in part:
 
@@ -2148,13 +1784,9 @@ Provided that, if it is preferred or made in the Court of a Chief Judicial Magis
 
 (4) Any person whose claim or objection has been disallowed in whole or in part by an order under sub-section (1) may, within a period of one year from the date of such order, institute a suit to establish the right which he claims in respect of the property in dispute; but subject to the result of such suit, if any, the order shall be conclusive.
 
-**Corresponding Law:** S. 88(6-A) to (6-D) of Act V of 1898.
+**Corresponding Law:** S. 88(6-A) to (6-D) of Act V of 1898. 
 
-
-
-## Section 85. Release, sale and restoration of attached property
-
-
+## Section 85. Release, sale and restoration of attached property 
 
 (1) If the proclaimed person appears within the time specified in the proclamation, the Court shall make an order releasing the property from the attachment.
 
@@ -2166,25 +1798,17 @@ Provided that, if it is preferred or made in the Court of a Chief Judicial Magis
 
 (3) If, within two years from the date of the attachment, any person whose property is or has been at the disposal of the State Government, under sub-section (2), appears voluntarily or is apprehended and brought before the Court by whose order the property was attached, or the Court to which such Court is subordinate, and proves to the satisfaction of such Court that he did not abscond or conceal himself for the purpose of avoiding execution of the warrant, and that he had not such notice of the proclamation as to enable him to attend within the time specified therein, such property, or, if the same has been sold, the net proceeds of the sale, or, if part only thereof has been sold, the net proceeds of the sale and the residue of the property, shall, after satisfying therefrom all costs incurred in consequence of the attachment, be delivered to him.
 
-**Corresponding Law:** S. 89 of Act V of 1898.
+**Corresponding Law:** S. 89 of Act V of 1898. 
 
-
-
-## Section 86. Appeal from order rejecting application for restoration of attached property
-
-
+## Section 86. Appeal from order rejecting application for restoration of attached property 
 
 Any person referred to in sub-section (3) of Section 85, who is aggrieved by any refusal to deliver property or the proceeds of the sale thereof may appeal to the Court to which appeals ordinarily lie from the sentences of the first-mentioned Court.
 
 **Corresponding Law:** S. 405 of Act V of 1898.
 
-D. *Other rules regarding processes*
+D. *Other rules regarding processes* 
 
-
-
-## Section 87. Issue of warrant in lieu of, or in addition to, summons
-
-
+## Section 87. Issue of warrant in lieu of, or in addition to, summons 
 
 A Court may, in any case in which it is empowered by this Code to issue a summons for the appearance of any person, issue, after recording its reasons in writing, a warrant for his arrest
 
@@ -2192,33 +1816,21 @@ A Court may, in any case in which it is empowered by this Code to issue a summon
 
 (*b*) if at such time he fails to appear and the summons is proved to have been duly served in time to admit of his appearing in accordance therewith and no reasonable excuse is offered for such failure.
 
-**Corresponding Law:** S. 90 of Act V of 1898.
+**Corresponding Law:** S. 90 of Act V of 1898. 
 
-
-
-## Section 88. Power to take bond for appearance
-
-
+## Section 88. Power to take bond for appearance 
 
 When any person for whose appearance or arrest the officer presiding in any Court is empowered to issue a summons or warrant, is present in such Court, such officer may require such person to execute a bond, with or without sureties, for his appearance in such Court, or any other Court to which the case may be transferred for trial.
 
-**Corresponding Law:** S. 91 of Act V of 1898.
+**Corresponding Law:** S. 91 of Act V of 1898. 
 
-
-
-## Section 89. Arrest on breach of bond for appearance
-
-
+## Section 89. Arrest on breach of bond for appearance 
 
 When any person who is bound by any bond taken under this Code to appear before a Court, does not appear, the officer presiding in such Court may issue a warrant directing that such person be arrested and produced before him.
 
-**Corresponding Law:** S. 92 of Act V of 1898.
+**Corresponding Law:** S. 92 of Act V of 1898. 
 
-
-
-## Section 90. Provisions of this Chapter generally applicable to summonses and warrants of arrest
-
-
+## Section 90. Provisions of this Chapter generally applicable to summonses and warrants of arrest 
 
 The provisions contained in this Chapter relating to a summons and warrant, and their issue, service and execution, shall, so far as may be, apply to every summons and every warrant of arrest issued under this Code.
 
@@ -2228,13 +1840,9 @@ Chapter VII
 
 PROCESSES TO COMPEL THE PRODUCTION OF THINGS
 
-A. *Summons to produce*
+A. *Summons to produce* 
 
-
-
-## Section 91. Summons to produce document or other thing
-
-
+## Section 91. Summons to produce document or other thing 
 
 (1) Whenever any Court or any officer in charge of a police station considers that the production of any document or other thing is necessary or desirable for the purposes of any investigation, inquiry, trial or other proceeding under this Code by or before such Court or officer, such Court may issue a summons, or such officer a written order, to the person in whose possession or power such document or thing is believed to be, requiring him to attend and produce it, or to produce it, at the time and place stated in the summons or order.
 
@@ -2246,13 +1854,9 @@ A. *Summons to produce*
 
 (*b*) to apply to a letter, postcard, telegram or other document or any parcel or thing in the custody of the postal or telegraph authority.
 
-**Corresponding Law:** S. 94 of Act V of 1898.
+**Corresponding Law:** S. 94 of Act V of 1898. 
 
-
-
-## Section 92. Procedure as to letters and telegrams
-
-
+## Section 92. Procedure as to letters and telegrams 
 
 (1) If any document, parcel or thing in the custody of a postal or telegraph authority is, in the opinion of the District Magistrate, Chief Judicial Magistrate, Court of Session or High Court wanted for the purpose of any investigation, inquiry, trial or other proceeding under this Code, such Magistrate or Court may require the postal or telegraph authority, as the case may be, to deliver the document, parcel or thing to such person as the Magistrate or Court directs.
 
@@ -2260,13 +1864,9 @@ A. *Summons to produce*
 
 **Corresponding Law:** S. 95 of Act V of 1898.
 
-B. *Search-warrants*
+B. *Search-warrants* 
 
-
-
-## Section 93. When search-warrant may be issued
-
-
+## Section 93. When search-warrant may be issued 
 
 (1)(*a*) Where any Court has reason to believe that a person to whom a summons or order under Section 91 or a requisition under sub-section (1) of Section 92 has been, or might be, addressed, will not or would not produce the document or thing as required by such summons or requisition, or
 
@@ -2284,13 +1884,9 @@ it may issue a search-warrant; and the person to whom such warrant is directed, 
 
 (3) Nothing contained in this section shall authorise any Magistrate other than a District Magistrate or Chief Judicial Magistrate to grant a warrant to search for a document, parcel or other thing in the custody of the postal or telegraph authority.
 
-**Corresponding Law:** S. 96 of Act V of 1898.
+**Corresponding Law:** S. 96 of Act V of 1898. 
 
-
-
-## Section 94. Search of place suspected to contain stolen property, forged documents, etc
-
-
+## Section 94. Search of place suspected to contain stolen property, forged documents, etc 
 
 (1) If a District Magistrate, Sub-Divisional Magistrate or Magistrate of the first class, upon information and after such inquiry as he thinks necessary, has reason to believe that any place is used for the deposit or sale of stolen property, or for the deposit, sale or production of any objectionable article to which this section applies, or that any such objectionable article is deposited in any place, he may by warrant authorise any police officer above the rank of a constable
 
@@ -2320,13 +1916,9 @@ it may issue a search-warrant; and the person to whom such warrant is directed, 
 
 (*g*) instruments or materials used for the production of any of the articles mentioned in clauses (*a*) to (*f*).
 
-**Corresponding Law:** S. 98 of Act V of 1898.
+**Corresponding Law:** S. 98 of Act V of 1898. 
 
-
-
-## Section 95. Power to declare certain publications forfeited and to issue search-warrants for the same
-
-
+## Section 95. Power to declare certain publications forfeited and to issue search-warrants for the same 
 
 (1) Where
 
@@ -2346,13 +1938,9 @@ wherever printed, appears to the State Government to contain any matter the publ
 
 (3) No order passed or action taken under this section shall be called in question in any Court otherwise than in accordance with the provisions of Section 96.
 
-**Corresponding Law:** S. 99-G of Act V of 1898.
+**Corresponding Law:** S. 99-G of Act V of 1898. 
 
-
-
-## Section 96. Application to High Court to set aside declaration of forfeiture
-
-
+## Section 96. Application to High Court to set aside declaration of forfeiture 
 
 (1) Any person having any interest in any newspaper, book or other document, in respect of which a declaration of forfeiture has been made under Section 95, may, within two months from the date of publication in the Official Gazette of such declaration, apply to the High Court to set aside such declaration on the ground that the issue of the newspaper, or the book or other document, in respect of which the declaration was made, did not contain any such matter as is referred to in sub-section (1) of Section 95.
 
@@ -2364,45 +1952,29 @@ wherever printed, appears to the State Government to contain any matter the publ
 
 (5) Where there is a difference of opinion among the Judges forming the Special Bench, the decision shall be in accordance with the opinion of the majority of those Judges.
 
-**Corresponding Law:** Ss. 99-B to 99-E of Act V of 1898.
+**Corresponding Law:** Ss. 99-B to 99-E of Act V of 1898. 
 
-
-
-## Section 97. Search for persons wrongfully confined
-
-
+## Section 97. Search for persons wrongfully confined 
 
 If any District Magistrate, Sub-Divisional Magistrate or Magistrate of the first class has reason to believe that any person is confined under such circumstances that the confinement amounts to an offence, he may issue a search-warrant, and the person to whom such warrant is directed may search for the person so confined; and such search shall be made in accordance therewith, and the person, if found, shall be immediately taken before a Magistrate, who shall make such order as in the circumstances of the case seems proper.
 
-**Corresponding Law:** S. 100 of Act V of 1898.
+**Corresponding Law:** S. 100 of Act V of 1898. 
 
-
-
-## Section 98. Power to compel restoration of abducted females
-
-
+## Section 98. Power to compel restoration of abducted females 
 
 Upon complaint made on oath of the abduction or unlawful detention of a woman, or a female child under the age of eighteen years, for any unlawful purpose, a District Magistrate, Sub-Divisional Magistrate or Magistrate of the first class may make an order for the immediate restoration of such woman to her liberty, or of such female child to her husband, parent, guardian or other person having the lawful charge of such child, and may compel compliance with such order, using such force as may be necessary.
 
 **Corresponding Law:** S. 552 of Act V of 1898.
 
-C. *General provisions relating to searches*
+C. *General provisions relating to searches* 
 
-
-
-## Section 99. Direction, etc., of search-warrants
-
-
+## Section 99. Direction, etc., of search-warrants 
 
 The provisions of Sections 38, 70, 72, 74, 77, 78 and 79 shall, so far as may be, apply to all search-warrants issued under Section 93, Section 94, Section 95 or Section 97.
 
-**Corresponding Law:** S. 101 of Act V of 1898.
+**Corresponding Law:** S. 101 of Act V of 1898. 
 
-
-
-## Section 100. Persons in charge of closed place to allow search
-
-
+## Section 100. Persons in charge of closed place to allow search 
 
 (1) Whenever any place liable to search or inspection under this Chapter is closed, any person residing in, or being in charge of, such place, shall, on demand of the officer or other person executing the warrant, and on production of the warrant, allow him free ingress thereto, and afford all reasonable facilities for a search therein.
 
@@ -2422,25 +1994,17 @@ The provisions of Sections 38, 70, 72, 74, 77, 78 and 79 shall, so far as may be
 
 (8) Any person who, without reasonable cause, refuses or neglects to attend and witness a search under this section, when called upon to do so by an order in writing delivered or tendered to him, shall be deemed to have committed an offence under Section 187 of the Indian Penal Code (45 of 1860).
 
-**Corresponding Law:** S. 103 of Act V of 1898.
+**Corresponding Law:** S. 103 of Act V of 1898. 
 
-
-
-## Section 101. Disposal of things found in search beyond jurisdiction
-
-
+## Section 101. Disposal of things found in search beyond jurisdiction 
 
 When, in the execution of a search-warrant at any place beyond the local jurisdiction of the Court which issued the same, any of the things for which search is made, are found, such things, together with the list of the same prepared under the provisions hereinafter contained, shall be immediately taken before the Court issuing the warrant, unless such place is nearer to the Magistrate having jurisdiction therein than to such Court, in which case the list and things shall be immediately taken before such Magistrate; and, unless there be good cause to the contrary, such Magistrate shall make an order authorising them to be taken to such Court.
 
 **Corresponding Law:** S. 99 of Act V of 1898.
 
-D. *Miscellaneous*
+D. *Miscellaneous* 
 
-
-
-## Section 102. Power of police officer to seize certain property
-
-
+## Section 102. Power of police officer to seize certain property 
 
 (1) Any police officer may seize any property which may be alleged or suspected to have been stolen, or which may be found under circumstances which create suspicion of the commission of any offence.
 
@@ -2454,33 +2018,21 @@ D. *Miscellaneous*
 
 It is also proposed that if the seized property is of perishable nature and value of such property is less than five hundred rupees and if the person entitled to the possession of such property is unknown or absent, the police be empowered to sell such property by auction under the orders of the Superintendent of Police. For this purpose a proviso is being inserted to sub-section (3) of Section 102 of the Code.
 
-**Corresponding Law:** S. 550 of Act V of 1898.
+**Corresponding Law:** S. 550 of Act V of 1898. 
 
-
-
-## Section 103. Magistrate may direct search in his presence
-
-
+## Section 103. Magistrate may direct search in his presence 
 
 Any Magistrate may direct a search to be made in his presence of any place for the search of which he is competent to issue a search-warrant.
 
-**Corresponding Law:** S. 105 of Act V of 1898.
+**Corresponding Law:** S. 105 of Act V of 1898. 
 
-
-
-## Section 104. Power to impound document, etc., produced
-
-
+## Section 104. Power to impound document, etc., produced 
 
 Any Court may, if it thinks fit, impound any document or thing produced before it under this Code.
 
-**Corresponding Law:** S. 104 of Act V of 1898.
+**Corresponding Law:** S. 104 of Act V of 1898. 
 
-
-
-## Section 105. Reciprocal arrangements regarding processes
-
-
+## Section 105. Reciprocal arrangements regarding processes 
 
 (1) Where a Court in the territories to which this Code extends (hereafter in this section referred to as the said territories) desires that
 
@@ -2698,13 +2250,9 @@ Provided that if the person affected (and in a case where the person affected ho
 
 Chapter VIII
 
-SECURITY FOR KEEPING THE PEACE AND FOR GOOD BEHAVIOUR
+SECURITY FOR KEEPING THE PEACE AND FOR GOOD BEHAVIOUR 
 
-
-
-## Section 106. Security for keeping the peace on conviction
-
-
+## Section 106. Security for keeping the peace on conviction 
 
 (1) When a Court of Session or Court of a Magistrate of the first class convicts a person of any of the offences specified in sub-section (2) or of abetting any such offence and is of opinion that it is necessary to take security from such person for keeping the peace, the Court may, at the time of passing sentence on such person, order him to execute a bond, with or without sureties, for keeping the peace for such period, not exceeding three years, as it thinks fit.
 
@@ -2722,25 +2270,17 @@ SECURITY FOR KEEPING THE PEACE AND FOR GOOD BEHAVIOUR
 
 (4) An order under this section may also be made by an appellate court or by a Court when exercising its powers of revision.
 
-**Corresponding Law:** S. 106 of Act V of 1898.
+**Corresponding Law:** S. 106 of Act V of 1898. 
 
-
-
-## Section 107. Security for keeping the peace in other cases
-
-
+## Section 107. Security for keeping the peace in other cases 
 
 (1) When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquillity and is of opinion that there is sufficient ground for proceeding, he may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond, [51](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_51)[with or without sureties] for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit.
 
 (2) Proceedings under this section may be taken before any Executive Magistrate when either the place where the breach of the peace or disturbance is apprehended is within his local jurisdiction or there is within such jurisdiction a person who is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act as aforesaid beyond such jurisdiction.
 
-**Corresponding Law:** S. 107 of Act V of 1898.
+**Corresponding Law:** S. 107 of Act V of 1898. 
 
-
-
-## Section 108. Security for good behaviour from persons disseminating seditious matters
-
-
+## Section 108. Security for good behaviour from persons disseminating seditious matters 
 
 (1) When [52](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_52)[an Executive Magistrate] receives information that there is within his local jurisdiction any person who, within or without such jurisdiction,
 
@@ -2756,23 +2296,15 @@ and the Magistrate is of opinion that there is sufficient ground for proceeding,
 
 (2) No proceedings shall be taken under this section against the editor, proprietor, printer or publisher of any publication registered under, and edited, printed and published in conformity with, the rules laid down in the Press and Registration of Books Act, 1867 (25 of 1867), with reference to any matter contained in such publication except by the order or under the authority of the State Government or some officer empowered by the State Government in this behalf.
 
-**Corresponding Law:** S. 108 of Act V of 1898.
+**Corresponding Law:** S. 108 of Act V of 1898. 
 
-
-
-## Section 109. Security for good behaviour from suspected persons
-
-
+## Section 109. Security for good behaviour from suspected persons 
 
 When [53](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_53)[an Executive Magistrate] receives information that there is within his local jurisdiction a person taking precautions to conceal his presence and that there is reason to believe that he is doing so with a view to committing a cognizable offence, the Magistrate may, in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond, with or without sureties, for his good behaviour for such period, not exceeding one year, as the Magistrate thinks fit.
 
-**Corresponding Law:** S. 109 of Act V of 1898.
+**Corresponding Law:** S. 109 of Act V of 1898. 
 
-
-
-## Section 110. Security for good behaviour from habitual offenders
-
-
+## Section 110. Security for good behaviour from habitual offenders 
 
 When [54](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_54)[an Executive Magistrate] receives information that there is within his local jurisdiction a person who
 
@@ -2814,65 +2346,41 @@ such Magistrate may, in the manner hereinafter provided, require such person to 
 
 **Notes on Clauses to 2005 Amendment** In order to effectively deal with offences under the Foreigners Act, 1946 a need has been felt to strengthen the hands of State authorities by empowering them to take action under Section 110 of the Code against persons assisting infiltration. This will help to check the flow of undesirable foreigners into the country. The Foreigners Act, 1946 is, accordingly, being added as Item (*h*) of sub-clause (*i*) of clause (*f*).
 
-**Corresponding Law:** S. 110 of Act V of 1898.
+**Corresponding Law:** S. 110 of Act V of 1898. 
 
-
-
-## Section 111. Order to be made
-
-
+## Section 111. Order to be made 
 
 When a Magistrate acting under Section 107, Section 108, Section 109 or Section 110, deems it necessary to require any person to show cause under such section, he shall make an order in writing, setting forth the substance of the information received, the amount of the bond to be executed, the term for which it is to be in force, and the number, character and class of sureties (if any) required.
 
-**Corresponding Law:** S. 112 of Act V of 1898.
+**Corresponding Law:** S. 112 of Act V of 1898. 
 
-
-
-## Section 112. Procedure in respect of person present in Court
-
-
+## Section 112. Procedure in respect of person present in Court 
 
 If the person in respect of whom such order is made is present in Court, it shall be read over to him, or, if he so desires, the substance thereof shall be explained to him.
 
-**Corresponding Law:** S. 113 of Act V of 1898.
+**Corresponding Law:** S. 113 of Act V of 1898. 
 
-
-
-## Section 113. Summons or warrant in case of person not so present
-
-
+## Section 113. Summons or warrant in case of person not so present 
 
 If such person is not present in Court, the Magistrate shall issue a summons requiring him to appear, or, when such person is in custody, a warrant directing the officer in whose custody he is to bring him before the Court:
 
 Provided that whenever it appears to such Magistrate, upon the report of a police officer or upon other information (the substance of which report or information shall be recorded by the Magistrate), that there is reason to fear the commission of a breach of the peace, and that such breach of the peace cannot be prevented otherwise than by the immediate arrest of such person, the Magistrate may at any time issue a warrant for his arrest.
 
-**Corresponding Law:** S. 114 of Act V of 1898.
+**Corresponding Law:** S. 114 of Act V of 1898. 
 
-
-
-## Section 114. Copy of order to accompany summons or warrant
-
-
+## Section 114. Copy of order to accompany summons or warrant 
 
 Every summons or warrant issued under Section 113 shall be accompanied by a copy of the order made under Section 111, and such copy shall be delivered by the officer serving or executing such summons or warrant to the person served with, or arrested under, the same.
 
-**Corresponding Law:** S. 115 of Act V of 1898.
+**Corresponding Law:** S. 115 of Act V of 1898. 
 
-
-
-## Section 115. Power to dispense with personal attendance
-
-
+## Section 115. Power to dispense with personal attendance 
 
 The Magistrate may, if he sees sufficient cause, dispense with the personal attendance of any person called upon to show cause why he should not be ordered to execute a bond for keeping the peace or for good behaviour and may permit him to appear by a pleader.
 
-**Corresponding Law:** S. 116 of Act V of 1898.
+**Corresponding Law:** S. 116 of Act V of 1898. 
 
-
-
-## Section 116. Inquiry as to truth of information
-
-
+## Section 116. Inquiry as to truth of information 
 
 (1) When an order under Section 111 has been read or explained under Section 112 to a person present in Court, or when any person appears or is brought before a Magistrate in compliance with, or in execution of, a summons or warrant, issued under Section 113, the Magistrate shall proceed to inquire into the truth of the information upon which action has been taken, and to take such further evidence as may appear necessary.
 
@@ -2896,13 +2404,9 @@ Provided that where any person has been kept in detention pending such inquiry, 
 
 (7) Where any direction is made under sub-section (6) permitting the continuance of proceedings, the Sessions Judge may, on the application made to him by the aggrieved party, vacate such direction if he is satisfied that it was not based on any special reason or was perverse.
 
-**Corresponding Law:** S. 117 of Act V of 1898.
+**Corresponding Law:** S. 117 of Act V of 1898. 
 
-
-
-## Section 117. Order to give security
-
-
+## Section 117. Order to give security 
 
 If, upon such inquiry, it is proved that it is necessary for keeping the peace or maintaining good behaviour, as the case may be, that the person in respect of whom the inquiry is made should execute a bond, with or without sureties, the Magistrate shall make an order accordingly:
 
@@ -2914,45 +2418,29 @@ Provided that
 
 (*c*) when the person in respect of whom the inquiry is made is a minor, the bond shall be executed only by his sureties.
 
-**Corresponding Law:** S. 118 of Act V of 1898.
+**Corresponding Law:** S. 118 of Act V of 1898. 
 
-
-
-## Section 118. Discharge of person informed against
-
-
+## Section 118. Discharge of person informed against 
 
 If, on an inquiry under Section 116, it is not proved that it is necessary for keeping the peace or maintaining good behaviour, as the case may be, that the person in respect of whom the inquiry is made, should execute a bond, the Magistrate shall make an entry on the record to that effect, and if such person is in custody only for the purposes of the inquiry, shall release him, or, if such person is not in custody, shall discharge him.
 
-**Corresponding Law:** S. 119 of Act V of 1898.
+**Corresponding Law:** S. 119 of Act V of 1898. 
 
-
-
-## Section 119. Commencement of period for which security is required
-
-
+## Section 119. Commencement of period for which security is required 
 
 (1) If any person, in respect of whom an order requiring security is made under Section 106 or Section 117, is, at the time such order is made, sentenced to, or undergoing a sentence of, imprisonment, the period for which such security is required shall commence on the expiration of such sentence.
 
 (2) In other cases such period shall commence on the date of such order unless the Magistrate, for sufficient reason, fixes a later date.
 
-**Corresponding Law:** S. 120 of Act V of 1898.
+**Corresponding Law:** S. 120 of Act V of 1898. 
 
-
-
-## Section 120. Contents of bond
-
-
+## Section 120. Contents of bond 
 
 The bond to be executed by any such person shall bind him to keep the peace or to be of good behaviour, as the case may be, and in the latter case the commission or attempt to commit, or the abetment of, any offence punishable with imprisonment, wherever it may be committed, is a breach of the bond.
 
-**Corresponding Law:** S. 121 of Act V of 1898.
+**Corresponding Law:** S. 121 of Act V of 1898. 
 
-
-
-## Section 121. Power to reject sureties
-
-
+## Section 121. Power to reject sureties 
 
 (1) A Magistrate may refuse to accept any surety offered, or may reject any surety previously accepted by him or his predecessor under this Chapter on the ground that such surety is an unfit person for the purposes of the bond:
 
@@ -2964,13 +2452,9 @@ Provided that, before so refusing to accept or rejecting any such surety, he sha
 
 Provided that, before making an order rejecting any surety who has previously been accepted, the Magistrate shall issue his summons or warrant, as he thinks fit, and cause the person for whom the surety is bound to appear or to be brought before him.
 
-**Corresponding Law:** S. 122 of Act V of 1898.
+**Corresponding Law:** S. 122 of Act V of 1898. 
 
-
-
-## Section 122. Imprisonment in default of security
-
-
+## Section 122. Imprisonment in default of security 
 
 (1)(*a*) If any person ordered to give security under Section 106 or Section 117 does not give such security on or before the date on which the period for which such security is to be given commences, he shall, except in the case next hereinafter mentioned, be committed to prison, or, if he is already in prison, be detained in prison until such period expires or until within such period he gives the security to the Court or Magistrate who made the order requiring it.
 
@@ -2994,13 +2478,9 @@ Provided that the period (if any) for which any person is imprisoned for failure
 
 **Notes on Clauses to 2005 Amendment** This clause seeks to amend sub-section (1) of Section 122 to remove the discrepancy between Section 107(1) and Section 122(1)(*b*) of the Code.
 
-**Corresponding Law:** S. 123 of Act V of 1898.
+**Corresponding Law:** S. 123 of Act V of 1898. 
 
-
-
-## Section 123. Power to release persons imprisoned for failing to give security
-
-
+## Section 123. Power to release persons imprisoned for failing to give security 
 
 (1) Whenever [60](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_60)[the District Magistrate in the case of an order passed by an Executive Magistrate under Section 117, or the Chief Judicial Magistrate in any other case] is of opinion that any person imprisoned for failing to give security under this Chapter may be released without hazard to the community or to any other person, he may order such person to be discharged.
 
@@ -3026,13 +2506,9 @@ Provided that any condition imposed shall cease to be operative when the period 
 
 **Corresponding Law:** S. 125 of Act V of 1898.
 
-(10) Any surety for the peaceable conduct or good behaviour of another person ordered to executive a bond under this Chapter may at any time apply to the Court making such order to cancel the bond and on such application being made, the Court shall issue a summons or warrant, as it thinks fit, requiring the person for whom such surety is bound to appear or to be brought before it.
+(10) Any surety for the peaceable conduct or good behaviour of another person ordered to executive a bond under this Chapter may at any time apply to the Court making such order to cancel the bond and on such application being made, the Court shall issue a summons or warrant, as it thinks fit, requiring the person for whom such surety is bound to appear or to be brought before it. 
 
-
-
-## Section 124. Security for unexpired period of bond
-
-
+## Section 124. Security for unexpired period of bond 
 
 (1) When a person for whose appearance a summons or warrant has been issued under the proviso to sub-section (3) of Section 121 or under sub-section (10) of Section 123, appears or is brought before the Magistrate or Court, the Magistrate or Court shall cancel the bond executed by such person and shall order such person to give, for the unexpired portion of the term of such bond, fresh security of the same description as the original security.
 
@@ -3042,13 +2518,9 @@ Provided that any condition imposed shall cease to be operative when the period 
 
 Chapter IX
 
-ORDER FOR MAINTENANCE OF WIVES, CHILDREN AND PARENTS
+ORDER FOR MAINTENANCE OF WIVES, CHILDREN AND PARENTS 
 
-
-
-## Section 125. Order for maintenance of wives, children and parents
-
-
+## Section 125. Order for maintenance of wives, children and parents 
 
 (1) If any person having sufficient means neglects or refuses to maintain
 
@@ -3158,13 +2630,9 @@ Provided also that, subject to the ceiling laid down under this sub-section, the
 
 Provided further that where in any proceeding under this section it appears to the Magistrate that the wife referred to in clause (*a*) or the minor child referred to in clause (*b*) or the child (not being a married daughter) referred to in clause (*c*) or the father or the mother referred to in clause (*d*) is in need of immediate relief for her or its or his support and the necessary expenses of the proceeding, the Magistrate may, on the application of the wife or the minor child or the child (not being a married daughter) or the father or the mother, as the case may be, order the person against whom the allowance for maintenance is claimed, to pay to the petitioner, pending the conclusion of the proceeding, and monthly during the proceeding such allowance as, having regard to the income of such person, it may seem to the Magistrate to be reasonable. [*Vide* W.B. Act 25 of 1992, S. 4 (w.e.f. 2-8-1993)].
 
-(2) In sub-section (1) of Section 125 of the principal Act, as amended by the Code of Criminal Procedure (West Bengal Amendment) Act, 1992 (West Bengal Act 25 of 1992), the words not exceeding one thousand and five hundred rupees shall be *omitted*. [*Vide* W.B. Act 33 of 2001, S. 3, w.e.f. a date to be notified]
+(2) In sub-section (1) of Section 125 of the principal Act, as amended by the Code of Criminal Procedure (West Bengal Amendment) Act, 1992 (West Bengal Act 25 of 1992), the words not exceeding one thousand and five hundred rupees shall be *omitted*. [*Vide* W.B. Act 33 of 2001, S. 3, w.e.f. a date to be notified] 
 
-
-
-## Section 126. Procedure
-
-
+## Section 126. Procedure 
 
 (1) Proceedings under Section 125 may be taken against any person in any district
 
@@ -3186,13 +2654,9 @@ STATE AMENDMENTS
 
 **Andhra Pradesh**. In its application to the State of Andhra Pradesh, in Section 126, in sub-section (1), for clause (*b*), the following shall be *substituted*, namely:
 
-(*b*) where he or his wife resides, or where his parents or children resides, or; [*Vide* A.P. Act 18 of 2007, S. 2, w.e.f. a date to be notified]
+(*b*) where he or his wife resides, or where his parents or children resides, or; [*Vide* A.P. Act 18 of 2007, S. 2, w.e.f. a date to be notified] 
 
-
-
-## Section 127. Alteration in allowance
-
-
+## Section 127. Alteration in allowance 
 
 [73](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_73)[(1) On proof of a change in the circumstances of any person, receiving, under Section 125 a monthly allowance for the maintenance or interim maintenance, or ordered under the same section to pay a monthly allowance for the maintenance, or interim maintenance, to his wife, child, father or mother, as the case may be, the Magistrate may make such alteration, as he thinks fit, in the allowance for the maintenance or the interim maintenance, as the case may be.]
 
@@ -3238,13 +2702,9 @@ STATE AMENDMENTS
 
 **West Bengal**. (1) In the proviso to sub-section (1) of Section 127 of the principal Act, for the words five hundred rupees , the words one thousand and five hundred rupees shall be *substituted*. [*vide* W.B. Act 14 of 1995, S. 3, (2-8-1993).].
 
-(2) In sub-section (1) of Section 127 of the principal Act, the proviso shall be *omitted*. [*Vide* W.B. Act 33 of 2001, S. 4, w.e.f. 24-2-2003]
+(2) In sub-section (1) of Section 127 of the principal Act, the proviso shall be *omitted*. [*Vide* W.B. Act 33 of 2001, S. 4, w.e.f. 24-2-2003] 
 
-
-
-## Section 128. Enforcement of order of maintenance
-
-
+## Section 128. Enforcement of order of maintenance 
 
 A copy of the order of [78](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_78)[maintenance or interim maintenance and expenses of proceeding, as the case may be,] shall be given without payment to the person in whose favour it is made, or to his guardian, if any, or to the person to [79](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_79)[whom the allowance for the maintenance or the allowance for the interim maintenance and expenses of proceeding, as the case may be,] is to be paid; and such order may be enforced by any Magistrate in any place where the person against whom it is made may be, on such Magistrate being satisfied as to the identity of the parties and the non-payment of the [80](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_80)[allowance, or as the case may be, expenses due].
 
@@ -3320,13 +2780,9 @@ Chapter X
 
 MAINTENANCE OF PUBLIC ORDER & TRANQUILLITY
 
-A. *Unlawful assemblies*
+A. *Unlawful assemblies* 
 
-
-
-## Section 129. Dispersal of assembly by use of civil force
-
-
+## Section 129. Dispersal of assembly by use of civil force 
 
 (1) Any Executive Magistrate or officer in charge of a police station or, in the absence of such officer in charge, any police officer, not below the rank of a sub-inspector, may command any unlawful assembly, or any assembly of five or more persons likely to cause a disturbance of the public peace, to disperse; and it shall thereupon be the duty of the members of such assembly to disperse accordingly.
 
@@ -3334,13 +2790,9 @@ A. *Unlawful assemblies*
 
 (2) If, upon being so commanded, any such assembly does not disperse, or if, without being so commanded, it conducts itself in such a manner as to show a determination not to disperse, any Executive Magistrate or police officer referred to in sub-section (1), may proceed to disperse such assembly by force, and may require the assistance of any male person, not being an officer or member of the armed forces and acting as such, for the purpose of dispersing such assembly, and, if necessary, arresting and confining the persons who form part of it, in order to disperse such assembly or that they may be punished according to law.
 
-**Corresponding Law:** S. 128 of Act V of 1898.
+**Corresponding Law:** S. 128 of Act V of 1898. 
 
-
-
-## Section 130. Use of armed forces to disperse assembly
-
-
+## Section 130. Use of armed forces to disperse assembly 
 
 (1) If any such assembly cannot be otherwise dispersed, and if it is necessary for the public security that it should be dispersed, the Executive Magistrate of the highest rank who is present may cause it to be dispersed by the armed forces.
 
@@ -3350,23 +2802,15 @@ A. *Unlawful assemblies*
 
 (3) Every such officer of the armed forces shall obey such requisition in such manner as he thinks fit, but in so doing he shall use as little force, and do as little injury to person and property, as may be consistent with dispersing the assembly and arresting and detaining such persons.
 
-**Corresponding Law:** S. 130 of Act V of 1898.
+**Corresponding Law:** S. 130 of Act V of 1898. 
 
-
-
-## Section 131. Power of certain armed force officers to disperse assembly
-
-
+## Section 131. Power of certain armed force officers to disperse assembly 
 
 When the public security is manifestly endangered by any such assembly and no Executive Magistrate can be communicated with, any commissioned or gazetted officer of the armed forces may disperse such assembly with the help of the armed forces under his command, and may arrest and confine any persons forming part of it, in order to disperse such assembly or that they may be punished according to law; but if, while he is acting under this section, it becomes practicable for him to communicate with an Executive Magistrate, he shall do so, and shall thenceforward obey the instructions of the Magistrate, as to whether he shall or shall not continue such action.
 
-**Corresponding Law:** S. 131 of Act V of 1898.
+**Corresponding Law:** S. 131 of Act V of 1898. 
 
-
-
-## Section 132. Protection against prosecution for acts done under preceding sections
-
-
+## Section 132. Protection against prosecution for acts done under preceding sections 
 
 (1) No prosecution against any person for any act purporting to be done under Section 129, Section 130 or Section 131 shall be instituted in any Criminal Court except
 
@@ -3396,13 +2840,9 @@ shall be deemed to have thereby committed an offence.
 
 **Corresponding Law:** S. 132-A of Act V of 1898.
 
-B. *Public nuisances*
+B. *Public nuisances* 
 
-
-
-## Section 133. Conditional order for removal of nuisance
-
-
+## Section 133. Conditional order for removal of nuisance 
 
 (1) Whenever a District Magistrate or a Sub-Divisional Magistrate or any other Executive Magistrate specially empowered in this behalf by the State Government, on receiving the report of a police officer or other information and on taking such evidence (if any) as he thinks fit, considers
 
@@ -3438,25 +2878,17 @@ or, if he objects so to do, to appear before himself or some other Executive Mag
 
 *Explanation*. A public place includes also property belonging to the State, camping grounds and grounds left unoccupied for sanitary or recreative purposes.
 
-**Corresponding Law:** S. 133 of Act V of 1898.
+**Corresponding Law:** S. 133 of Act V of 1898. 
 
-
-
-## Section 134. Service or notification of order
-
-
+## Section 134. Service or notification of order 
 
 (1) The order shall, if practicable, be served on the person against whom it is made, in the manner herein provided for service of a summons.
 
 (2) If such order cannot be so served, it shall be notified by proclamation, published in such manner as the State Government may, by rules, direct, and a copy thereof shall be stuck up at such place or places as may be fittest for conveying the information to such person.
 
-**Corresponding Law:** S. 134 of Act V of 1898.
+**Corresponding Law:** S. 134 of Act V of 1898. 
 
-
-
-## Section 135. Person to whom order is addressed to obey or show cause
-
-
+## Section 135. Person to whom order is addressed to obey or show cause 
 
 The person against whom such order is made shall
 
@@ -3464,23 +2896,15 @@ The person against whom such order is made shall
 
 (*b*) appear in accordance with such order and show cause against the same.
 
-**Corresponding Law:** S. 135 of Act V of 1898.
+**Corresponding Law:** S. 135 of Act V of 1898. 
 
-
-
-## Section 136. Consequences of his failing to do so
-
-
+## Section 136. Consequences of his failing to do so 
 
 If such person does not perform such act or appear and show cause, he shall be liable to the penalty prescribed in that behalf in Section 188 of the Indian Penal Code (45 of 1860), and the order shall be made absolute.
 
-**Corresponding Law:** S. 136 of Act V of 1898.
+**Corresponding Law:** S. 136 of Act V of 1898. 
 
-
-
-## Section 137. Procedure where existence of public right is denied
-
-
+## Section 137. Procedure where existence of public right is denied 
 
 (1) Where an order is made under Section 133 for the purpose of preventing obstruction, nuisance or danger to the public in the use of any way, river, channel or place, the Magistrate shall, on the appearance before him of the person against whom the order was made, question him as to whether he denies the existence of any public right in respect of the way, river, channel or place, and if he does so, the Magistrate shall, before proceeding under Section 138, inquire into the matter.
 
@@ -3488,13 +2912,9 @@ If such person does not perform such act or appear and show cause, he shall be l
 
 (3) A person who has, on being questioned by the Magistrate under sub-section (1), failed to deny the existence of a public right of the nature therein referred to, or who, having made such denial, has failed to adduce reliable evidence in support thereof, shall not in the subsequent proceedings be permitted to make any such denial.
 
-**Corresponding Law:** S. 139-A of Act V of 1898.
+**Corresponding Law:** S. 139-A of Act V of 1898. 
 
-
-
-## Section 138. Procedure where he appears to show cause
-
-
+## Section 138. Procedure where he appears to show cause 
 
 (1) If the person against whom an order under Section 133 is made appears and shows cause against the order, the Magistrate shall take evidence in the matter as in a summons case.
 
@@ -3502,25 +2922,17 @@ If such person does not perform such act or appear and show cause, he shall be l
 
 (3) If the Magistrate is not so satisfied, no further proceedings shall be taken in the case.
 
-**Corresponding Law:** S. 137 of Act V of 1898.
+**Corresponding Law:** S. 137 of Act V of 1898. 
 
-
-
-## Section 139. Power of Magistrate to direct local investigation and examination of an expert
-
-
+## Section 139. Power of Magistrate to direct local investigation and examination of an expert 
 
 The Magistrate may, for the purposes of an inquiry under Section 137 or Section 138
 
 (*a*) direct a local investigation to be made by such person as he thinks fit; or
 
-(*b*) summon and examine an expert.
+(*b*) summon and examine an expert. 
 
-
-
-## Section 140. Power of Magistrate to furnish written instructions, etc
-
-
+## Section 140. Power of Magistrate to furnish written instructions, etc 
 
 (1) Where the Magistrate directs a local investigation by any person under Section 139, the Magistrate may
 
@@ -3530,13 +2942,9 @@ The Magistrate may, for the purposes of an inquiry under Section 137 or Section 
 
 (2) The report of such person may be read as evidence in the case.
 
-(3) Where the Magistrate summons and examines an expert under Section 139, the Magistrate may direct by whom the costs of such summoning and examination shall be paid.
+(3) Where the Magistrate summons and examines an expert under Section 139, the Magistrate may direct by whom the costs of such summoning and examination shall be paid. 
 
-
-
-## Section 141. Procedure on order being made absolute and consequences of disobedience
-
-
+## Section 141. Procedure on order being made absolute and consequences of disobedience 
 
 (1) When an order has been made absolute under Section 136 or Section 138, the Magistrate shall give notice of the same to the person against whom the order was made, and shall further require him to perform the act directed by the order within a time to be fixed in the notice, and inform him that, in case of disobedience, he will be liable to the penalty provided by Section 188 of the Indian Penal Code (45 of 1860).
 
@@ -3544,13 +2952,9 @@ The Magistrate may, for the purposes of an inquiry under Section 137 or Section 
 
 (3) No suit shall lie in respect of anything done in good faith under this section.
 
-**Corresponding Law:** S. 140 of Act V of 1898.
+**Corresponding Law:** S. 140 of Act V of 1898. 
 
-
-
-## Section 142. Injunction pending inquiry
-
-
+## Section 142. Injunction pending inquiry 
 
 (1) If a Magistrate making an order under Section 133 considers that immediate measures should be taken to prevent imminent danger or injury of a serious kind to the public, he may issue such an injunction to the person against whom the order was made, as is required to obviate or prevent such danger or injury pending the determination of the matter.
 
@@ -3558,25 +2962,17 @@ The Magistrate may, for the purposes of an inquiry under Section 137 or Section 
 
 (3) No suit shall lie in respect of anything done in good faith by a Magistrate under this section.
 
-**Corresponding Law:** S. 142 of Act V of 1898.
+**Corresponding Law:** S. 142 of Act V of 1898. 
 
-
-
-## Section 143. Magistrate may prohibit repetition or continuance of public nuisance
-
-
+## Section 143. Magistrate may prohibit repetition or continuance of public nuisance 
 
 A District Magistrate or Sub-Divisional Magistrate, or any other Executive Magistrate empowered by the State Government or the District Magistrate in this behalf, may order any person not to repeat or continue a public nuisance, as defined in the Indian Penal Code (45 of 1860), or any special or local law.
 
 **Corresponding Law:** S. 143 of Act V of 1898.
 
-C. *Urgent cases of nuisance or apprehended danger*
+C. *Urgent cases of nuisance or apprehended danger* 
 
-
-
-## Section 144. Power to issue order in urgent cases of nuisance or apprehended danger
-
-
+## Section 144. Power to issue order in urgent cases of nuisance or apprehended danger 
 
 (1) In cases where, in the opinion of a District Magistrate, a Sub-Divisional Magistrate or any other Executive Magistrate specially empowered by the State Government in this behalf, there is sufficient ground for proceeding under this section and immediate prevention or speedy remedy is desirable, such Magistrate may, by a written order stating the material facts of the case and served in the manner provided by Section 134, direct any person to abstain from a certain act or to take certain order with respect to certain property in his possession or under his management, if such Magistrate considers that such direction is likely to prevent, or tends to prevent, obstruction, annoyance or injury to any person lawfully employed, or danger to human life, health or safety, or a disturbance of the public tranquillity, or a riot, or an affray.
 
@@ -3610,13 +3006,9 @@ Provided that, if the State Government considers it necessary so to do for preve
 
 **Notes on Clauses to 2005 Amendment** In order to curb the militant activities of certain communal organizations, a need has been felt to strengthen the hands of State authorities for effectively checking communal tension and foster a sense of complete security in the minds of members of the public. This clause, therefore, seeks to insert a new Section 144-A in the Code to enable the District Magistrate to prohibit mass drill (or training) with arms in public places.
 
-D. *Disputes as to immovable property*
+D. *Disputes as to immovable property* 
 
-
-
-## Section 145. Procedure where dispute concerning land or water is likely to cause breach of peace
-
-
+## Section 145. Procedure where dispute concerning land or water is likely to cause breach of peace 
 
 (1) Whenever an Executive Magistrate is satisfied from a report of a police officer or upon other information that a dispute likely to cause a breach of the peace exists concerning any land or water or the boundaries thereof, within his local jurisdiction, he shall make an order in writing, stating the grounds of his being so satisfied, and requiring the parties concerned in such dispute to attend his Court in person or by pleader, on a specified date and time, and to put in written statements of their respective claims as respects the fact of actual possession of the subject of dispute.
 
@@ -3654,13 +3046,9 @@ STATE AMENDMENTS
 
 (10) In the case of an Executive Magistrate taking action under this section nothing in this section shall be deemed to be in derogation of his power to proceed under Section 107. In the case of a Metropolitan Magistrate taking action under this section, if at any stage of the proceeding, he is of the opinion that the dispute calls for an action under Section 107, he shall after recording his reasons, forward the necessary information to the Executive Magistrate having jurisdiction, to enable him to proceed under that section.
 
-*Saving of proceedings pending before Executive Magistrates in Greater Bombay under Sections 145 to 147 of Act 2 of 1974*. If any proceedings under Section 145, 146 or 147 of the said Code are pending before any Executive Magistrate in Greater Bombay on the day immediately preceding the date of commencement of this Act, they shall be continued, heard and disposed of by that Magistrate, as if this Act had not been passed. [*Vide* Maharashtra Act 1 of 1978, Ss. 3 & 5 with effect from 15-4-1978].
+*Saving of proceedings pending before Executive Magistrates in Greater Bombay under Sections 145 to 147 of Act 2 of 1974*. If any proceedings under Section 145, 146 or 147 of the said Code are pending before any Executive Magistrate in Greater Bombay on the day immediately preceding the date of commencement of this Act, they shall be continued, heard and disposed of by that Magistrate, as if this Act had not been passed. [*Vide* Maharashtra Act 1 of 1978, Ss. 3 & 5 with effect from 15-4-1978]. 
 
-
-
-## Section 146. Power to attach subject of dispute and to appoint receiver
-
-
+## Section 146. Power to attach subject of dispute and to appoint receiver 
 
 (1) If the Magistrate at any time after making the order under sub-section (1) of Section 145 considers the case to be one of emergency, or if he decides that none of the parties was then in such possession as is referred to in Section 145, or if he is unable to satisfy himself as to which of them was then in such possession of the subject of dispute, he may attach the subject of dispute until a competent Court has determined the rights of the parties thereto with regard to the person entitled to the possession thereof:
 
@@ -3674,13 +3062,9 @@ Provided that in the event of a receiver being subsequently appointed in relatio
 
 (*b*) may make such other incidental or consequential orders as may be just.
 
-**Corresponding Law:** S 146 of Act V of 1898.
+**Corresponding Law:** S 146 of Act V of 1898. 
 
-
-
-## Section 147. Dispute concerning right of use of land or water
-
-
+## Section 147. Dispute concerning right of use of land or water 
 
 (1) Whenever an Executive Magistrate is satisfied from the report of a police officer or upon other information, that a dispute likely to cause a breach of the peace exists regarding any alleged right of user of any land or water within his local jurisdiction, whether such right be claimed as an easement or otherwise, he shall make an order in writing, stating the grounds of his being so satisfied and requiring the parties concerned in such dispute to attend his Court in person or by pleader on a specified date and time and to put in written statements of their respective claims.
 
@@ -3702,13 +3086,9 @@ STATE AMENDMENTS
 
 **Maharashtra**. In Section 147 in sub-section (1), for the words Whenever an Executive Magistrate the words Whenever in Greater Bombay, a Metropolitan Magistrate and elsewhere in the State, an Executive Magistrate shall be *substituted*.
 
-*Saving of proceedings pending before Executive Magistrate in Greater Bombay under Sections 145 to 147 of Act 2 of 1974*. If any proceedings under Sections 145, 146 or 147 of the said Code are pending before any Executive Magistrate in Greater Bombay on the day immediately preceding the date of commencement of this Act, they shall be continued, heard and disposed of by that Magistrate, as if this Act had not been passed. [*Vide* Maharashtra Act 1 of 1978, Ss. 2 and 5 with effect from 15-4-1978.].
+*Saving of proceedings pending before Executive Magistrate in Greater Bombay under Sections 145 to 147 of Act 2 of 1974*. If any proceedings under Sections 145, 146 or 147 of the said Code are pending before any Executive Magistrate in Greater Bombay on the day immediately preceding the date of commencement of this Act, they shall be continued, heard and disposed of by that Magistrate, as if this Act had not been passed. [*Vide* Maharashtra Act 1 of 1978, Ss. 2 and 5 with effect from 15-4-1978.]. 
 
-
-
-## Section 148. Local inquiry
-
-
+## Section 148. Local inquiry 
 
 (1) Whenever a local inquiry is necessary for the purposes of Section 145, Section 146, or Section 147, a District Magistrate or Sub-Divisional Magistrate may depute any Magistrate subordinate to him to make the inquiry, and may furnish him with such written instructions as may seem necessary for his guidance, and may declare by whom the whole or any part of the necessary expenses of the inquiry shall be paid.
 
@@ -3720,33 +3100,21 @@ STATE AMENDMENTS
 
 Chapter XI
 
-PREVENTIVE ACTION OF THE POLICE
+PREVENTIVE ACTION OF THE POLICE 
 
-
-
-## Section 149. Police to prevent cognizable offences
-
-
+## Section 149. Police to prevent cognizable offences 
 
 Every police officer may interpose for the purpose of preventing, and shall, to the best of his ability, prevent, the commission of any cognizable offence.
 
-**Corresponding Law:** S. 149 of Act V of 1898.
+**Corresponding Law:** S. 149 of Act V of 1898. 
 
-
-
-## Section 150. Information of design to commit cognizable offences
-
-
+## Section 150. Information of design to commit cognizable offences 
 
 Every police officer receiving information of a design to commit any cognizable offence shall communicate such information to the police officer to whom he is subordinate, and to any other officer whose duty it is to prevent or take cognizance of the commission of any such offence.
 
-**Corresponding Law:** S. 150 of Act V of 1898.
+**Corresponding Law:** S. 150 of Act V of 1898. 
 
-
-
-## Section 151. Arrest to prevent the commission of cognizable offences
-
-
+## Section 151. Arrest to prevent the commission of cognizable offences 
 
 (1) A police officer knowing of a design to commit any cognizable offence may arrest, without orders from a Magistrate and without a warrant, the person so designing, if it appears to such officer that the commission of the offence cannot be otherwise prevented.
 
@@ -3772,23 +3140,15 @@ STATE AMENDMENTS
 
 Provided that, no person shall be detained under this section for a period exceeding fifteen days at a time, and for a total period exceeding thirty days from the date of arrest of such person.
 
-(*c*) When any person is remanded to custody under clause (*b*), the Magistrate shall, as soon as may be, communicate to such person the grounds on which the order has been made and such person may make a representation against the order to the Court of Session. The Sessions Judge may, on receipt of such representation, after holding such inquiry as he deems fit, either reject the representation, or if he considers that further detention of the arrested person is not necessary, or that it is otherwise proper and just so to do, may vacate the order and the arrested person shall then be released forthwith. [*Vide* Mah. Act 7 of 1981, S. 18 (w.e.f. 27-8-1980)]
+(*c*) When any person is remanded to custody under clause (*b*), the Magistrate shall, as soon as may be, communicate to such person the grounds on which the order has been made and such person may make a representation against the order to the Court of Session. The Sessions Judge may, on receipt of such representation, after holding such inquiry as he deems fit, either reject the representation, or if he considers that further detention of the arrested person is not necessary, or that it is otherwise proper and just so to do, may vacate the order and the arrested person shall then be released forthwith. [*Vide* Mah. Act 7 of 1981, S. 18 (w.e.f. 27-8-1980)] 
 
-
-
-## Section 152. Prevention of injury to public property
-
-
+## Section 152. Prevention of injury to public property 
 
 A police officer may of his own authority interpose to prevent any injury attempted to be committed in his view to any public property, movable or immovable, or the removal or injury of any public landmark or buoy or other mark used for navigation.
 
-**Corresponding Law:** S. 152 of Act V of 1898.
+**Corresponding Law:** S. 152 of Act V of 1898. 
 
-
-
-## Section 153. Inspection of weights and measures
-
-
+## Section 153. Inspection of weights and measures 
 
 (1) Any officer in charge of a police station may, without a warrant, enter any place within the limits of such station for the purpose of inspecting or searching for any weights or measures or instruments for weighing, used or kept therein, whenever he has reason to believe that there are in such place any weights, measures or instruments for weighing which are false.
 
@@ -3798,13 +3158,9 @@ A police officer may of his own authority interpose to prevent any injury attemp
 
 Chapter XII
 
-INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE
+INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE 
 
-
-
-## Section 154. Information in cognizable cases
-
-
+## Section 154. Information in cognizable cases 
 
 (1) Every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer in such form as the State Government may prescribe in this behalf:
 
@@ -3826,13 +3182,9 @@ Provided further that
 
 STATE AMENDMENTS
 
-**Chhattisgarh**. In its application to the State of Chhattisgarh, in sub-section (1) of Section 154, for the words and figures or Section 509 the words, figures, letters and punctuations , Section 509, Section 509-A or Section 509-B shall be *substituted*. [*Vide* Ch. Act 25 of 2015, S. 7 (w.e.f. 21-7-2015)]
+**Chhattisgarh**. In its application to the State of Chhattisgarh, in sub-section (1) of Section 154, for the words and figures or Section 509 the words, figures, letters and punctuations , Section 509, Section 509-A or Section 509-B shall be *substituted*. [*Vide* Ch. Act 25 of 2015, S. 7 (w.e.f. 21-7-2015)] 
 
-
-
-## Section 155. Information as to non-cognizable cases and investigation of such cases
-
-
+## Section 155. Information as to non-cognizable cases and investigation of such cases 
 
 (1) When information is given to an officer in charge of a police station of the commission within the limits of such station of a non-cognizable offence, he shall enter or cause to be entered the substance of the information in a book to be kept by such officer in such form as the State Government may prescribe in this behalf, and refer the informant to the Magistrate.
 
@@ -3842,13 +3194,9 @@ STATE AMENDMENTS
 
 (4) Where a case relates to two or more offences of which at least one is cognizable, the case shall be deemed to be a cognizable case, notwithstanding that the other offences are non-cognizable.
 
-**Corresponding Law:** S. 155 of Act V of 1898.
+**Corresponding Law:** S. 155 of Act V of 1898. 
 
-
-
-## Section 156. Police officer's power to investigate cognizable case
-
-
+## Section 156. Police officer's power to investigate cognizable case 
 
 (1) Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try under the provisions of Chapter XIII.
 
@@ -3868,13 +3216,9 @@ Provided that before passing any orders, the Magistrate shall issue notice to an
 
 Provided that, no Magistrate shall order an investigation under this section against a person who is or was a public servant as defined under any other law for the time being in force, in respect of the act done by such public servant while acting or purporting to act in the discharge of his official duties, except with the previous sanction under Section 197 of the Code of Criminal Procedure, 1973 (2 of 1974) or under any law for the time being in force:
 
-Provided further that, the sanctioning authority shall take a decision within a period of ninety days from the date of the receipt of the proposal for sanction and in case the sanctioning authority fails to take the decision within the said stipulated period of ninety days, the sanction shall be deemed to have been accorded by the sanctioning authority. . [*Vide* Mah. Act 33 of 2016, S. 2 (w.e.f. the date to be notified)]
+Provided further that, the sanctioning authority shall take a decision within a period of ninety days from the date of the receipt of the proposal for sanction and in case the sanctioning authority fails to take the decision within the said stipulated period of ninety days, the sanction shall be deemed to have been accorded by the sanctioning authority. . [*Vide* Mah. Act 33 of 2016, S. 2 (w.e.f. the date to be notified)] 
 
-
-
-## Section 157. Procedure for investigation
-
-
+## Section 157. Procedure for investigation 
 
 (1) If, from information received or otherwise, an officer in charge of a police station has reason to suspect the commission of an offence which he is empowered under Section 156 to investigate, he shall forthwith send a report of the same to a Magistrate empowered to take cognizance of such offence upon a police report and shall proceed in person, or shall depute one of his subordinate officers not being below such rank as the State Government may, by general or special order, prescribe in this behalf, to proceed, to the spot, to investigate the facts and circumstances of the case, and, if necessary, to take measures for the discovery and arrest of the offender:
 
@@ -3888,35 +3232,23 @@ Provided that
 
 (2) In each of the cases mentioned in clauses (*a*) and (*b*) of the proviso to sub-section (1), the officer-in-charge of the police station shall state in his report his reasons for not fully complying with the requirements of that sub-section, and, in the case mentioned in clause (*b*) of the said proviso, the officer shall also forthwith notify to the informant, if any, in such manner as may be prescribed by the State Government, the fact that he will not investigate the case or cause it to be investigated.
 
-**Corresponding Law:** S. 157 of Act V of 1898.
+**Corresponding Law:** S. 157 of Act V of 1898. 
 
-
-
-## Section 158. Report how submitted
-
-
+## Section 158. Report how submitted 
 
 (1) Every report sent to a Magistrate under Section 157 shall, if the State Government so directs, be submitted through such superior officer of police as the State Government, by general or special order, appoints in that behalf.
 
 (2) Such superior officer may give such instructions to the officer in charge of the police station as he thinks fit, and shall, after recording such instructions on such report, transmit the same without delay to the Magistrate.
 
-**Corresponding Law:** S. 158 of Act V of 1898.
+**Corresponding Law:** S. 158 of Act V of 1898. 
 
-
-
-## Section 159. Power to hold investigation or preliminary inquiry
-
-
+## Section 159. Power to hold investigation or preliminary inquiry 
 
 Such Magistrate, on receiving such report, may direct an investigation, or, if he thinks fit, at once proceed, or depute any Magistrate subordinate to him to proceed, to hold a preliminary inquiry into, or otherwise to dispose of, the case in the manner provided in this Code.
 
-**Corresponding Law:** S. 159 of Act V of 1898.
+**Corresponding Law:** S. 159 of Act V of 1898. 
 
-
-
-## Section 160. Police officer's power to require attendance of witnesses
-
-
+## Section 160. Police officer's power to require attendance of witnesses 
 
 (1) Any police officer making an investigation under this Chapter may, by order in writing, require the attendance before himself of any person being within the limits of his own or any adjoining station who, from the information given or otherwise, appears to be acquainted with the facts and circumstances of the case; and such person shall attend as so required:
 
@@ -3924,13 +3256,9 @@ Provided that no male person [86](https://www.casemine.com/act/in/5a979daf4a9326
 
 (2) The State Government may, by rules made in this behalf, provide for the payment by the police officer of the reasonable expenses of every person, attending under sub-section (1) at any place other than his residence.
 
-**Corresponding Law:** S. 160 of Act V of 1898.
+**Corresponding Law:** S. 160 of Act V of 1898. 
 
-
-
-## Section 161. Examination of witnesses by police
-
-
+## Section 161. Examination of witnesses by police 
 
 (1) Any police officer making an investigation under this Chapter, or any police officer not below such rank as the State Government may, by general or special order, prescribe in this behalf, acting on the requisition of such officer, may examine orally any person supposed to be acquainted with the facts and circumstances of the case.
 
@@ -3948,13 +3276,9 @@ STATE AMENDMENTS
 
 **Chhattisgarh**. In its application to the State of Chhattisgarh, second proviso to sub-section (3) of Section 161, shall be *substituted*, namely
 
-Provided further that statement of the woman against whom an offence under Section 354, Section 354-A, Section 354-B, Section 354-C, Section 354-D, Section 354-E, Section 376, Section 376-A, Section 376-B, Section 376-C, Section 376-D, Section 376-E, Section 509, Section 509-A orSection 509-B of the Indian Penal Code, is alleged to have been committed or attempted, shall be recorded, as far as possible, by woman police officer and shall also be recorded by audio-video means, as far as possible, and it shall be the duty of such police officer to take all such steps as are necessary to protect the identity of the woman. [*Vide* Chhattisgarh Act 25 of 2015, S. 8 (w.e.f. 21-7-2015)]
+Provided further that statement of the woman against whom an offence under Section 354, Section 354-A, Section 354-B, Section 354-C, Section 354-D, Section 354-E, Section 376, Section 376-A, Section 376-B, Section 376-C, Section 376-D, Section 376-E, Section 509, Section 509-A orSection 509-B of the Indian Penal Code, is alleged to have been committed or attempted, shall be recorded, as far as possible, by woman police officer and shall also be recorded by audio-video means, as far as possible, and it shall be the duty of such police officer to take all such steps as are necessary to protect the identity of the woman. [*Vide* Chhattisgarh Act 25 of 2015, S. 8 (w.e.f. 21-7-2015)] 
 
-
-
-## Section 162. Statements to police not to be signed: Use of statements in evidence
-
-
+## Section 162. Statements to police not to be signed: Use of statements in evidence 
 
 (1) No statement made by any person to a police officer in the course of an investigation under this Chapter, shall, if reduced to writing, be signed by the person making it; nor shall any such statement or any record thereof, whether in a police diary or otherwise, or any part of such statement or record, be used for any purpose, save as hereinafter provided, at any inquiry or trial in respect of any offence under investigation at the time when such statement was made:
 
@@ -3964,13 +3288,9 @@ Provided that when any witness is called for the prosecution in such inquiry or 
 
 *Explanation*. An omission to state a fact or circumstance in the statement referred to in sub-section (1) may amount to contradiction if the same appears to be significant and otherwise relevant having regard to the context in which such omission occurs and whether any omission amounts to a contradiction in the particular context shall be a question of fact.
 
-**Corresponding Law:** S. 162 of Act V of 1898.
+**Corresponding Law:** S. 162 of Act V of 1898. 
 
-
-
-## Section 163. No inducement to be offered
-
-
+## Section 163. No inducement to be offered 
 
 (1) No police officer or other person in authority shall offer or make, or cause to be offered or made, any such inducement, threat or promise as is mentioned in Section 24 of the Indian Evidence Act, 1872 (1 of 1872).
 
@@ -3978,13 +3298,9 @@ Provided that when any witness is called for the prosecution in such inquiry or 
 
 Provided that nothing in this sub-section shall affect the provisions of sub-section (4) of Section 164.
 
-**Corresponding Law:** S. 163 of Act V of 1898.
+**Corresponding Law:** S. 163 of Act V of 1898. 
 
-
-
-## Section 164. Recording of confessions and statements
-
-
+## Section 164. Recording of confessions and statements 
 
 (1) Any Metropolitan Magistrate or Judicial Magistrate may, whether or not he has jurisdiction in the case, record any confession or statement made to him in the course of an investigation under this Chapter or under any other law for the time being in force, or at any time afterwards before the commencement of the inquiry or trial:
 
@@ -4058,13 +3374,9 @@ STATE AMENDMENTS
 
 **Chhattisgarh**. In its application to the State of Chhattisgarh, in Section 164-A, except explanation clause, for the words registered medical practitioner , where it occurs for the first time, the words female registered medical practitoner shall be *substituted*. [*Vide* Chhattisgarh Act 25 of 2015, S. 10 (w.e.f. 21-7-2015)]
 
-**Notes on Clauses to 2005 Amendment** This clause seeks to insert new Section 164-A in the Code to provide for a medical examination of the victim of a rape by a registered medical practitioner employed in a hospital run by the Government or a local authority and in the absence of such practitioner by any other registered medical practitioner.
+**Notes on Clauses to 2005 Amendment** This clause seeks to insert new Section 164-A in the Code to provide for a medical examination of the victim of a rape by a registered medical practitioner employed in a hospital run by the Government or a local authority and in the absence of such practitioner by any other registered medical practitioner. 
 
-
-
-## Section 165. Search by police officer
-
-
+## Section 165. Search by police officer 
 
 (1) Whenever an officer in charge of a police station or a police officer making an investigation has reasonable grounds for believing that anything necessary for the purposes of an investigation into any offence which he is authorised to investigate may be found in any place within the limits of the police station of which he is in charge, or to which he is attached, and that such thing cannot in his opinion be otherwise obtained without undue delay, such officer may, after recording in writing the grounds of his belief and specifying in such writing, so far as possible, the thing for which search is to be made, search, or cause search to be made, for such thing in any place within the limits of such station.
 
@@ -4076,13 +3388,9 @@ STATE AMENDMENTS
 
 (5) Copies of any record made under sub-section (1) or sub-section (3) shall forthwith be sent to the nearest Magistrate empowered to take cognizance of the offence, and the owner or occupier of the place searched shall, on application, be furnished, free of cost, with a copy of the same by the Magistrate.
 
-**Corresponding Law:** S. 165 of Act V of 1898.
+**Corresponding Law:** S. 165 of Act V of 1898. 
 
-
-
-## Section 166. When officer in charge of police station may require another to issue search-warrant
-
-
+## Section 166. When officer in charge of police station may require another to issue search-warrant 
 
 (1) An officer in charge of a police station or a police officer not being below the rank of sub-inspector making an investigation may require an officer in charge of another police station, whether in the same or a different district, to cause a search to be made in any place, in any case in which the former officer might cause such search to be made, within the limits of his own station.
 
@@ -4110,13 +3418,9 @@ STATE AMENDMENTS
 
 as if the offence had been committed within India.
 
-(2) All the evidence taken or collected under sub-section (1), or authenticated copies thereof or the thing so collected, shall be forwarded by the Magistrate or police officer, as the case may be, to the Central Government for transmission to the Court or the authority issuing the letter of request, in such manner as the Central Government may deem fit.]
+(2) All the evidence taken or collected under sub-section (1), or authenticated copies thereof or the thing so collected, shall be forwarded by the Magistrate or police officer, as the case may be, to the Central Government for transmission to the Court or the authority issuing the letter of request, in such manner as the Central Government may deem fit.] 
 
-
-
-## Section 167. Procedure when investigation cannot be completed in twenty-four hours
-
-
+## Section 167. Procedure when investigation cannot be completed in twenty-four hours 
 
 (1) Whenever any person is arrested and detained in custody, and it appears that the investigation cannot be completed within the period of twenty-four hours fixed by Section 57, and there are grounds for believing that the accusation or information is well-founded, the officer in charge of the police station or the police officer making the investigation, if he is not below the rank of sub-inspector, shall forthwith transmit to the nearest Judicial Magistrate a copy of the entries in the diary hereinafter prescribed relating to the case, and shall at the same time forward the accused to such Magistrate.
 
@@ -4370,33 +3674,21 @@ SECTION 167-A
 
 **Uttar Pradesh**. *Inserted* the following new Section 167-A:
 
-167-A. *Procedure on arrest by Magistrate*. For the avoidance of doubts, it is hereby declared that the provisions of Section 167 shall, so far as may be, apply also in relation to any person arrested by, or under any order or direction of, a Magistrate, whether executive or judicial. U.P. Act 18 of 1977, S. 2 (w.e.f. 5-11-1977).
+167-A. *Procedure on arrest by Magistrate*. For the avoidance of doubts, it is hereby declared that the provisions of Section 167 shall, so far as may be, apply also in relation to any person arrested by, or under any order or direction of, a Magistrate, whether executive or judicial. U.P. Act 18 of 1977, S. 2 (w.e.f. 5-11-1977). 
 
-
-
-## Section 168. Report of investigation by subordinate police officer
-
-
+## Section 168. Report of investigation by subordinate police officer 
 
 When any subordinate police officer has made any investigation under this Chapter, he shall report the result of such investigation to the officer in charge of the police station.
 
-**Corresponding Law:** S. 168 of Act V of 1898.
+**Corresponding Law:** S. 168 of Act V of 1898. 
 
-
-
-## Section 169. Release of accused when evidence deficient
-
-
+## Section 169. Release of accused when evidence deficient 
 
 If, upon an investigation under this Chapter, it appears to the officer in charge of the police station that there is not sufficient evidence or reasonable ground of suspicion to justify the forwarding of the accused to a Magistrate, such officer shall, if such person is in custody, release him on his executing a bond, with or without sureties, as such officer may direct, to appear, if and when so required, before a Magistrate empowered to take cognizance of the offence on a police report, and to try the accused or commit him for trial.
 
-**Corresponding Law:** S. 169 of Act V of 1898.
+**Corresponding Law:** S. 169 of Act V of 1898. 
 
-
-
-## Section 170. Cases to be sent to Magistrate when evidence is sufficient
-
-
+## Section 170. Cases to be sent to Magistrate when evidence is sufficient 
 
 (1) If, upon an investigation under this Chapter, it appears to the officer in charge of the police station that there is sufficient evidence or reasonable ground as aforesaid, such officer shall forward the accused under custody to a Magistrate empowered to take cognizance of the offence upon a police report and to try the accused or commit him for trial, or, if the offence is bailable and the accused is able to give security, shall take security from him for his appearance before such Magistrate on a day fixed and for his attendance from day to day before such Magistrate until otherwise directed.
 
@@ -4406,25 +3698,17 @@ If, upon an investigation under this Chapter, it appears to the officer in charg
 
 (4) The officer in whose presence the bond is executed shall deliver a copy thereof to one of the persons who executed it, and shall then send to the Magistrate the original with his report.
 
-**Corresponding Law:** S. 170 of Act V of 1898.
+**Corresponding Law:** S. 170 of Act V of 1898. 
 
-
-
-## Section 171. Complainant and witnesses not to be required to accompany police officer and not to be subjected to restraint
-
-
+## Section 171. Complainant and witnesses not to be required to accompany police officer and not to be subjected to restraint 
 
 No complainant or witness on his way to any Court shall be required to accompany a police officer, or shall be subjected to unnecessary restraint or inconvenience, or required to give any security for his appearance other than his own bond:
 
 Provided that, if any complainant or witness refuses to attend or to execute a bond as directed in Section 170, the officer in charge of the police station may forward him in custody to the Magistrate, who may detain him in custody until he executes such bond, or until the hearing of the case is completed.
 
-**Corresponding Law:** S. 171 of Act V of 1898.
+**Corresponding Law:** S. 171 of Act V of 1898. 
 
-
-
-## Section 172. Diary of proceedings in investigation
-
-
+## Section 172. Diary of proceedings in investigation 
 
 (1) Every police officer making an investigation under this Chapter shall day by day enter his proceedings in the investigation in a dairy, setting forth the time at which the information reached him, the time at which he began and closed his investigation, the place or places visited by him, and a statement of the circumstances ascertained through his investigation.
 
@@ -4436,13 +3720,9 @@ Provided that, if any complainant or witness refuses to attend or to execute a b
 
 (3) Neither the accused nor his agents shall be entitled to call for such diaries, nor shall he or they be entitled to see them merely because they are referred to by the Court; but, if they are used by the police officer who made them to refresh his memory, or if the Court uses them for the purpose of contradicting such police officer, the provisions of Section 161 or Section 145, as the case may be, of the Indian Evidence Act, 1872 (1 of 1872), shall apply.
 
-**Corresponding Law:** S. 172 of Act V of 1898.
+**Corresponding Law:** S. 172 of Act V of 1898. 
 
-
-
-## Section 173. Report of police officer on completion of investigation
-
-
+## Section 173. Report of police officer on completion of investigation 
 
 (1) Every investigation under this Chapter shall be completed without unnecessary delay.
 
@@ -4484,13 +3764,9 @@ Provided that, if any complainant or witness refuses to attend or to execute a b
 
 (8) Nothing in this section shall be deemed to preclude further investigation in respect of an offence after a report under sub-section (2) has been forwarded to the Magistrate and, where upon such investigation, the officer in charge of the police station obtains further evidence, oral or documentary, he shall forward to the Magistrate a further report or reports regarding such evidence in the form prescribed; and the provisions of sub-sections (2) to (6) shall, as far as may be, apply in relation to such report or reports as they apply in relation to a report forwarded under sub-section (2).
 
-**Corresponding Law:** S. 173 of Act V of 1898.
+**Corresponding Law:** S. 173 of Act V of 1898. 
 
-
-
-## Section 174. Police to enquire and report on suicide, etc
-
-
+## Section 174. Police to enquire and report on suicide, etc 
 
 (1) When the officer in charge of a police station or some other police officer specially empowered by the State Government in that behalf receives information that a person has committed suicide, or has been killed by another or by an animal or by machinery or by an accident, or has died under circumstances raising a reasonable suspicion that some other person has committed an offence, he shall immediately give intimation thereof to the nearest Executive Magistrate empowered to hold inquests, and, unless otherwise directed by any rule prescribed by the State Government, or by any general or special order of the District or Sub-Divisional Magistrate, shall proceed to the place where the body of such deceased person is, and there, in the presence of two or more respectable inhabitants of the neighbourhood, shall make an investigation, and draw up a report of the apparent cause of death, describing such wounds, fractures, bruises, and other marks of injury as may be found on the body, and stating in what manner, or by what weapon or instrument (if any), such marks appear to have been inflicted.
 
@@ -4512,25 +3788,17 @@ he shall,] subject to such rules as the State Government may prescribe in this b
 
 (4) The following Magistrates are empowered to hold inquests, namely, any District Magistrate or Sub-Divisional Magistrate and any other Executive Magistrate specially empowered in this behalf by the State Government or the District Magistrate.
 
-**Corresponding Law:** S. 174 of Act V of 1898.
+**Corresponding Law:** S. 174 of Act V of 1898. 
 
-
-
-## Section 175. Power to summon persons
-
-
+## Section 175. Power to summon persons 
 
 (1) A police officer proceeding under Section 174 may, by order in writing, summon two or more persons as aforesaid for the purpose of the said investigation, and any other person who appears to be acquainted with the facts of the case and every person so summoned shall be bound to attend and to answer truly all questions other than questions the answers to which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.
 
 (2) If the facts do not disclose a cognizable offence to which Section 170 applies, such persons shall not be required by the police officer to attend a Magistrate's Court.
 
-**Corresponding Law:** S. 175 of Act V of 1898.
+**Corresponding Law:** S. 175 of Act V of 1898. 
 
-
-
-## Section 176. Inquiry by Magistrate into cause of death
-
-
+## Section 176. Inquiry by Magistrate into cause of death 
 
 (1) [108](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_108)[* * *] [109](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_109)[[110](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_110)[* * *] when the case is of the nature referred to in clause (*i*) or clause (*ii*) of sub-section (3) of Section 174], the nearest Magistrate empowered to hold inquests shall, and in any other case mentioned in sub-section (1) of Section 174, any Magistrate so empowered may hold an inquiry into the cause of death either instead of, or in addition to, the investigation held by the police officer; and if he does so, he shall have all the powers in conducting it which he would have in holding an inquiry into an offence.
 
@@ -4622,23 +3890,15 @@ while such person or woman is in the custody of the police or in any other custo
 
 Chapter XIII
 
-JURISDICTION OF THE CRIMINAL COURTS IN INQUIRIES AND TRIALS
+JURISDICTION OF THE CRIMINAL COURTS IN INQUIRIES AND TRIALS 
 
-
-
-## Section 177. Ordinary place of inquiry and trial
-
-
+## Section 177. Ordinary place of inquiry and trial 
 
 Every offence shall ordinarily be inquired into and tried by a Court within whose local jurisdiction it was committed.
 
-**Corresponding Law:** S. 177 of Act V of 1898.
+**Corresponding Law:** S. 177 of Act V of 1898. 
 
-
-
-## Section 178. Place of inquiry or trial
-
-
+## Section 178. Place of inquiry or trial 
 
 (*a*) When it is uncertain in which of several local areas an offence was committed, or
 
@@ -4650,33 +3910,21 @@ Every offence shall ordinarily be inquired into and tried by a Court within whos
 
 it may be inquired into or tried by a Court having jurisdiction over any of such local areas.
 
-**Corresponding Law:** S. 182 of Act V of 1898.
+**Corresponding Law:** S. 182 of Act V of 1898. 
 
-
-
-## Section 179. Offence triable where act is done or consequence ensues
-
-
+## Section 179. Offence triable where act is done or consequence ensues 
 
 When an act is an offence by reason of anything which has been done and of a consequence which has ensued, the offence may be inquired into or tried by a Court within whose local jurisdiction such thing has been done or such consequence has ensued.
 
-**Corresponding Law:** S. 179 of Act V of 1898.
+**Corresponding Law:** S. 179 of Act V of 1898. 
 
-
-
-## Section 180. Place of trial where act is an offence by reason of relation to other offence
-
-
+## Section 180. Place of trial where act is an offence by reason of relation to other offence 
 
 When an act is an offence by reason of its relation to any other act which is also an offence or which would be an offence if the doer were capable of committing an offence, the first-mentioned offence may be inquired into or tried by a Court within whose local jurisdiction either act was done.
 
-**Corresponding Law:** S. 180 of Act V of 1898.
+**Corresponding Law:** S. 180 of Act V of 1898. 
 
-
-
-## Section 181. Place of trial in case of certain offences
-
-
+## Section 181. Place of trial in case of certain offences 
 
 (1) Any offence of being a thug, or murder committed by a thug, of dacoity, of dacoity with murder, of belonging to a gang of dacoits, or of escaping from custody, may be inquired into or tried by a Court within whose local jurisdiction the offence was committed or the accused person is found.
 
@@ -4688,33 +3936,21 @@ When an act is an offence by reason of its relation to any other act which is al
 
 (5) Any offence which includes the possession of stolen property may be inquired into or tried by a Court within whose local jurisdiction the offence was committed or the stolen property was possessed by any person who received or retained it knowing or having reason to believe it to be stolen property.
 
-**Corresponding Law:** S. 181 of Act V of 1898.
+**Corresponding Law:** S. 181 of Act V of 1898. 
 
-
-
-## Section 182. Offences committed by letters, etc
-
-
+## Section 182. Offences committed by letters, etc 
 
 (1) Any offence which includes cheating may, if the deception is practised by means of letters or telecommunication messages, be inquired into or tried by any Court within whose local jurisdiction such letters or messages were sent or were received; and any offence of cheating and dishonestly inducing delivery of property may be inquired into or tried by a Court within whose local jurisdiction the property was delivered by the person deceived or was received by the accused person.
 
-(2) Any offence punishable under Section 494 or Section 495 of the Indian Penal Code (45 of 1860) may be inquired into or tried by a Court within whose local jurisdiction the offence was committed or the offender last resided with his or her spouse by the first marriage [113](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_113)[, or the wife by the first marriage has taken up permanent residence after the commission of the offence].
+(2) Any offence punishable under Section 494 or Section 495 of the Indian Penal Code (45 of 1860) may be inquired into or tried by a Court within whose local jurisdiction the offence was committed or the offender last resided with his or her spouse by the first marriage [113](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_113)[, or the wife by the first marriage has taken up permanent residence after the commission of the offence]. 
 
-
-
-## Section 183. Offence committed on journey or voyage
-
-
+## Section 183. Offence committed on journey or voyage 
 
 When an offence is committed whilst the person by or against whom, or the thing in respect of which, the offence is committed is in the course of performing a journey or voyage, the offence may be inquired into or tried by a Court through or into whose local jurisdiction that person or thing passed in the course of that journey or voyage.
 
-**Corresponding Law:** S. 183 of Act V of 1898.
+**Corresponding Law:** S. 183 of Act V of 1898. 
 
-
-
-## Section 184. Place of trial for offences triable together
-
-
+## Section 184. Place of trial for offences triable together 
 
 Where
 
@@ -4722,25 +3958,17 @@ Where
 
 (*b*) the offence or offences committed by several persons are such that they may be charged with and tried together by virtue of the provisions of Section 223,
 
-the offences may be inquired into or tried by any Court competent to inquire into or try any of the offences.
+the offences may be inquired into or tried by any Court competent to inquire into or try any of the offences. 
 
-
-
-## Section 185. Power to order cases to be tried in different sessions divisions
-
-
+## Section 185. Power to order cases to be tried in different sessions divisions 
 
 Notwithstanding anything contained in the preceding provisions of this Chapter, the State Government may direct that any cases or class of cases committed for trial in any district may be tried in any sessions division:
 
 Provided that such direction is not repugnant to any direction previously issued by the High Court or the Supreme Court under the Constitution, or under this Code or any other law for the time being in force.
 
-**Corresponding Law:** S. 178 of Act V of 1898.
+**Corresponding Law:** S. 178 of Act V of 1898. 
 
-
-
-## Section 186. High Court to decide, in case of doubt, district where inquiry or trial shall take place
-
-
+## Section 186. High Court to decide, in case of doubt, district where inquiry or trial shall take place 
 
 Where two or more Courts have taken cognizance of the same offence and a question arises as to which of them ought to inquire into or try that offence, the question shall be decided
 
@@ -4750,25 +3978,17 @@ Where two or more Courts have taken cognizance of the same offence and a questio
 
 and thereupon all other proceedings in respect of that offence shall be discontinued.
 
-**Corresponding Law:** S. 185 of Act V of 1898.
+**Corresponding Law:** S. 185 of Act V of 1898. 
 
-
-
-## Section 187. Power to issue summons or warrant for offence committed beyond local jurisdiction
-
-
+## Section 187. Power to issue summons or warrant for offence committed beyond local jurisdiction 
 
 (1) When a Magistrate of the first class sees reason to believe that any person within his local jurisdiction has committed outside such jurisdiction (whether within or outside India) an offence which cannot, under the provisions of Sections 177 to 185 (both inclusive), or any other law for the time being in force, be inquired into or tried within such jurisdiction but is under some law for the time being in force triable in India, such Magistrate may inquire into the offence as if it had been committed within such local jurisdiction and compel such person in the manner hereinbefore provided to appear before him, and send such person to the Magistrate having jurisdiction to inquire into or try such offence, or, if such offence is not punishable with death or imprisonment for life and such person is ready and willing to give bail to the satisfaction of the Magistrate acting under this section, take a bond with or without sureties for his appearance before the Magistrate having such jurisdiction.
 
 (2) When there are more Magistrates than one having such jurisdiction and the Magistrate acting under this section cannot satisfy himself as to the Magistrate to or before whom such person should be sent or bound to appear, the case shall be reported for the orders of the High Court.
 
-**Corresponding Law:** S. 186 of Act V of 1898.
+**Corresponding Law:** S. 186 of Act V of 1898. 
 
-
-
-## Section 188. Offence committed outside India
-
-
+## Section 188. Offence committed outside India 
 
 When an offence is committed outside India
 
@@ -4782,13 +4002,9 @@ Provided that, notwithstanding anything in any of the preceding sections of this
 
 **Corresponding Law:** S. 188 of Act V of 1898.
 
-[114](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_114)[**188-A. Offence committed in exclusive economic zone**. When an offence is committed by any person in the exclusive economic zone described in sub-section (1) of Section 7 of the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zone Act, 1976 (80 of 1976) or as altered by notification, if any, issued under sub-section (2) thereof, such person may be dealt with in respect of such offence as if it had been committed in any place in which he may be found or in such other place as the Central Government may direct under Section 13 of the said Act.]
+[114](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_114)[**188-A. Offence committed in exclusive economic zone**. When an offence is committed by any person in the exclusive economic zone described in sub-section (1) of Section 7 of the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zone Act, 1976 (80 of 1976) or as altered by notification, if any, issued under sub-section (2) thereof, such person may be dealt with in respect of such offence as if it had been committed in any place in which he may be found or in such other place as the Central Government may direct under Section 13 of the said Act.] 
 
-
-
-## Section 189. Receipt of evidence relating to offences committed outside India
-
-
+## Section 189. Receipt of evidence relating to offences committed outside India 
 
 When any offence alleged to have been committed in a territory outside India is being inquired into or tried under the provisions of Section 188, the Central Government may, if it thinks fit, direct that copies of depositions made or exhibits produced before a judicial officer in or for that territory or before a diplomatic or consular representative of India in or for that territory shall be received as evidence by the Court holding such inquiry or trial in any case in which such Court might issue a commission for taking evidence as to the matters to which such depositions or exhibits relate.
 
@@ -4796,13 +4012,9 @@ When any offence alleged to have been committed in a territory outside India is 
 
 # Chapter XIV
 
-# CONDITIONS REQUISITE FOR INITIATION OF PROCEEDINGS
+# CONDITIONS REQUISITE FOR INITIATION OF PROCEEDINGS 
 
-
-
-## Section 190. Cognizance of offences by Magistrates
-
-
+## Section 190. Cognizance of offences by Magistrates 
 
 (1) Subject to the provisions of this Chapter, any Magistrate of the first class, and any Magistrate of the second class specially empowered in this behalf under sub-section (2), may take cognizance of any offence
 
@@ -4812,51 +4024,27 @@ When any offence alleged to have been committed in a territory outside India is 
 
 (*c*) upon *information received* from any person other than a police officer, or upon *his own knowledge,* that such offence has been committed.
 
-(2) The Chief Judicial Magistrate may empower any Magistrate of the second class to take cognizance under sub-section (1) of such offences as are within his competence to inquire into or try.
+(2) The Chief Judicial Magistrate may empower any Magistrate of the second class to take cognizance under sub-section (1) of such offences as are within his competence to inquire into or try. 
 
+## Section 191. Transfer on application of the accused 
 
+When a Magistrate takes cognizance of an offence *under clause (c) of sub-section (1) of Section 190,* the accused shall, before any evidence is taken, be informed that he is entitled to have the case inquired into or tried by another Magistrate, and if the accused or any of the accused, if there be more than one, objects to further proceedings before the Magistrate taking cognizance, the case shall be transferred to such other Magistrate as may be specified by the Chief Judicial Magistrate in this behalf. 
 
-## Section 191. Transfer on application of the accused
-
-
-
-When a Magistrate takes cognizance of an offence *under clause (c) of sub-section (1) of Section 190,* the accused shall, before any evidence is taken, be informed that he is entitled to have the case inquired into or tried by another Magistrate, and if the accused or any of the accused, if there be more than one, objects to further proceedings before the Magistrate taking cognizance, the case shall be transferred to such other Magistrate as may be specified by the Chief Judicial Magistrate in this behalf.
-
-
-
-## Section 192. Making over of cases to Magistrates
-
-
+## Section 192. Making over of cases to Magistrates 
 
 (1) Any Chief Judicial Magistrate may, after taking cognizance of an offence, make over the case for inquiry or trial to any competent Magistrate subordinate to him.
 
-(2) Any Magistrate of the first class empowered in this behalf by the Chief Judicial Magistrate may, after taking cognizance of an offence, make over the case for inquiry or trial to such other competent Magistrate as the Chief Judicial Magistrate may, by general or special order, specify, and thereupon such Magistrate may hold the inquiry or trial.
+(2) Any Magistrate of the first class empowered in this behalf by the Chief Judicial Magistrate may, after taking cognizance of an offence, make over the case for inquiry or trial to such other competent Magistrate as the Chief Judicial Magistrate may, by general or special order, specify, and thereupon such Magistrate may hold the inquiry or trial. 
 
+## Section 193. Cognizance of offences by Courts of Session 
 
+Except as otherwise expressly provided by this Code or by any other law for the time being in force, no Court of Session shall take cognizance of any offence as a Court of original juris-diction unless the case has been committed to it by a Magistrate under this Code. 
 
-## Section 193. Cognizance of offences by Courts of Session
+## Section 194. Additional and Assistant Sessions Judges to try cases made over to them 
 
+An Additional Sessions Judge or Assistant Sessions Judge shall try such cases as the Sessions Judge of the division may, by general or special order, make over to him for trial or as the High Court may, by special order, direct him to try. 
 
-
-Except as otherwise expressly provided by this Code or by any other law for the time being in force, no Court of Session shall take cognizance of any offence as a Court of original juris-diction unless the case has been committed to it by a Magistrate under this Code.
-
-
-
-
-
-## Section 194. Additional and Assistant Sessions Judges to try cases made over to them
-
-
-
-An Additional Sessions Judge or Assistant Sessions Judge shall try such cases as the Sessions Judge of the division may, by general or special order, make over to him for trial or as the High Court may, by special order, direct him to try.
-
-
-
-
-
-## Section 195. Prosecution for contempt of lawful authority of public servants, for offences against public justice and for offences relating to documents given in evidence
-
-
+## Section 195. Prosecution for contempt of lawful authority of public servants, for offences against public justice and for offences relating to documents given in evidence 
 
 (1) No Court shall take cognizance
 
@@ -4888,17 +4076,11 @@ Provided that
 
 (*a*) where appeals lie to more than one Court, the Appellate Court of inferior jurisdiction shall be the Court to which such Court shall be deemed to be subordinate;
 
-(*b*) where appeals lie to a Civil and also to a Revenue Court, such Court shall be deemed to be subordinate to the Civil or Revenue Court according to the nature of the case or proceeding in connection with which the offence is alleged to have been committed.
+(*b*) where appeals lie to a Civil and also to a Revenue Court, such Court shall be deemed to be subordinate to the Civil or Revenue Court according to the nature of the case or proceeding in connection with which the offence is alleged to have been committed. 
 
+[116](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_116)[**195-A. Procedure for witnesses in case of threatening, etc**. A witness or any other person may file a complaint in relation to an offence under Section 195-A of the Indian Penal Code (45 of 1860).] 
 
-
-[116](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_116)[**195-A. Procedure for witnesses in case of threatening, etc**. A witness or any other person may file a complaint in relation to an offence under Section 195-A of the Indian Penal Code (45 of 1860).]
-
-
-
-## Section 196. Prosecution for offences against the State and for criminal conspiracy to commit such offence
-
-
+## Section 196. Prosecution for offences against the State and for criminal conspiracy to commit such offence 
 
 (1) No Court shall take cognizance of
 
@@ -4934,13 +4116,9 @@ STATE AMENDMENTS
 
 **Manipur**. In its application to the State of Manipur, in S. 196, after sub-section (3), the following sub-section shall be *added*, namely
 
-(4) No specified Executive Magistrate shall take cognizance of any offence except with the previous sanction of the State Government or such other authority or officer as it may, by order published in the Official Gazette, specify. Mani. Act 3 of 1985, S. 4(2), Sch. (23-3-1985 up to a period of three years).
+(4) No specified Executive Magistrate shall take cognizance of any offence except with the previous sanction of the State Government or such other authority or officer as it may, by order published in the Official Gazette, specify. Mani. Act 3 of 1985, S. 4(2), Sch. (23-3-1985 up to a period of three years). 
 
-
-
-## Section 197. Prosecution of Judges and public servants
-
-
+## Section 197. Prosecution of Judges and public servants 
 
 (1) When any person who is or was a Judge or Magistrate or a public servant not removable from his office save by or with the sanction of the Government is accused of any offence alleged to have been committed by him while acting or purporting to act in the discharge of his official duty, no Court shall take cognizance of such offence *except with the previous sanction [121](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_121)[save as otherwise provided in the Lokpal and Lokayuktas Act, 2013]*
 
@@ -4960,13 +4138,9 @@ STATE AMENDMENTS
 
 (3-B) Notwithstanding anything to the contrary contained in this Code or any other law, it is hereby declared that any sanction accorded by the State Government or any cognizance taken by a court upon such sanction, during the period commencing on the 20th day of August, 1991 and ending with the date immediately preceding the date on which the Code of Criminal Procedure (Amendment) Act, 1991, receives the assent of the President, with respect to an offence alleged to have been committed during the period while a Proclamation issued under clause (1) of Article 356 of the Constitution was in force in the State, shall be invalid and it shall be competent for the Central Government in such matter to accord sanction and for the court to take cognizance thereon.]
 
-(4) The Central Government or the State Government, as the case may be, may determine the person by whom, the manner in which, and the offence or offences for which, the prosecution of such Judge, Magistrate or public servant is to be conducted, and may specify the Court before which the trial is to be held.
+(4) The Central Government or the State Government, as the case may be, may determine the person by whom, the manner in which, and the offence or offences for which, the prosecution of such Judge, Magistrate or public servant is to be conducted, and may specify the Court before which the trial is to be held. 
 
-
-
-## Section 198. Prosecution for offences against marriage
-
-
+## Section 198. Prosecution for offences against marriage 
 
 (1) No Court shall take cognizance of an offence punishable under Chapter XX of the Indian Penal Code (45 of 1860) except upon a complaint made by some person aggrieved by the offence:
 
@@ -5000,13 +4174,9 @@ Provided that in the absence of the husband, some person who had care of the wom
 
 [130](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_130)[**198-A. Prosecution of offences under Section 498-A of the Indian Penal Code**. No Court shall take cognizance of an offence punishable under Section 498-A of the Indian Penal Code (45 of 1860) except upon a police report of facts which constitute such offence or upon a complaint made by the person aggrieved by the offence or by her father, mother, brother, sister or by her father's or mother's brother or sister or, with the leave of the Court, by any other person related to her by blood, marriage or adoption.]
 
-[131](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_131)[**198-B. Cognizance of offence**. No court shall take cognizance of an offence punishable under Section 376-B of the Indian Penal Code (45 of 1860) where the persons are in a marital relationship, except upon prima facie satisfaction of the facts which constitute the offence upon a complaint having been filed or made by the wife against the husband.]
+[131](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_131)[**198-B. Cognizance of offence**. No court shall take cognizance of an offence punishable under Section 376-B of the Indian Penal Code (45 of 1860) where the persons are in a marital relationship, except upon prima facie satisfaction of the facts which constitute the offence upon a complaint having been filed or made by the wife against the husband.] 
 
-
-
-## Section 199. Prosecution for defamation
-
-
+## Section 199. Prosecution for defamation 
 
 (1) No Court shall take cognizance of an offence punishable under Chapter XXI of the Indian Penal Code (45 of 1860) except upon a complaint made by some person aggrieved by the offence:
 
@@ -5034,13 +4204,9 @@ Provided that where such person is under the age of eighteen years, or is an idi
 
 # Chapter XV
 
-# COMPLAINTS TO MAGISTRATES
+# COMPLAINTS TO MAGISTRATES 
 
-
-
-## Section 200. Examination of complainant
-
-
+## Section 200. Examination of complainant 
 
 A Magistrate taking cognizance of an offence on complaint shall examine upon oath the complainant and the witnesses present, if any, and the substance of such examination shall be reduced to writing and shall be signed by the complainant and the witnesses, and also by the Magistrate:
 
@@ -5052,13 +4218,9 @@ Provided that, when the complaint is made in writing, the Magistrate need not ex
 
 Provided further that if the Magistrate makes over the case to another Magistrate under Section 192 after examining the complainant and the witnesses, the latter Magistrate need not re-examine them.
 
-**Corresponding Law:** S. 200 of Act V of 1898.
+**Corresponding Law:** S. 200 of Act V of 1898. 
 
-
-
-## Section 201. Procedure by Magistrate not competent to take cognizance of the case
-
-
+## Section 201. Procedure by Magistrate not competent to take cognizance of the case 
 
 If the complaint is made to a Magistrate who is not competent to take cognizance of the offence, he shall,
 
@@ -5066,13 +4228,9 @@ If the complaint is made to a Magistrate who is not competent to take cognizance
 
 (*b*) if the complaint is not in writing, direct the complainant to the proper Court.
 
-**Corresponding Law:** S. 201 of Act V of 1898.
+**Corresponding Law:** S. 201 of Act V of 1898. 
 
-
-
-## Section 202. Postponement of issue of process
-
-
+## Section 202. Postponement of issue of process 
 
 (1) Any Magistrate, on receipt of a complaint of an offence of which he is authorized to take cognizance or which has been made over to him under Section 192, may, if he thinks fit, [132](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_132)[and shall, in a case where the accused is residing at a place beyond the area in which he exercises his jurisdiction,] postpone the issue of process against the accused, and either inquire into the case himself or direct an investigation to be made by a police officer or by such other person as he thinks fit, for the purpose of deciding whether or not there is sufficient ground for proceeding:
 
@@ -5090,27 +4248,17 @@ Provided that if it appears to the Magistrate that the offence complained of is 
 
 **Notes on Clauses to 2005 Amendment** False complaints are filed against persons residing at far off places simply to harass them. In order to see that innocent persons are not harassed by unscrupulous persons, this clause seeks to amend sub-section (1) of Section 202 to make it obligatory upon the Magistrate that before summoning the accused residing beyond his jurisdiction he shall enquire into the case himself or direct investigation to be made by a police officer or by such other person as he thinks fit, for finding out whether or not there was sufficient ground for proceeding against the accused.
 
-**Corresponding Law:** S. 202 of Act V of 1898.
+**Corresponding Law:** S. 202 of Act V of 1898. 
 
-
-
-## Section 203. Dismissal of complaint
-
-
+## Section 203. Dismissal of complaint 
 
 If, after considering the statements on oath (if any) of the complainant and of the witnesses and the result of the inquiry or investigation (if any) under Section 202, the Magistrate is of opinion that there is no sufficient ground for proceeding, he shall dismiss the complaint, and in every such case he shall briefly record his reasons for so doing.
 
 **Corresponding Law:** S. 203 of Act V of 1898.
 
-# Chapter XVI
+## Chapter XVI COMMENCEMENT OF PROCEEDINGS BEFORE MAGISTRATES 
 
-# COMMENCEMENT OF PROCEEDINGS BEFORE MAGISTRATES
-
-
-
-## Section 204. Issue of process
-
-
+## Section 204. Issue of process 
 
 (1) If in the opinion of a Magistrate taking cognizance of an offence there is sufficient ground for proceeding, and the case appears to be
 
@@ -5126,25 +4274,17 @@ If, after considering the statements on oath (if any) of the complainant and of 
 
 (5) Nothing in this section shall be deemed to affect the provisions of Section 87.
 
-**Corresponding Law:** S. 204 of Act V of 1898.
+**Corresponding Law:** S. 204 of Act V of 1898. 
 
-
-
-## Section 205. Magistrate may dispense with personal attendance of accused
-
-
+## Section 205. Magistrate may dispense with personal attendance of accused 
 
 (1) Whenever a Magistrate issues a summons, he may, if he sees reason so to do, dispense with the personal attendance of the accused and permit him to appear by his pleader.
 
 (2) But the Magistrate inquiring into or trying the case may, in his discretion, at any stage of the proceedings, direct the personal attendance of the accused, and, if necessary, enforce such attendance in the manner hereinbefore provided.
 
-**Corresponding Law:** S. 205 of Act V of 1898.
+**Corresponding Law:** S. 205 of Act V of 1898. 
 
-
-
-## Section 206. Special summons in case of petty offence
-
-
+## Section 206. Special summons in case of petty offence 
 
 (1) If, in the opinion of a Magistrate taking cognizance of a petty offence, the case may be summarily disposed of under Section 260 [133](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_133)[or Section 261], the Magistrate shall, except where he is, for reasons to be recorded in writing of a contrary opinion, issue summons to the accused requiring him either to appear in person or by pleader before the Magistrate on a specified date, or if he desires to plead guilty to the charge without appearing before the Magistrate, to transmit before the specified date, by post or by messenger to the Magistrate, the said plea in writing and the amount of fine specified in the summons or if he desires to appear by pleader and to plead guilty to the charge through such pleader, to authorize, in writing, the pleader to plead guilty to the charge on his behalf and to pay the fine through such pleader:
 
@@ -5154,13 +4294,9 @@ Provided that the amount of the fine specified in such summons shall not exceed 
 
 [135](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_135)[(3) The State Government may, by notification, specially empower any Magistrate to exercise the powers conferred by sub-section (1) in relation to any offence which is compoundable under Section 320 or any offence punishable with imprisonment for a term not exceeding three months, or with fine, or with both where the Magistrate is of opinion that, having regard to the facts and circumstances of the case, the imposition of fine only would meet the ends of justice.]
 
-**Notes on Clauses to 2005 Amendment** The provisions of Section 206 are meant to enable a quick disposal of petty cases and to reduce congestion in the Court of Magistrates. Since the value of the money has gone down considerably, this clause seeks to amend sub-section (1) of that section to raise the limit of fine that can be specified in the summons from one hundred rupees to one thousand rupees.
+**Notes on Clauses to 2005 Amendment** The provisions of Section 206 are meant to enable a quick disposal of petty cases and to reduce congestion in the Court of Magistrates. Since the value of the money has gone down considerably, this clause seeks to amend sub-section (1) of that section to raise the limit of fine that can be specified in the summons from one hundred rupees to one thousand rupees. 
 
-
-
-## Section 207. Supply to the accused of copy of police report and other documents
-
-
+## Section 207. Supply to the accused of copy of police report and other documents 
 
 In any case *where the proceeding has been instituted on a **police report***, the Magistrate shall without delay furnish to the accused, free of cost, a copy of each of the following:
 
@@ -5176,13 +4312,9 @@ In any case *where the proceeding has been instituted on a **police report***, t
 
 Provided that the Magistrate may, after perusing any such part of a statement as is referred to in clause (*iii*) and considering the reasons given by the police officer for the request, direct that a copy of that part of the statement or of such portion thereof as the Magistrate thinks proper, shall be furnished to the accused:
 
-Provided further that if the Magistrate is satisfied that any document referred to in clause (*v*) is voluminous, he shall, instead of furnishing the accused with a copy thereof, direct that he will only be allowed to inspect it either personally or through pleader in Court.
+Provided further that if the Magistrate is satisfied that any document referred to in clause (*v*) is voluminous, he shall, instead of furnishing the accused with a copy thereof, direct that he will only be allowed to inspect it either personally or through pleader in Court. 
 
-
-
-## Section 208. Supply of copies of statements and documents to accused in other cases triable by Court of Session
-
-
+## Section 208. Supply of copies of statements and documents to accused in other cases triable by Court of Session 
 
 Where, *in a case instituted **otherwise than on a police report***, it appears to the Magistrate issuing process under Section 204 that the offence is triable exclusively by the Court of Session, the Magistrate shall without delay furnish to the accused, free of cost, a copy of each of the following:
 
@@ -5192,13 +4324,9 @@ Where, *in a case instituted **otherwise than on a police report***, it appears 
 
 (*iii*) any documents produced before the Magistrate on which the prosecution proposes to rely:
 
-Provided that if the Magistrate is satisfied that any such document is voluminous, he shall, instead of furnishing the accused with a copy thereof, direct that he will only be allowed to inspect it either personally or through pleader in Court.
+Provided that if the Magistrate is satisfied that any such document is voluminous, he shall, instead of furnishing the accused with a copy thereof, direct that he will only be allowed to inspect it either personally or through pleader in Court. 
 
-
-
-## Section 209. Commitment of case to Court of Session when offence is triable exclusively by it
-
-
+## Section 209. Commitment of case to Court of Session when offence is triable exclusively by it 
 
 When in a case instituted on a police report or otherwise, the accused appears or is brought before the Magistrate and it appears to the Magistrate that the offence is triable exclusively by the Court of Session, he shall
 
@@ -5208,21 +4336,15 @@ When in a case instituted on a police report or otherwise, the accused appears o
 
 (*c*) send to that Court the record of the case and the documents and articles, if any, which are to be produced in evidence;
 
-(*d*) notify the Public Prosecutor of the commitment of the case to the Court of Session.
-
-
+(*d*) notify the Public Prosecutor of the commitment of the case to the Court of Session. 
 
 **Uttar Pradesh**. In Section 209 for clauses (*a*) and (*b*), the following clauses shall be *substituted* and be deemed always to have been *substituted*, namely:
 
 (*a*) as soon as may be after complying with the provisions of Section 207, commit the case to the Court of Session;
 
-(*b*) subject to the provisions of this Code relating to bail, remand the accused to custody until commitment of the case under clause (*a*) and thereafter during, and until the conclusion of trial; . U.P. Act 16 of 1976, S. 6.
+(*b*) subject to the provisions of this Code relating to bail, remand the accused to custody until commitment of the case under clause (*a*) and thereafter during, and until the conclusion of trial; . U.P. Act 16 of 1976, S. 6. 
 
-
-
-## Section 210. Procedure to be followed when there is a complaint case and police investigation in respect of the same offence
-
-
+## Section 210. Procedure to be followed when there is a complaint case and police investigation in respect of the same offence 
 
 (1) When in a case instituted otherwise than on a police report (hereinafter referred to as a **complaint case)**, it is made to appear to the Magistrate, during the course of the inquiry or trial held by him, that an investigation by the police is in progress in relation to the offence which is the subject-matter of the inquiry or trial held by him, the Magistrate shall ***stay the proceedings** of such inquiry or trial and call for a report on the matter from the police officer conducting the investigation.*
 
@@ -5234,13 +4356,9 @@ When in a case instituted on a police report or otherwise, the accused appears o
 
 # THE CHARGE
 
-## A. *Form of Charges*
+## A. *Form of Charges* 
 
-
-
-## Section 211. Contents of charge
-
-
+## Section 211. Contents of charge 
 
 (1) Every charge under this Code shall **state the offence** with which the accused is charged.
 
@@ -5266,13 +4384,9 @@ When in a case instituted on a police report or otherwise, the accused appears o
 
 (*d*) *A* is charged under Section 184 of the Indian Penal Code (45 of 1860) with intentionally obstructing a sale of property offered for sale by the lawful authority of a public servant. The charge should be in those words.
 
-**Corresponding Law:** S. 221 of Act V of 1898.
+**Corresponding Law:** S. 221 of Act V of 1898. 
 
-
-
-## Section 212. Particulars as to time, place and person
-
-
+## Section 212. Particulars as to time, place and person 
 
 (1) The charge shall contain such particulars as to the time and place of the alleged offence, and the person (if any) against whom, or the thing (if any) in respect of which, it was committed, as are reasonably sufficient to give the accused notice of the matter with which he is charged.
 
@@ -5280,13 +4394,9 @@ When in a case instituted on a police report or otherwise, the accused appears o
 
 Provided that the time included between the first and last of such dates shall not exceed **one year.**
 
-**Corresponding Law:** S. 222 of Act V of 1898.
+**Corresponding Law:** S. 222 of Act V of 1898. 
 
-
-
-## Section 213. When manner of committing offence must be stated
-
-
+## Section 213. When manner of committing offence must be stated 
 
 When the nature of the case is such that the particulars mentioned in Sections 211 and 212 do not give the accused sufficient notice of the matter with which he is charged, the charge shall also *contain such particulars of the manner in which the alleged offence was committed as will be sufficient for that purpose.*
 
@@ -5304,23 +4414,15 @@ When the nature of the case is such that the particulars mentioned in Sections 2
 
 (*f*) *A* is accused of disobeying a direction of the law with intent to save *B* from punishment. The charge must set out the disobedience charged and the law infringed.
 
-**Corresponding Law:** S. 223 of Act V of 1898.
+**Corresponding Law:** S. 223 of Act V of 1898. 
 
-
-
-## Section 214. Words in charge taken in sense of law under which offence is punishable
-
-
+## Section 214. Words in charge taken in sense of law under which offence is punishable 
 
 In every charge words used in describing an offence shall be deemed to have been used in the sense attached to them respectively by the law under which such offence is punishable.
 
-**Corresponding Law:** S. 224 of Act V of 1898.
+**Corresponding Law:** S. 224 of Act V of 1898. 
 
-
-
-## Section 215. Effect of errors
-
-
+## Section 215. Effect of errors 
 
 **No error** in stating either the offence or the particulars required to be stated in the charge, and **no omission** to state the offence or those particulars, shall be regarded at any stage of the case *as material, unless the accused was in fact misled by such error or omission, and it has occasioned a failure of justice.*
 
@@ -5336,13 +4438,9 @@ In every charge words used in describing an offence shall be deemed to have been
 
 (*e*) *A* was charged with murdering Haidar Baksh on 20th January, 1882, and Khoda Baksh (who tried to arrest him for that murder) on the 21st January, 1882. When charged for the murder of Haidar Baksh, he was tried for the murder of Khoda Baksh. The witnesses present in his defence were witnesses in the case of Haidar Baksh. The Court may infer from this that *A* was misled, and that the error was material.
 
-**Corresponding Law:** S. 225 of Act V of 1898.
+**Corresponding Law:** S. 225 of Act V of 1898. 
 
-
-
-## Section 216. Court may alter charge
-
-
+## Section 216. Court may alter charge 
 
 (1) Any Court may **alter or add** to any charge at any time before judgment is pronounced.
 
@@ -5360,13 +4458,9 @@ In every charge words used in describing an offence shall be deemed to have been
 
 (5) If the offence stated in the altered or added charge is one for the prosecution of which previous sanction is necessary, the case shall not be proceeded with until such sanction is obtained, unless sanction has been already obtained for a prosecution on the same facts as those on which the altered or added charge is founded.
 
-**Corresponding Law:** S. 230 of Act V of 1898.
+**Corresponding Law:** S. 230 of Act V of 1898. 
 
-
-
-## Section 217. Recall of witnesses when charge altered
-
-
+## Section 217. Recall of witnesses when charge altered 
 
 Whenever a charge is altered or added to by the Court after the commencement of the trial, the prosecutor and the accused shall be allowed
 
@@ -5376,13 +4470,9 @@ Whenever a charge is altered or added to by the Court after the commencement of 
 
 **Corresponding Law:** S. 231 of Act V of 1898.
 
-B. *Joinder of Charges*
+B. *Joinder of Charges* 
 
-
-
-## Section 218. Separate charges for distinct offences
-
-
+## Section 218. Separate charges for distinct offences 
 
 (1) For every distinct offence of which any person is accused there shall be a separate charge, and every such charge shall be tried separately:
 
@@ -5394,13 +4484,9 @@ Illustration
 
 *A* is accused of a theft on one occasion, and of causing grievous hurt on another occasion. *A* must be separately charged and separately tried for the theft and causing grievous hurt.
 
-**Corresponding Law:** S. 233 of Act V of 1898.
+**Corresponding Law:** S. 233 of Act V of 1898. 
 
-
-
-## Section 219. Three offences of same kind within year may be charged together
-
-
+## Section 219. Three offences of same kind within year may be charged together 
 
 (1) When a person is accused of more offences than one of the same kind committed within the space of twelve months from the first to the last of such offences, whether in respect of the same person or not, he may be charged with, and tried at one trial for, any number of them not exceeding three.
 
@@ -5408,13 +4494,9 @@ Illustration
 
 Provided that, for the purposes of this section, an offence punishable under Section 379 of the Indian Penal Code (45 of 1860) shall be deemed to be an offence of the same kind as an offence punishable under Section 380 of the said Code, and that an offence punishable under any section of the said Code, or of any special or local law, shall be deemed to be an offence of the same kind as an attempt to commit such offence, when such an attempt is an offence.
 
-**Corresponding Law:** S. 234 of Act V of 1898.
+**Corresponding Law:** S. 234 of Act V of 1898. 
 
-
-
-## Section 220. Trial for more than one offence
-
-
+## Section 220. Trial for more than one offence 
 
 (1) If, in one series of acts so connected together as to form the same transaction, more offences than one are committed by the same person, he may be charged with, and tried at one trial for, every such offence.
 
@@ -5460,13 +4542,9 @@ Illustration to sub-section (4)
 
 (*m*) *A* commits robbery on *B*, and in doing so voluntarily causes hurt to him. *A* may be separately charged with, and convicted of, offences under Sections 323, 392 and 394 of the Indian Penal Code (45 of 1860).
 
-**Corresponding Law:** S. 235 of Act V of 1898.
+**Corresponding Law:** S. 235 of Act V of 1898. 
 
-
-
-## Section 221. Where it is doubtful what offence has been committed
-
-
+## Section 221. Where it is doubtful what offence has been committed 
 
 (1) If a single act or series of acts is of such a nature that it is doubtful which of several offences the facts which can be proved will constitute, the accused may be charged with having committed all or any of such offences, and any number of such charges may be tried at once; or he may be charged in the alternative with having committed some one of the said offences.
 
@@ -5482,13 +4560,9 @@ Illustrations
 
 (*c*) *A* states on oath before the Magistrate that he saw *B* hit *C* with a club. Before the Sessions Court *A* states on oath that *B* never hit *C. A* may be charged in the alternative and convicted of intentionally giving false evidence, although it cannot be proved which of these contradictory statements was false.
 
-**Corresponding Law:** S. 237 of Act V of 1898.
+**Corresponding Law:** S. 237 of Act V of 1898. 
 
-
-
-## Section 222. When offence proved included in offence charged
-
-
+## Section 222. When offence proved included in offence charged 
 
 (1) When a person is charged with an offence consisting of several particulars, a combination of some only of which constitutes a complete minor offence, and such combination is proved, but the remaining particulars are not proved, he may be convicted of the minor offence, though he was not charged with it.
 
@@ -5504,13 +4578,9 @@ Illustrations
 
 (*b*) *A* is charged, under Section 325 of the Indian Penal Code (45 of 1860), with causing grievous hurt. He proves that he acted on grave and sudden provocation. He may be convicted under Section 335 of that Code.
 
-**Corresponding Law:** S. 238 of Act V of 1898.
+**Corresponding Law:** S. 238 of Act V of 1898. 
 
-
-
-## Section 223. What persons may be charged jointly
-
-
+## Section 223. What persons may be charged jointly 
 
 The following persons may be charged and tried together, namely:
 
@@ -5532,13 +4602,9 @@ Provided that where a number of persons are charged with separate offences and s
 
 **Notes on Clauses to 2005 Amendment** The proviso to Section 223 provides that the Magistrate on an application of the accused persons may direct their joint trial even if they do not fall in the categories specified, if he is satisfied that such persons would not be prejudicially affected thereby. In the interest of prompt disposal of cases, scope of this proviso is being widened to enable the Court of Session also to hold such trials.
 
-**Corresponding Law:** S. 239 of Act V of 1898.
+**Corresponding Law:** S. 239 of Act V of 1898. 
 
-
-
-## Section 224. Withdrawal of remaining charges on conviction on one of several charges
-
-
+## Section 224. Withdrawal of remaining charges on conviction on one of several charges 
 
 When a charge containing more heads than one is framed against the same person, and when a conviction has been had on one or more of them, the complainant, or the officer conducting the prosecution, may, with the consent of the Court, withdraw the remaining charge or charges, or the Court of its own accord may stay the inquiry into, or trial of, such charge or charges and such withdrawal shall have the effect of an acquittal on such charge or charges, unless the conviction be set aside, in which case the said Court (subject to the order of the Court setting aside the conviction) may proceed with the inquiry into, or trial of, the charge or charges so withdrawn.
 
@@ -5546,41 +4612,25 @@ When a charge containing more heads than one is framed against the same person, 
 
 Chapter XVIII
 
-TRIAL BEFORE A COURT OF SESSION
+TRIAL BEFORE A COURT OF SESSION 
 
-
-
-## Section 225. Trial to be conducted by Public Prosecutor
-
-
+## Section 225. Trial to be conducted by Public Prosecutor 
 
 In every trial before a Court of Session, the prosecution shall be conducted by a Public Prosecutor.
 
-**Corresponding Law:** S. 270 of Act V of 1898.
+**Corresponding Law:** S. 270 of Act V of 1898. 
 
-
-
-## Section 226. Opening case for prosecution
-
-
+## Section 226. Opening case for prosecution 
 
 When the accused appears or is brought before the Court in pursuance of a commitment of the case under Section 209, the prosecutor shall open his case by describing the charge brought against the accused and stating by what evidence he proposes to prove the guilt of the accused.
 
-**Corresponding Law:** S. 286(1) of Act V of 1898.
+**Corresponding Law:** S. 286(1) of Act V of 1898. 
 
+## Section 227. Discharge 
 
+If, upon consideration of the record of the case and the documents submitted therewith, and after hearing the submissions of the accused and the prosecution in this behalf, the Judge considers that there is not sufficient ground for proceeding against the accused, he shall discharge the accused and record his reasons for so doing. 
 
-## Section 227. Discharge
-
-
-
-If, upon consideration of the record of the case and the documents submitted therewith, and after hearing the submissions of the accused and the prosecution in this behalf, the Judge considers that there is not sufficient ground for proceeding against the accused, he shall discharge the accused and record his reasons for so doing.
-
-
-
-## Section 228. Framing of charge
-
-
+## Section 228. Framing of charge 
 
 (1) If, after such consideration and hearing as aforesaid, the Judge is of opinion that there is ground for presuming that the accused has committed an offence which
 
@@ -5602,55 +4652,35 @@ Present in person or through the medium of electronic video linkage and being re
 
 **Karnataka**. In Section 228, clause (*a*) of sub-section (1), for the words to the Chief Judicial Magistrate, and thereupon the Chief Judicial Magistrate , the words to the Chief Judicial Magistrate or to any Judicial Magistrate competent to try the case and thereupon the Chief Judicial Magistrate or such other Judicial Magistrate to whom the case may have been transferred shall be *substituted*. [*vide* Karnataka Act 22 of 1994, S. 2 (w.e.f. 18-5-1994)].
 
-**West Bengal**. In Section 228 of the said Code, in clause (*a*) of sub-section (1), for the words to the Chief Judicial Magistrate, and thereupon the Chief Judicial Magistrate , the words to the Chief Judicial Magistrate or to any Judicial Magistrate competent to try the case, and thereupon the Chief Judicial Magistrate or such other Judicial Magistrate to whom the case may have been transferred shall be *substituted*. W.B. Act 63 of 1978, S. 3 (w.e.f. 1-6-1979).
+**West Bengal**. In Section 228 of the said Code, in clause (*a*) of sub-section (1), for the words to the Chief Judicial Magistrate, and thereupon the Chief Judicial Magistrate , the words to the Chief Judicial Magistrate or to any Judicial Magistrate competent to try the case, and thereupon the Chief Judicial Magistrate or such other Judicial Magistrate to whom the case may have been transferred shall be *substituted*. W.B. Act 63 of 1978, S. 3 (w.e.f. 1-6-1979). 
 
-
-
-## Section 229. Conviction on plea of guilty
-
-
+## Section 229. Conviction on plea of guilty 
 
 If the accused pleads guilty, the Judge shall record the plea and may, in his discretion, convict him thereon.
 
-**Corresponding Law:** S. 271(2) of Act V of 1898.
+**Corresponding Law:** S. 271(2) of Act V of 1898. 
 
-
-
-## Section 230. Date for prosecution evidence
-
-
+## Section 230. Date for prosecution evidence 
 
 If the accused refuses to plead, or does not plead, or claims to be tried or is not convicted under Section 229, the Judge shall fix a date for the examination of witnesses, and may, on the application of the prosecution, issue any process for compelling the attendance of any witness or the production of any document or other thing.
 
-**Corresponding Law:** S. 272 of Act V of 1898.
+**Corresponding Law:** S. 272 of Act V of 1898. 
 
-
-
-## Section 231. Evidence for prosecution
-
-
+## Section 231. Evidence for prosecution 
 
 (1) On the date so fixed, the Judge shall proceed to take all such evidence as may be produced in support of the prosecution.
 
 (2) The Judge may, in his discretion, permit the cross-examination of any witness to be deferred until any other witness or witnesses have been examined or recall any witness for further cross-examination.
 
-**Corresponding Law:** S. 286(2) of Act V of 1898.
+**Corresponding Law:** S. 286(2) of Act V of 1898. 
 
-
-
-## Section 232. Acquittal
-
-
+## Section 232. Acquittal 
 
 If, after taking the evidence for the prosecution, examining the accused and hearing the prosecution and the defence on the point, the Judge considers that there is no evidence that the accused committed the offence, the Judge shall record an order of acquittal.
 
-**Corresponding Law:** S. 289(2) & (3) of Act V of 1898.
+**Corresponding Law:** S. 289(2) & (3) of Act V of 1898. 
 
-
-
-## Section 233. Entering upon defence
-
-
+## Section 233. Entering upon defence 
 
 (1) Where the accused is not acquitted under Section 232, he shall be called upon to enter on his defence and adduce any evidence he may have in support thereof.
 
@@ -5658,49 +4688,33 @@ If, after taking the evidence for the prosecution, examining the accused and hea
 
 (2) If the accused puts in any written statement, the Judge shall file it with the record.
 
-(3) If the accused applies for the issue of any process for compelling the attendance of any witness or the production of any document or thing, the Judge shall issue such process unless he considers, for reasons to be recorded, that such application should be refused on the ground that it is made for the purpose of vexation or delay or for defeating the ends of justice.
+(3) If the accused applies for the issue of any process for compelling the attendance of any witness or the production of any document or thing, the Judge shall issue such process unless he considers, for reasons to be recorded, that such application should be refused on the ground that it is made for the purpose of vexation or delay or for defeating the ends of justice. 
 
-
-
-## Section 234. Arguments
-
-
+## Section 234. Arguments 
 
 When the examination of the witnesses (if any) for the defence is complete, the prosecutor shall sum up his case and the accused or his pleader shall be entitled to reply:
 
 Provided that where any point of law is raised by the accused or his pleader, the prosecution may, with the permission of the Judge, make his submissions with regard to such point of law.
 
-**Corresponding Law:** Ss. 290 & 292 of Act V of 1898.
+**Corresponding Law:** Ss. 290 & 292 of Act V of 1898. 
 
-
-
-## Section 235. Judgment of acquittal or conviction
-
-
+## Section 235. Judgment of acquittal or conviction 
 
 (1) After hearing arguments and points of law (if any), the Judge shall give a judgment in the case.
 
 (2) If the accused is convicted, the Judge shall, unless he proceeds in accordance with the provisions of Section 360, hear the accused on the question of sentence, and then pass sentence on him according to law.
 
-**Corresponding Law:** S. 309 of Act V of 1898.
+**Corresponding Law:** S. 309 of Act V of 1898. 
 
-
-
-## Section 236. Previous conviction
-
-
+## Section 236. Previous conviction 
 
 In a case where a previous conviction is charged under the provisions of sub-section (7) of Section 211, and the accused does not admit that he has been previously convicted as alleged in the charge, the Judge may, after he has convicted the said accused under Section 229 or Section 235, take evidence in respect of the alleged previous conviction, and shall record a finding thereon:
 
 Provided that no such charge shall be read out by the Judge nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under Section 229 or Section 235.
 
-**Corresponding Law:** S. 310 of Act V of 1898.
+**Corresponding Law:** S. 310 of Act V of 1898. 
 
-
-
-## Section 237. Procedure in cases instituted under Section 199(2)
-
-
+## Section 237. Procedure in cases instituted under Section 199(2) 
 
 (1) A Court of Session taking cognizance of an offence under sub-section (2) of Section 199 shall try the case in accordance with the procedure for the trial of warrant-cases instituted otherwise than on a police report before a Court of Magistrate:
 
@@ -5784,33 +4798,21 @@ Chapter XIX
 
 TRIAL OF WARRANT-CASES BY MAGISTRATES
 
-A. *Cases instituted on a police report*
+A. *Cases instituted on a police report* 
 
-
-
-## Section 238. Compliance with Section 207
-
-
+## Section 238. Compliance with Section 207 
 
 When, in any warrant-case instituted on a police report, the accused appears or is brought before a Magistrate at the commencement of the trial, the Magistrate shall satisfy himself that he has complied with the provisions of Section 207.
 
-**Corresponding Law:** S. 251-A(1) of Act V of 1898.
+**Corresponding Law:** S. 251-A(1) of Act V of 1898. 
 
-
-
-## Section 239. When accused shall be discharged
-
-
+## Section 239. When accused shall be discharged 
 
 If, upon considering the police report and the documents sent with it under Section 173 and making such examination, if any, of the accused as the Magistrate thinks necessary and after giving the prosecution and the accused an opportunity of being heard, the Magistrate considers the charge against the accused to be groundless, he shall discharge the accused, and record his reasons for so doing.
 
-**Corresponding Law:** S. 251-A(2) of Act V of 1898.
+**Corresponding Law:** S. 251-A(2) of Act V of 1898. 
 
-
-
-## Section 240. Framing of charge
-
-
+## Section 240. Framing of charge 
 
 (1) If, upon such consideration, examination, if any, and hearing, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable under this Chapter, which such Magistrate is competent to try and which, in his opinion, could be adequately punished by him, he shall frame in writing a charge against the accused.
 
@@ -5822,23 +4824,15 @@ STATE AMENDMENTS
 
 **Chhattisgarh**. In sub-section (2) of Section 240, after the words the accused the following shall be *added*:
 
-Present either in person or through the medium of electronic video linkage in the presence of his pleader in the court. [*Vide* Chhattisgarh Act 13 of 2006, S. 5, w.e.f. 13-3-2006]
+Present either in person or through the medium of electronic video linkage in the presence of his pleader in the court. [*Vide* Chhattisgarh Act 13 of 2006, S. 5, w.e.f. 13-3-2006] 
 
-
-
-## Section 241. Conviction on plea of guilty
-
-
+## Section 241. Conviction on plea of guilty 
 
 (1) If the accused pleads guilty, the Magistrate shall record the plea and may, in his discretion, convict him thereon.
 
-**Corresponding Law:** S. 251-A(5) of Act V of 1898.
+**Corresponding Law:** S. 251-A(5) of Act V of 1898. 
 
-
-
-## Section 242. Evidence for prosecution
-
-
+## Section 242. Evidence for prosecution 
 
 (1) If the accused refuses to plead or does not plead, or claims to be tried or the Magistrate does not convict the accused under Section 241, the Magistrate shall fix a date for the examination of witnesses:
 
@@ -5850,13 +4844,9 @@ Present either in person or through the medium of electronic video linkage in th
 
 Provided that the Magistrate may permit the cross-examination of any witness to be deferred until any other witness or witnesses have been examined or recall any witness for further cross-examination.
 
-**Corresponding Law:** S. 251-A(6) & (7) of Act V of 1898.
+**Corresponding Law:** S. 251-A(6) & (7) of Act V of 1898. 
 
-
-
-## Section 243. Evidence for defence
-
-
+## Section 243. Evidence for defence 
 
 (1) The accused shall then be called upon to enter upon his defence and produce his evidence; and if the accused puts in any written statement, the Magistrate shall file it with the record.
 
@@ -5868,25 +4858,17 @@ Provided that, when the accused has cross-examined or had the opportunity of cro
 
 **Corresponding Law:** S. 251-A(8), (9) & (10) of Act V of 1898.
 
-B. *Cases instituted otherwise than on police report*
+B. *Cases instituted otherwise than on police report* 
 
-
-
-## Section 244. Evidence for prosecution
-
-
+## Section 244. Evidence for prosecution 
 
 (1) When, in any warrant-case instituted otherwise than on a police report, the accused appears or is brought before a Magistrate, the Magistrate shall proceed to hear the prosecution and take all such evidence as may be produced in support of the prosecution.
 
 (2) The Magistrate may, on the application of the prosecution, issue a summons to any of its witnesses directing him to attend or to produce any document or other thing.
 
-**Corresponding Law:** S. 252 of Act V of 1898.
+**Corresponding Law:** S. 252 of Act V of 1898. 
 
-
-
-## Section 245. When accused shall be discharged
-
-
+## Section 245. When accused shall be discharged 
 
 (1) If, upon taking all the evidence referred to in Section 244, the Magistrate considers, for reasons to be recorded, that no case against the accused has been made out which, if unrebutted, would warrant his conviction, the Magistrate shall discharge him.
 
@@ -5898,13 +4880,9 @@ STATE AMENDMENTS
 
 **West Bengal**. In Section 245 of the principal Act, after sub-section (2), the following sub-section shall be *inserted*:
 
-(3) If the evidence referred to in Section 244 are not produced in support of the prosecution within four years from the date of appearance of the accused, the Magistrate shall discharge the accused unless the prosecution satisfies the Magistrate that upon the evidence already produced and for special reasons there is ground for presuming that it shall not be in the interest of justice to discharge the accused. [*Vide* W.B. Act 24 of 1988, S. 4 (w.e.f. the notified date)]
+(3) If the evidence referred to in Section 244 are not produced in support of the prosecution within four years from the date of appearance of the accused, the Magistrate shall discharge the accused unless the prosecution satisfies the Magistrate that upon the evidence already produced and for special reasons there is ground for presuming that it shall not be in the interest of justice to discharge the accused. [*Vide* W.B. Act 24 of 1988, S. 4 (w.e.f. the notified date)] 
 
-
-
-## Section 246. Procedure where accused is not discharged
-
-
+## Section 246. Procedure where accused is not discharged 
 
 (1) If, when such evidence has been taken, or at any previous stage of the case, the Magistrate is of opinion that there is ground for presuming that the accused has committed an offence triable under this Chapter, which such Magistrate is competent to try and which, in his opinion, could be adequately punished by him, he shall frame in writing a charge against the accused.
 
@@ -5922,25 +4900,17 @@ STATE AMENDMENTS
 
 (6) The evidence of any remaining witnesses for the prosecution shall next be taken, and after cross-examination and re-examination (if any), they shall also be discharged.
 
-**Corresponding Law:** S. 256 of Act V of 1898.
+**Corresponding Law:** S. 256 of Act V of 1898. 
 
-
-
-## Section 247. Evidence for defence
-
-
+## Section 247. Evidence for defence 
 
 The accused shall then be called upon to enter upon his defence and produce his evidence; and the provisions of Section 243 shall apply to the case.
 
 **Corresponding Law:** Ss. 256 & 257 of Act V of 1898.
 
-C. *Conclusion of trial*
+C. *Conclusion of trial* 
 
-
-
-## Section 248. Acquittal or conviction
-
-
+## Section 248. Acquittal or conviction 
 
 (1) If, in any case under this Chapter in which a charge has been framed, the Magistrate finds the accused not guilty, he shall record an order of acquittal.
 
@@ -5954,23 +4924,15 @@ C. *Conclusion of trial*
 
 Provided that no such charge shall be read out by the Magistrate nor shall the accused be asked to plead thereto nor shall the previous conviction be referred to by the prosecution or in any evidence adduced by it, unless and until the accused has been convicted under sub-section (2).
 
-**Corresponding Law:** S. 251-A (13) of Act V of 1898.
+**Corresponding Law:** S. 251-A (13) of Act V of 1898. 
 
-
-
-## Section 249. Absence of complainant
-
-
+## Section 249. Absence of complainant 
 
 When the proceedings have been instituted upon complaint, and on any day fixed for the hearing of the case, the complainant is absent, and the offence may be lawfully compounded or is not a cognizable offence, the Magistrate may, in his discretion, notwithstanding anything hereinbefore contained, at any time before the charge has been framed, discharge the accused.
 
-**Corresponding Law:** S. 259 of Act V of 1898.
+**Corresponding Law:** S. 259 of Act V of 1898. 
 
-
-
-## Section 250. Compensation for accusation without reasonable cause
-
-
+## Section 250. Compensation for accusation without reasonable cause 
 
 (1) If, in any case instituted upon complaint or upon information given to a police officer or to a Magistrate, one or more persons is or are accused before a Magistrate of any offence triable by a Magistrate, and the Magistrate by whom the case is heard discharges or acquits all or any of the accused, and is of opinion that there was no reasonable ground for making the accusation against them or any of them, the Magistrate may, by his order of discharge or acquittal, if the person upon whose complaint or information the accusation was made is present, call upon him forthwith to show cause why he should not pay compensation to such accused or to each or any of such accused when there are more than one; or, if such person is not present, direct the issue of a summons to him to appear and show cause as aforesaid.
 
@@ -5994,13 +4956,9 @@ Provided that any amount paid to an accused person under this section shall be t
 
 Chapter XX
 
-TRIAL OF SUMMONS-CASES BY MAGISTRATES
+TRIAL OF SUMMONS-CASES BY MAGISTRATES 
 
-
-
-## Section 251. Substance of accusation to be stated
-
-
+## Section 251. Substance of accusation to be stated 
 
 When in a summons-case the accused appears or is brought before the Magistrate, the particulars of the offence of which he is accused shall be stated to him, and he shall be asked whether he pleads guilty or has any defence to make, but it shall not be necessary to frame a formal charge.
 
@@ -6010,33 +4968,21 @@ STATE AMENDMENTS
 
 **Chhattisgarh**. In Section 251, after the words brought before the Magistrate the following words shall be *added*:
 
-Or appears through the medium of electronic video linkage in the presence of his pleader in the Court. [*Vide* Chhattisgarh Act 13 of 2006, S. 6, w.e.f. 13-3-2006]
+Or appears through the medium of electronic video linkage in the presence of his pleader in the Court. [*Vide* Chhattisgarh Act 13 of 2006, S. 6, w.e.f. 13-3-2006] 
 
-
-
-## Section 252. Conviction on plea of guilty
-
-
+## Section 252. Conviction on plea of guilty 
 
 If the accused pleads guilty, the Magistrate shall record the plea as nearly as possible in the words used by the accused and may, in his discretion, convict him thereon.
 
-**Corresponding Law:** S. 243 of Act V of 1898.
+**Corresponding Law:** S. 243 of Act V of 1898. 
 
-
-
-## Section 253. Conviction on plea of guilty in absence of accused in petty cases
-
-
+## Section 253. Conviction on plea of guilty in absence of accused in petty cases 
 
 (1) Where a summons has been issued under Section 206 and the accused desires to plead guilty to the charge without appearing before the Magistrate, he shall transmit to the Magistrate, by post or by messenger, a letter containing his plea and also the amount of fine specified in the summons.
 
-(2) The Magistrate may, in his discretion, convict the accused in his absence, on his plea of guilty and sentence him to pay the fine specified in the summons, and the amount transmitted by the accused shall be adjusted towards that fine, or where a pleader authorised by the accused in this behalf pleads guilty on behalf of the accused, the Magistrate shall record the plea as nearly as possible in the words used by the pleader and may, in his discretion, convict the accused on such plea and sentence him as aforesaid.
+(2) The Magistrate may, in his discretion, convict the accused in his absence, on his plea of guilty and sentence him to pay the fine specified in the summons, and the amount transmitted by the accused shall be adjusted towards that fine, or where a pleader authorised by the accused in this behalf pleads guilty on behalf of the accused, the Magistrate shall record the plea as nearly as possible in the words used by the pleader and may, in his discretion, convict the accused on such plea and sentence him as aforesaid. 
 
-
-
-## Section 254. Procedure when not convicted
-
-
+## Section 254. Procedure when not convicted 
 
 (1) If the Magistrate does not convict the accused under Section 252 or Section 253, the Magistrate shall proceed to hear the prosecution and take all such evidence as may be produced in support of the prosecution, and also to hear the accused and take all such evidence as he produces in his defence.
 
@@ -6044,13 +4990,9 @@ If the accused pleads guilty, the Magistrate shall record the plea as nearly as 
 
 (3) The Magistrate may, before summoning any witness on such application, require that the reasonable expenses of the witness incurred in attending for the purposes of the trial be deposited in Court.
 
-**Corresponding Law:** S. 244 of Act V of 1898.
+**Corresponding Law:** S. 244 of Act V of 1898. 
 
-
-
-## Section 255. Acquittal or conviction
-
-
+## Section 255. Acquittal or conviction 
 
 (1) If the Magistrate, upon taking the evidence referred to in Section 254 and such further evidence, if any, as he may, of his own motion, cause to be produced, finds the accused not guilty, he shall record an order of acquittal.
 
@@ -6060,13 +5002,9 @@ If the accused pleads guilty, the Magistrate shall record the plea as nearly as 
 
 (3) A Magistrate may, under Section 252 or Section 255, convict the accused of any offence triable under this Chapter, which form the facts admitted or proved he appears to have committed, whatever may be the nature of the complaint or summons, if the Magistrate is satisfied that the accused would not be prejudiced thereby.
 
-**Corresponding Law:** S. 246 of Act V of 1898.
+**Corresponding Law:** S. 246 of Act V of 1898. 
 
-
-
-## Section 256. Non-appearance or death of complainant
-
-
+## Section 256. Non-appearance or death of complainant 
 
 (1) If the summons has been issued on complaint, and on the day appointed for the appearance of the accused, or any day subsequent thereto to which the hearing may be adjourned, the complainant does not appear, the Magistrate shall, notwithstanding anything hereinbefore contained, acquit the accused, unless for some reason he thinks it proper to adjourn the hearing of the case to some other day:
 
@@ -6074,45 +5012,29 @@ Provided that where the complainant is represented by a pleader or by the office
 
 (2) The provisions of sub-section (1) shall, so far as may be, apply also to cases where the non-appearance of the complainant is due to his death.
 
-**Corresponding Law:** S. 247 of Act V of 1898.
+**Corresponding Law:** S. 247 of Act V of 1898. 
 
-
-
-## Section 257. Withdrawal of complaint
-
-
+## Section 257. Withdrawal of complaint 
 
 If a complainant, at any time before a final order is passed in any case under this Chapter, satisfies the Magistrate that there are sufficient grounds for permitting him to withdraw his complaint against the accused, or if there be more than one accused, against all or any of them, the Magistrate may permit him to withdraw the same, and shall thereupon acquit the accused against whom the complaint is so withdrawn.
 
-**Corresponding Law:** S. 248 of Act V of 1898.
+**Corresponding Law:** S. 248 of Act V of 1898. 
 
-
-
-## Section 258. Power to stop proceedings in certain cases
-
-
+## Section 258. Power to stop proceedings in certain cases 
 
 In any summons-case instituted otherwise than upon complaint, a Magistrate of the first class or, with the previous sanction of the Chief Judicial Magistrate, any other Judicial Magistrate, may, for reasons to be recorded by him, stop the proceedings at any stage without pronouncing any judgment and where such stoppage of proceedings is made after the evidence of the principal witnesses has been recorded, pronounce a judgment of acquittal, and in any other case, release the accused, and such release shall have the effect of discharge.
 
-**Corresponding Law:** S. 249 of Act V of 1898.
+**Corresponding Law:** S. 249 of Act V of 1898. 
 
-
-
-## Section 259. Power of Court to convert summons-cases into warrant-cases
-
-
+## Section 259. Power of Court to convert summons-cases into warrant-cases 
 
 When in the course of the trial of a summons-case relating to an offence punishable with imprisonment for a term exceeding six months, it appears to the Magistrate that in the interests of justice, the offence should be tried in accordance with the procedure for the trial of warrant-cases, such Magistrate may proceed to re-hear the case in the manner provided by this Code for the trial of warrant-cases and may recall any witness who may have been examined.
 
 Chapter XXI
 
-SUMMARY TRIALS
+SUMMARY TRIALS 
 
-
-
-## Section 260. Power to try summarily
-
-
+## Section 260. Power to try summarily 
 
 (1) Notwithstanding anything contained in this Code
 
@@ -6146,35 +5068,23 @@ may, if he thinks fit, try in a summary way all or any of the following offences
 
 **Notes on Clauses to 2005 Amendment** Under sub-section (1) of Section 260 a Magistrate has a discretion to try offences specified therein either summarily or in a regular way. It is proposed to amend this sub-section to make summary trial of offences specified therein mandatory. It is also proposed to provide that the offence of theft and other cognate offences, namely, offences under Sections 379, 380, 381 411 and 414 of the Indian Penal Code may be tried summarily where the value of the property involved does not exceed two thousand rupees instead of two hundred rupees at present.
 
-**Corresponding Law:** S. 260 of Act V of 1898.
+**Corresponding Law:** S. 260 of Act V of 1898. 
 
-
-
-## Section 261. Summary trial by Magistrate of the second class
-
-
+## Section 261. Summary trial by Magistrate of the second class 
 
 The High Court may confer on any Magistrate invested with the powers of a Magistrate of the second class power to try summarily any offence which is punishable only with fine or with imprisonment for a term not exceeding six months with or without fine, and any abetment of or attempt to commit any such offence.
 
-**Corresponding Law:** S. 261 of Act V of 1898.
+**Corresponding Law:** S. 261 of Act V of 1898. 
 
-
-
-## Section 262. Procedure for summary trials
-
-
+## Section 262. Procedure for summary trials 
 
 (1) In trials under this Chapter, the procedure specified in this Code for the trial of summons-case shall be followed except as hereinafter mentioned.
 
 (2) No sentence of imprisonment for a term exceeding three months shall be passed in the case of any conviction under this Chapter.
 
-**Corresponding Law:** S. 262 of Act V of 1898.
+**Corresponding Law:** S. 262 of Act V of 1898. 
 
-
-
-## Section 263. Record in summary trials
-
-
+## Section 263. Record in summary trials 
 
 In every case tried summarily, the Magistrate shall enter, in such form as the State Government may direct, the following particulars, namely:
 
@@ -6198,23 +5108,15 @@ In every case tried summarily, the Magistrate shall enter, in such form as the S
 
 (*j*) the date on which proceedings terminated.
 
-**Corresponding Law:** S. 263 of Act V of 1898.
+**Corresponding Law:** S. 263 of Act V of 1898. 
 
-
-
-## Section 264. Judgment in cases tried summarily
-
-
+## Section 264. Judgment in cases tried summarily 
 
 In every case tried summarily in which the accused does not plead guilty, the Magistrate shall record the substance of the evidence and a judgment containing a brief statement of the reasons for the finding.
 
-**Corresponding Law:** S. 264 of Act V of 1898.
+**Corresponding Law:** S. 264 of Act V of 1898. 
 
-
-
-## Section 265. Language of record and judgment
-
-
+## Section 265. Language of record and judgment 
 
 (1) Every such record and judgment shall be written in the language of the Court.
 
@@ -6338,13 +5240,9 @@ Provided further that if the victim of the case or the accused, as the case may 
 
 Chapter XXII
 
-ATTENDANCE OF PERSONS CONFINED OR DETAINED IN PRISONS
+ATTENDANCE OF PERSONS CONFINED OR DETAINED IN PRISONS 
 
-
-
-## Section 266. Definitions
-
-
+## Section 266. Definitions 
 
 In this Chapter,
 
@@ -6354,13 +5252,9 @@ In this Chapter,
 
 (*i*) any place which has been declared by the State Government, by general or special order, to be a subsidiary jail;
 
-(*ii*) any reformatory, Borstal institution or other institution of a like nature.
+(*ii*) any reformatory, Borstal institution or other institution of a like nature. 
 
-
-
-## Section 267. Power to require attendance of prisoners
-
-
+## Section 267. Power to require attendance of prisoners 
 
 (1) Whenever, in the course of an inquiry, trial or other proceeding under this Code, it appears to a criminal court,
 
@@ -6378,13 +5272,9 @@ STATE AMENDMENTS
 
 **Jharkhand**. In its application to the State of Jharkhand, in Section 267, in sub-section (1) clause (*b*)
 
-(*i*) After the words the court may make an order requiring the officer-in-charge of the prison to produce such person before the Court the words either in prison or through the medium of electronic video linkage shall be *inserted*. [*Vide* Jharkhand Act 2 of 2016, S. 2 (w.e.f. the date to be notified)]
+(*i*) After the words the court may make an order requiring the officer-in-charge of the prison to produce such person before the Court the words either in prison or through the medium of electronic video linkage shall be *inserted*. [*Vide* Jharkhand Act 2 of 2016, S. 2 (w.e.f. the date to be notified)] 
 
-
-
-## Section 268. Power of State Government to exclude certain persons from operation of Section 267
-
-
+## Section 268. Power of State Government to exclude certain persons from operation of Section 267 
 
 (1) The State Government may, at any time, having regard to the matters specified in sub-section (2), by general or special order, direct that any person or class of persons shall not be removed from the prison in which he or they may be confined or detained, and thereupon, so long as the order remains in force, no order made under Section 267, whether before or after the order of the State Government, shall have effect in respect of such person or class of persons.
 
@@ -6394,13 +5284,9 @@ STATE AMENDMENTS
 
 (*b*) the likelihood of the disturbance of public order if the person or class of persons is allowed to be removed from the prison;
 
-(*c*) the public interest, generally.
+(*c*) the public interest, generally. 
 
-
-
-## Section 269. Officer in charge of prison to abstain from carrying out order in certain contingencies
-
-
+## Section 269. Officer in charge of prison to abstain from carrying out order in certain contingencies 
 
 Where the person in respect of whom an order is made under Section 267
 
@@ -6414,21 +5300,13 @@ Where the person in respect of whom an order is made under Section 267
 
 the officer in charge of the prison shall abstain from carrying out the Court's order and shall send to the Court a statement of reasons for so abstaining:
 
-Provided that where the attendance of such person is required for giving evidence at a place not more than twenty-five kilometres distant from the prison, the officer in charge of the prison shall not so abstain for the reason mentioned in clause (*b*).
+Provided that where the attendance of such person is required for giving evidence at a place not more than twenty-five kilometres distant from the prison, the officer in charge of the prison shall not so abstain for the reason mentioned in clause (*b*). 
 
+## Section 270. Prisoner to be brought to Court in custody 
 
+Subject to the provisions of Section 269, the officer in charge of the prison shall, upon delivery of an order made under sub-section (1) of Section 267 and duly countersigned, where necessary, under sub-section (2) thereof, cause the person named in the order to be taken to the Court in which his attendance is required, so as to be present there at the time mentioned in the order, and shall cause him to be kept in custody in or near the Court until he has been examined or until the Court authorises him to be taken back to the prison in which he was confined or detained. 
 
-## Section 270. Prisoner to be brought to Court in custody
-
-
-
-Subject to the provisions of Section 269, the officer in charge of the prison shall, upon delivery of an order made under sub-section (1) of Section 267 and duly countersigned, where necessary, under sub-section (2) thereof, cause the person named in the order to be taken to the Court in which his attendance is required, so as to be present there at the time mentioned in the order, and shall cause him to be kept in custody in or near the Court until he has been examined or until the Court authorises him to be taken back to the prison in which he was confined or detained.
-
-
-
-## Section 271. Power to issue commission for examination of witness in prison
-
-
+## Section 271. Power to issue commission for examination of witness in prison 
 
 The provisions of this Chapter shall be without prejudice to the power of the Court to issue, under Section 284, a commission for the examination, as a witness, of any person confined or detained in a prison; and the provisions of Part B of Chapter XXIII shall apply in relation to the examination on commission of any such person in the prison as they apply in relation to the examination on commission of any other person.
 
@@ -6436,23 +5314,15 @@ Chapter XXIII
 
 EVIDENCE IN INQUIRIES AND TRIALS
 
-A. *Mode of taking and recording evidence*
+A. *Mode of taking and recording evidence* 
 
-
-
-## Section 272. Language of Courts
-
-
+## Section 272. Language of Courts 
 
 The State Government may determine what shall be, for purposes of this Code, the language of each Court within the State other than the High Court.
 
-**Corresponding Law:** S. 558 of Act V of 1898.
+**Corresponding Law:** S. 558 of Act V of 1898. 
 
-
-
-## Section 273. Evidence to be taken in presence of accused
-
-
+## Section 273. Evidence to be taken in presence of accused 
 
 Except as otherwise expressly provided, all evidence taken in the course of the trial or other proceeding shall be taken in the presence of the accused, or, when his personal attendance is dispensed with, in the presence of his pleader.
 
@@ -6470,13 +5340,9 @@ STATE AMENDMENTS
 
 (*i*) After the words All evidence taken in the course of the trial or other proceeding shall be taken in the presence of the accused, the word either in person or through the medium of electronic video linkage shall be *inserted*. [*Vide* Jharkhand Act 2 of 2016, S. 3 (w.e.f. the date to be notified)]
 
-**Rajasthan.** In its application to the State of Rajasthan, in Section 273, after the existing expression shall be taken in the presence and before the existing expression of the accused , the expression , whether physically or through the medium of audio-video electronic means, shall be *inserted*. [*Vide* Raj. Act 1 of 2019, S. 4 (w.r.e.f. 10-7-2017).]
+**Rajasthan.** In its application to the State of Rajasthan, in Section 273, after the existing expression shall be taken in the presence and before the existing expression of the accused , the expression , whether physically or through the medium of audio-video electronic means, shall be *inserted*. [*Vide* Raj. Act 1 of 2019, S. 4 (w.r.e.f. 10-7-2017).] 
 
-
-
-## Section 274. Record in summons-cases and inquiries
-
-
+## Section 274. Record in summons-cases and inquiries 
 
 (1) In all summons-cases tried before a Magistrate, in all inquiries under Sections 145 to 148 (both inclusive), and in all proceedings under Section 446 otherwise than in the course of a trial, the Magistrate shall, as the examination of each witness proceeds, make a memorandum of the substance of his evidence in the language of the Court:
 
@@ -6484,13 +5350,9 @@ Provided that if the Magistrate is unable to make such memorandum himself, he sh
 
 (2) Such memorandum shall be signed by the Magistrate and shall form part of the record.
 
-**Corresponding Law:** S. 355 of Act V of 1898.
+**Corresponding Law:** S. 355 of Act V of 1898. 
 
-
-
-## Section 275. Record in warrant-cases
-
-
+## Section 275. Record in warrant-cases 
 
 (1) In all warrant-cases tried before a Magistrate, the evidence of each witness shall, as his examination proceeds, be taken down in writing either by the Magistrate himself or by his dictation in open court or, where he is unable to do so owing to a physical or other incapacity, under his direction and superintendence, by an officer of the Court appointed by him in this behalf:
 
@@ -6504,13 +5366,9 @@ Provided that if the Magistrate is unable to make such memorandum himself, he sh
 
 (4) The evidence so taken down shall be signed by the Magistrate and shall form part of the record.
 
-**Corresponding Law:** S. 356 of Act V of 1898.
+**Corresponding Law:** S. 356 of Act V of 1898. 
 
-
-
-## Section 276. Record in trial before Court of Session
-
-
+## Section 276. Record in trial before Court of Session 
 
 (1) In all trials before a Court of Session, the evidence of each witness shall, as his examination proceeds, be taken down in writing either by the presiding Judge himself or by his dictation in open Court or, under his direction and superintendence, by an officer of the Court appointed by him in this behalf.
 
@@ -6524,13 +5382,9 @@ STATE AMENDMENTS
 
 **Rajasthan.** In its application to the State of Rajasthan, in sub-section (1) of Section 276, the following proviso shall be *added*, namely:
 
-Provided that evidence of a witness under this sub-section may also be recorded by audio-video electronic means in the presence of the pleader of the accused. [*Vide* Raj. Act 1 of 2019, S. 5 (w.r.e.f. 10-7-2017).]
+Provided that evidence of a witness under this sub-section may also be recorded by audio-video electronic means in the presence of the pleader of the accused. [*Vide* Raj. Act 1 of 2019, S. 5 (w.r.e.f. 10-7-2017).] 
 
-
-
-## Section 277. Language of record of evidence
-
-
+## Section 277. Language of record of evidence 
 
 In every case where evidence is taken down under Section 275 or Section 276,
 
@@ -6540,13 +5394,9 @@ In every case where evidence is taken down under Section 275 or Section 276,
 
 (*c*) where under clause (*b*) evidence is taken down in a language other than the language of the Court, a true translation thereof in the language of the Court shall be prepared as soon as practicable, signed by the Magistrate or presiding Judge, and shall form part of the record:
 
-Provided that when under clause (*b*) evidence is taken down in English and a translation thereof in the language of the Court is not required by any of the parties, the Court may dispense with such translation.
+Provided that when under clause (*b*) evidence is taken down in English and a translation thereof in the language of the Court is not required by any of the parties, the Court may dispense with such translation. 
 
-
-
-## Section 278. Procedure in regard to such evidence when completed
-
-
+## Section 278. Procedure in regard to such evidence when completed 
 
 (1) As the evidence of each witness taken under Section 275 or Section 276 is completed, it shall be read over to him in the presence of the accused, if in attendance, or of his pleader, if he appears by pleader, and shall, if necessary, be corrected.
 
@@ -6562,13 +5412,9 @@ STATE AMENDMENTS
 
 (4) Nothing contained in sub-sections (1) to (3) shall apply when the evidence under Section 273 is taken through the medium of Electronic Video Linkage.
 
-(5) The evidence taken through the medium of Electronic Video Linkage in electronic form shall be the electronic record within the meaning of clause (*t*) of Section 2 of the Information Technology Act, 2000 (21 of 2000), [*Vide* Guj. Act 31 of 2017, S. 3, dt. 8-9-2017]
+(5) The evidence taken through the medium of Electronic Video Linkage in electronic form shall be the electronic record within the meaning of clause (*t*) of Section 2 of the Information Technology Act, 2000 (21 of 2000), [*Vide* Guj. Act 31 of 2017, S. 3, dt. 8-9-2017] 
 
-
-
-## Section 279. Interpretation of evidence to accused or his pleader
-
-
+## Section 279. Interpretation of evidence to accused or his pleader 
 
 (1) Whenever any evidence is given in a language not understood by the accused, and he is present in Court in person, it shall be interpreted to him in open Court in a language understood by him.
 
@@ -6576,23 +5422,15 @@ STATE AMENDMENTS
 
 (3) When documents are put for the purpose of formal proof, it shall be in the discretion of the Court to interpret as much thereof as appears necessary.
 
-**Corresponding Law:** S. 361 of Act V of 1898.
+**Corresponding Law:** S. 361 of Act V of 1898. 
 
-
-
-## Section 280. Remarks respecting demeanour of witness
-
-
+## Section 280. Remarks respecting demeanour of witness 
 
 When a presiding Judge or Magistrate has recorded the evidence of a witness, he shall also record such remarks (if any) as he thinks material respecting the demeanour of such witness whilst under examination.
 
-**Corresponding Law:** S. 363 of Act V of 1898.
+**Corresponding Law:** S. 363 of Act V of 1898. 
 
-
-
-## Section 281. Record of examination of accused
-
-
+## Section 281. Record of examination of accused 
 
 (1) Whenever the accused is examined by a Metropolitan Magistrate, the Magistrate shall make a memorandum of the substance of the examination of the accused in the language of the Court and such memorandum shall be signed by the Magistrate and shall form part of the record.
 
@@ -6610,35 +5448,23 @@ When a presiding Judge or Magistrate has recorded the evidence of a witness, he 
 
 STATE AMENDMENTS
 
-**Gujarat**. In Section 281, in sub-section (6), after the words the examination of an accused person , the words either through the medium of Electronic Video Linkage or shall be *inserted*. [*Vide* Guj. Act 31 of 2017, S. 4, dt. 8-9-2017]
+**Gujarat**. In Section 281, in sub-section (6), after the words the examination of an accused person , the words either through the medium of Electronic Video Linkage or shall be *inserted*. [*Vide* Guj. Act 31 of 2017, S. 4, dt. 8-9-2017] 
 
-
-
-## Section 282. Interpreter to be bound to interpret truthfully
-
-
+## Section 282. Interpreter to be bound to interpret truthfully 
 
 When the services of an interpreter are required by any Criminal Court for the interpretation of any evidence or statement, he shall be bound to state the true interpretation of such evidence or statement.
 
-**Corresponding Law:** S. 543 of Act V of 1898.
+**Corresponding Law:** S. 543 of Act V of 1898. 
 
-
-
-## Section 283. Record in High Court
-
-
+## Section 283. Record in High Court 
 
 Every High Court may, by general rule, prescribe the manner in which the evidence of witnesses and the examination of the accused shall be taken down in cases coming before it; and such evidence and examination shall be taken down in accordance with such rule.
 
 **Corresponding Law:** S. 365 of Act V of 1898.
 
-B. *Commissions for the examination of witnesses*
+B. *Commissions for the examination of witnesses* 
 
-
-
-## Section 284. When attendance of witness may be dispensed with and commission issued
-
-
+## Section 284. When attendance of witness may be dispensed with and commission issued 
 
 (1) Whenever, in the course of any inquiry, trial or other proceeding under this Code, it appears to a Court or Magistrate that the examination of a witness is necessary for the ends of justice, and that the attendance of such witness cannot be procured without an amount of delay, expense or inconvenience which, under the circumstances of the case, would be unreasonable, the Court or Magistrate may dispense with such attendance and may issue a commission for the examination of the witness in accordance with the provisions of this Chapter:
 
@@ -6646,13 +5472,9 @@ Provided that where the examination of the President or the Vice-President of In
 
 **Corresponding Law:** S. 503(1) of Act V of 1898.
 
-(2) The Court may, when issuing a commission for the examination of a witness for the prosecution, direct that such amount as the Court considers reasonable to meet the expenses of the accused, including the pleader's fees, be paid by the prosecution.
+(2) The Court may, when issuing a commission for the examination of a witness for the prosecution, direct that such amount as the Court considers reasonable to meet the expenses of the accused, including the pleader's fees, be paid by the prosecution. 
 
-
-
-## Section 285. Commission to whom to be issued
-
-
+## Section 285. Commission to whom to be issued 
 
 (1) If the witness is within the territories to which this Code extends, the commission shall be directed to the Chief Metropolitan Magistrate or Chief Judicial Magistrate, as the case may be, within whose local jurisdiction the witness is to be found.
 
@@ -6660,57 +5482,37 @@ Provided that where the examination of the President or the Vice-President of In
 
 (3) If the witness is in a country or place outside India and arrangements have been made by the Central Government with the Government of such country or place for taking the evidence of witnesses in relation to criminal matters, the commission shall be issued in such form, directed to such Court or officer, and sent to such authority for transmission, as the Central Government may, by notification, prescribe in this behalf.
 
-**Corresponding Law:** S. 504 of Act V of 1898.
+**Corresponding Law:** S. 504 of Act V of 1898. 
 
-
-
-## Section 286. Execution of commissions
-
-
+## Section 286. Execution of commissions 
 
 Upon receipt of the commission, the Chief Metropolitan Magistrate or Chief Judicial Magistrate, or such Metropolitan or Judicial Magistrate as he may appoint in this behalf, shall summon the witness before him or proceed to the place where the witness is, and shall take down his evidence in the same manner, and may for this purpose exercise the same powers, as in trials of warrant-cases under this Code.
 
-**Corresponding Law:** S. 505 of Act V of 1898.
+**Corresponding Law:** S. 505 of Act V of 1898. 
 
-
-
-## Section 287. Parties may examine witnesses
-
-
+## Section 287. Parties may examine witnesses 
 
 (1) The parties to any proceeding under this Code in which a commission is issued may respectively forward any interrogatories in writing which the Court or Magistrate directing the commission may think relevant to the issue, and it shall be lawful for the Magistrate, Court or officer to whom the commission is directed, or to whom the duty of executing it is delegated, to examine the witness upon such interrogatories.
 
 (2) Any such party may appear before such Magistrate, Court or officer by pleader, or if not in custody, in person, and may examine, cross-examine and re-examine (as the case may be) the said witness.
 
-**Corresponding Law:** S. 506 of Act V of 1898.
+**Corresponding Law:** S. 506 of Act V of 1898. 
 
-
-
-## Section 288. Return of commission
-
-
+## Section 288. Return of commission 
 
 (1) After any commission issued under Section 284 has been duly executed, it shall be returned, together with the deposition of the witness examined thereunder, to the Court or Magistrate issuing the commission; and the commission, the return thereto and the deposition shall be open at all reasonable times to inspection of the parties, and may, subject to all just exceptions, be read in evidence in the case by either party, and shall form part of the record.
 
 (2) Any deposition so taken, if it satisfies the condition prescribed by Section 33 of the Indian Evidence Act, 1872 (1 of 1872), may also be received in evidence at any subsequent stage of the case before another Court.
 
-**Corresponding Law:** S. 507 of Act V of 1898.
+**Corresponding Law:** S. 507 of Act V of 1898. 
 
-
-
-## Section 289. Adjournment of proceeding
-
-
+## Section 289. Adjournment of proceeding 
 
 In every case in which a commission is issued under Section 284, the inquiry, trial or other proceeding may be adjourned for a specified time reasonably sufficient for the execution and return of the commission.
 
-**Corresponding Law:** S. 508 of Act V of 1898.
+**Corresponding Law:** S. 508 of Act V of 1898. 
 
-
-
-## Section 290. Execution of foreign commissions
-
-
+## Section 290. Execution of foreign commissions 
 
 (1) The provisions of Section 286 and so much of Section 287 and Section 288 as relate to the execution of a commission and its return shall apply in respect of commissions issued by any of the Courts, Judges or Magistrates hereinafter mentioned as they apply to commissions issued under Section 284.
 
@@ -6720,13 +5522,9 @@ In every case in which a commission is issued under Section 284, the inquiry, tr
 
 (*b*) any Court, Judge or Magistrate exercising jurisdiction in any such country or place outside India, as the Central Government may, by notification, specify in this behalf, and having authority, under the law in force in that country or place, to issue commissions for the examination of witnesses in relation to criminal matters.
 
-**Corresponding Law:** S. 508-A of Act V of 1898.
+**Corresponding Law:** S. 508-A of Act V of 1898. 
 
-
-
-## Section 291. Deposition of medical witness
-
-
+## Section 291. Deposition of medical witness 
 
 (1) The deposition of a civil surgeon or other medical witness, taken and attested by a Magistrate in the presence of the accused, or taken on commission under this Chapter, may be given in evidence in any inquiry, trial or other proceeding under this Code, although the deponent is not called as a witness.
 
@@ -6744,13 +5542,9 @@ Provided that where such report contains a statement of any suspect or witness t
 
 (2) The Court may, if it thinks fit, and shall, on the application of the prosecution or of the accused, summon and examine such Magistrate as to the subject matter of the said report.]
 
-**Notes on Clauses to 2005 Amendment** Under the existing provisions of the Code an identification memo is required to be proved in the Court by examination of the Magistrate, who conducted the proceedings. These facts are generally not disputed. In order to save time of the Court, a new Section 291-A is being inserted with a view to making memorandum of identification prepared by the Magistrate admissible in evidence without formal proof of facts stated therein with a provision that the Court may, if it thinks fit, on the application of the prosecution or of the accused, summon and examine such Magistrate as to the subject matter contained in the memorandum of identification.
+**Notes on Clauses to 2005 Amendment** Under the existing provisions of the Code an identification memo is required to be proved in the Court by examination of the Magistrate, who conducted the proceedings. These facts are generally not disputed. In order to save time of the Court, a new Section 291-A is being inserted with a view to making memorandum of identification prepared by the Magistrate admissible in evidence without formal proof of facts stated therein with a provision that the Court may, if it thinks fit, on the application of the prosecution or of the accused, summon and examine such Magistrate as to the subject matter contained in the memorandum of identification. 
 
-
-
-## Section 292. Evidence of officers of the Mint
-
-
+## Section 292. Evidence of officers of the Mint 
 
 (1) Any document purporting to be a report under the hand of any such [150](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_150)[officer of any Mint or of any Note Printing Press or of any Security Printing Press (including the officer of the Controller of Stamps and Stationery) or of any Forensic Department or Division of Forensic Science Laboratory or any Government Examiner of Questioned Documents or any State Examiner of Questioned Documents, as the case may be,] as the Central Government may, by notification, specify in this behalf, upon any matter or thing duly submitted to him for examination and report in the course of any proceeding under this Code, may be used as evidence in any inquiry, trial or other proceeding under this Code, although such officer is not called as a witness.
 
@@ -6764,13 +5558,9 @@ Provided that no such officer shall be summoned to produce any records on which 
 
 (*b*) to disclose the nature or particulars of any test applied by him in the course of the examination of the matter or thing.
 
-**Corresponding Law:** S. 510 of Act V of 1898.
+**Corresponding Law:** S. 510 of Act V of 1898. 
 
-
-
-## Section 293. Reports of certain Government scientific experts
-
-
+## Section 293. Reports of certain Government scientific experts 
 
 (1) Any document purporting to be a report under the hand of a Government scientific expert to whom this section applies, upon any matter or thing duly submitted to him for examination or analysis and report in the course of any proceeding under this Code, may be used as evidence in any inquiry, trial or other proceeding under this Code.
 
@@ -6800,13 +5590,9 @@ STATE AMENDMENTS
 
 **Notes on Clauses to 2005 Amendment** The designation the Chief Inspector of Explosives appearing in the Indian Explosives Act, 1884 has been changed to the Chief Controller of Explosives by the Indian Explosives (Amendment) Act, 1978. The opportunity has, therefore, been taken to make the consequential amendment to Section 293 where the expression the Chief Inspector of Explosives occurs.
 
-**Corresponding Law:** S. 510 of Act V of 1898.
+**Corresponding Law:** S. 510 of Act V of 1898. 
 
-
-
-## Section 294. No formal proof of certain documents
-
-
+## Section 294. No formal proof of certain documents 
 
 (1) Where any document is filed before any Court by the prosecution or the accused, the particulars of every such document shall be included in a list and the prosecution or the accused, as the case may be, or the pleader for the prosecution or the accused, if any, shall be called upon to admit or deny the genuineness of each such document.
 
@@ -6814,33 +5600,21 @@ STATE AMENDMENTS
 
 (3) Where the genuineness of any document is not disputed, such document may be read in evidence in any inquiry, trial or other proceeding under this Code without proof of the signature of the person to whom it purports to be signed:
 
-Provided that the Court may, in its discretion, require such signature to be proved.
+Provided that the Court may, in its discretion, require such signature to be proved. 
 
+## Section 295. Affidavit in proof of conduct of public servants 
 
+When any application is made to any Court in the course of any inquiry, trial or other proceeding under this Code, and allegations are made therein respecting any public servants, the applicant may give evidence of the facts alleged in the application by affidavit, and the Court may, if it thinks fit, order that evidence relating to such facts be so given. 
 
-## Section 295. Affidavit in proof of conduct of public servants
-
-
-
-When any application is made to any Court in the course of any inquiry, trial or other proceeding under this Code, and allegations are made therein respecting any public servants, the applicant may give evidence of the facts alleged in the application by affidavit, and the Court may, if it thinks fit, order that evidence relating to such facts be so given.
-
-
-
-## Section 296. Evidence of formal character on affidavit
-
-
+## Section 296. Evidence of formal character on affidavit 
 
 (1) The evidence of any person whose evidence is of a formal character may be given by affidavit and may, subject to all just exceptions, be read in evidence in any inquiry, trial or other proceeding under this Code.
 
 (2) The Court may, if it thinks fit, and shall, on the application of the prosecution or the accused, summon and examine any such person as to the facts contained in his affidavit.
 
-**Corresponding Law:** S. 510-A of Act V of 1898.
+**Corresponding Law:** S. 510-A of Act V of 1898. 
 
-
-
-## Section 297. Authorities before whom affidavits may be sworn
-
-
+## Section 297. Authorities before whom affidavits may be sworn 
 
 (1) Affidavits to be used before any Court under this Code may be sworn or affirmed before
 
@@ -6854,13 +5628,9 @@ When any application is made to any Court in the course of any inquiry, trial or
 
 (3) The Court may order any scandalous and irrelevant matter in the affidavit to be struck out or amended.
 
-**Corresponding Law:** Ss. 539, 539-A and 539-AA of Act V of 1898.
+**Corresponding Law:** Ss. 539, 539-A and 539-AA of Act V of 1898. 
 
-
-
-## Section 298. Previous conviction or acquittal how proved
-
-
+## Section 298. Previous conviction or acquittal how proved 
 
 In any inquiry, trial or other proceeding under this Code, a previous conviction or acquittal may be proved, in addition to any other mode provided by any law for the time being in force,
 
@@ -6870,13 +5640,9 @@ In any inquiry, trial or other proceeding under this Code, a previous conviction
 
 together with, in each of such cases, evidence as to identity of the accused person with the person so convicted or acquitted.
 
-**Corresponding Law:** S. 511 of Act V of 1898.
+**Corresponding Law:** S. 511 of Act V of 1898. 
 
-
-
-## Section 299. Record of evidence in absence of accused
-
-
+## Section 299. Record of evidence in absence of accused 
 
 (1) If it is proved that an accused person has absconded, and that there is no immediate prospect of arresting him, the Court competent to try [156](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_156)[or commit for trial,] such person for the offence complained of may, in his absence, examine the witnesses (if any) produced on behalf of the prosecution, and record their depositions and any such deposition may, on the arrest of such person, be given in evidence against him on the inquiry into, or trial for, the offence with which he is charged, if the deponent is dead or incapable of giving evidence or cannot be found or his presence cannot be procured without an amount of delay, expense or inconvenience which, under the circumstances of the case, would be unreasonable.
 
@@ -6890,13 +5656,9 @@ STATE AMENDMENTS
 
 Chapter XXIV
 
-GENERAL PROVISIONS AS TO ENQUIRIES AND TRIALS
+GENERAL PROVISIONS AS TO ENQUIRIES AND TRIALS 
 
-
-
-## Section 300. Person once convicted or acquitted not to be tried for same offence
-
-
+## Section 300. Person once convicted or acquitted not to be tried for same offence 
 
 (1) A person who has once been tried by a Court of competent jurisdiction for an offence and convicted or acquitted of such offence shall, while such conviction or acquittal remains in force, not be liable to be tried again for the same offence, nor on the same facts for any other offence for which a different charge from the one made against him might have been made under sub-section (1) of Section 221, or for which he might have been convicted under sub-section (2) thereof.
 
@@ -6926,13 +5688,9 @@ Illustrations
 
 (*f*) *A*, *B* and *C* are charged by a Magistrate of the first class with, and convicted by him of, robbing *D. A*, *B* and *C* may afterwards be charged with, and tried for, dacoity on the same facts.
 
-**Corresponding Law:** S. 403 of Act V of 1898.
+**Corresponding Law:** S. 403 of Act V of 1898. 
 
-
-
-## Section 301. Appearance by Public Prosecutors
-
-
+## Section 301. Appearance by Public Prosecutors 
 
 (1) The Public Prosecutor or Assistant Public Prosecutor in charge of a case may appear and plead without any written authority before any Court in which that case is under inquiry, trial or appeal.
 
@@ -6946,13 +5704,9 @@ STATE AMENDMENTS
 
 (1)(*a*) The Public Prosecutor in charge of a case may appear and plead without any written authority before any Court in which that case is under inquiry, trial or appeal.
 
-(*b*) The Assistant Public Prosecutor in charge of a case may appear and plead without any written authority before any Court in which that case is under inquiry or trial. W.B. Act 26 of 1990, S. 4 (w.e.f. the notified date).
+(*b*) The Assistant Public Prosecutor in charge of a case may appear and plead without any written authority before any Court in which that case is under inquiry or trial. W.B. Act 26 of 1990, S. 4 (w.e.f. the notified date). 
 
-
-
-## Section 302. Permission to conduct prosecution
-
-
+## Section 302. Permission to conduct prosecution 
 
 (1) Any Magistrate inquiring into or trying a case may permit the prosecution to be conducted by any person other than a police officer below the rank of Inspector; but no person, other than the Advocate-General or Government Advocate or a Public Prosecutor or Assistant Public Prosecutor, shall be entitled to do so without such permission:
 
@@ -6960,23 +5714,15 @@ Provided that no police officer shall be permitted to conduct the prosecution if
 
 (2) Any person conducting the prosecution may do so personally or by a pleader.
 
-**Corresponding Law:** S. 495 of Act V of 1898.
+**Corresponding Law:** S. 495 of Act V of 1898. 
 
-
-
-## Section 303. Right of person against whom proceedings are instituted to be defended
-
-
+## Section 303. Right of person against whom proceedings are instituted to be defended 
 
 Any person accused of an offence before a Criminal Court, or against whom proceedings are instituted under this Code, may of right be defended by a pleader of his choice.
 
-**Corresponding Law:** S. 340(1) of Act V of 1898.
+**Corresponding Law:** S. 340(1) of Act V of 1898. 
 
-
-
-## Section 304. Legal aid to accused at State expense in certain cases
-
-
+## Section 304. Legal aid to accused at State expense in certain cases 
 
 (1) Where, in a trial before the Court of Session, the accused is not represented by a pleader, and where it appears to the Court that the accused has not sufficient means to engage a pleader, the Court shall assign a pleader for his defence at the expense of the State.
 
@@ -6988,13 +5734,9 @@ Any person accused of an offence before a Criminal Court, or against whom procee
 
 (*c*) the fees payable to such pleaders by the Government, and generally, for carrying out the purposes of sub-section (1).
 
-(3) The State Government may, by notification, direct that, as from such date as may be specified in the notification, the provisions of sub-sections (1) and (2) shall apply in relation to any class of trials before other Courts in the State as they apply in relation to trials before Courts of Session.
+(3) The State Government may, by notification, direct that, as from such date as may be specified in the notification, the provisions of sub-sections (1) and (2) shall apply in relation to any class of trials before other Courts in the State as they apply in relation to trials before Courts of Session. 
 
-
-
-## Section 305. Procedure when corporation or registered society is an accused
-
-
+## Section 305. Procedure when corporation or registered society is an accused 
 
 (1) In this section, corporation means an incorporated company or other body corporate, and includes a society registered under the Societies Registration Act, 1860 (21 of 1860).
 
@@ -7006,13 +5748,9 @@ Any person accused of an offence before a Criminal Court, or against whom procee
 
 (5) Where a statement in writing purporting to be signed by the Managing Director of the corporation or by any person (by whatever name called) having, or being one of the persons having the management of the affairs of the corporation to the effect that the person named in the statement has been appointed as the representative of the corporation for the purposes of this section, is filed, the Court shall, unless the contrary is proved, presume that such person has been so appointed.
 
-(6) If a question arises as to whether any person, appearing as the representative of a corporation in an inquiry or trial before a Court is or is not such representative, the question shall be determined by the Court.
+(6) If a question arises as to whether any person, appearing as the representative of a corporation in an inquiry or trial before a Court is or is not such representative, the question shall be determined by the Court. 
 
-
-
-## Section 306. Tender of pardon to accomplice
-
-
+## Section 306. Tender of pardon to accomplice 
 
 (1) With a view to obtaining the evidence of any person supposed to have been directly or indirectly concerned in or privy to an offence to which this section applies, the Chief Judicial Magistrate or a Metropolitan Magistrate at any stage of the investigation or inquiry into, or the trial of, the offence, and the Magistrate of the first class inquiring into or trying the offence, at any stage of the inquiry or trial, may tender a pardon to such person on condition of his making a full and true disclosure of the whole of the circumstances within his knowledge relative to the offence and to every other person concerned, whether as principal or abettor, in the commission thereof.
 
@@ -7046,23 +5784,15 @@ and shall, on application made by the accused, furnish him with a copy of such r
 
 (*b*) in any other case, make over the case to the Chief Judicial Magistrate who shall try the case himself.
 
-**Corresponding Law:** S. 337 of Act V of 1898.
+**Corresponding Law:** S. 337 of Act V of 1898. 
 
-
-
-## Section 307. Power to direct tender of pardon
-
-
+## Section 307. Power to direct tender of pardon 
 
 At any time after commitment of a case but before judgment is passed, the Court to which the commitment is made may, with a view to obtaining at the trial the evidence of any person supposed to have been directly or indirectly concerned in, or privy to, any such offence, tender a pardon on the same condition to such person.
 
-**Corresponding Law:** S. 338 of Act V of 1898.
+**Corresponding Law:** S. 338 of Act V of 1898. 
 
-
-
-## Section 308. Trial of person not complying with conditions of pardon
-
-
+## Section 308. Trial of person not complying with conditions of pardon 
 
 (1) Where, in regard to a person who has accepted a tender of pardon made under Section 306 or Section 307, the Public Prosecutor certifies that in his opinion such person has, either by wilfully concealing anything essential or by giving false evidence, not complied with the condition on which the tender was made, such person may be tried for the offence in respect of which the pardon was so tendered or for any other offence of which he appears to have been guilty in connection with the same matter, and also for the offence of giving false evidence:
 
@@ -7086,13 +5816,9 @@ ask the accused whether he pleads that he has complied with the conditions on wh
 
 (5) If the accused does so plead, the Court shall record the plea and proceed with the trial and it shall, before passing judgment in the case, find whether or not the accused has complied with the conditions of the pardon, and, if it finds that he has so complied, it shall, notwithstanding anything contained in this Code, pass judgment of acquittal.
 
-**Corresponding Law:** S. 339-A of Act V of 1898.
+**Corresponding Law:** S. 339-A of Act V of 1898. 
 
-
-
-## Section 309. Power to postpone or adjourn proceedings
-
-
+## Section 309. Power to postpone or adjourn proceedings 
 
 [157](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_157)[(1) In every inquiry or trial the proceedings shall be continued from day-to-day until all the witnesses in attendance have been examined, unless the court finds the adjournment of the same beyond the following day to be necessary for reasons to be recorded:
 
@@ -7126,25 +5852,17 @@ STATE AMENDMENTS
 
 **Maharashtra**. In its application to the State of Maharashtra, after the existing proviso, the following proviso shall be *added*, namely:
 
-Provided further that, when the enquiry or trial relates to an offence under Section 332 or 353 of the Indian Penal Code (45 of 1860), the inquiry or trial shall, as far as possible be completed within a period of six months from the date of filing of the charge sheet. [*Vide* Mah. Act 40 of 2018, S. 4, dt. 7-6-2018.]
+Provided further that, when the enquiry or trial relates to an offence under Section 332 or 353 of the Indian Penal Code (45 of 1860), the inquiry or trial shall, as far as possible be completed within a period of six months from the date of filing of the charge sheet. [*Vide* Mah. Act 40 of 2018, S. 4, dt. 7-6-2018.] 
 
-
-
-## Section 310. Local inspection
-
-
+## Section 310. Local inspection 
 
 (1) Any Judge or Magistrate may, at any stage of any inquiry, trial or other proceeding, after due notice to the parties, visit and inspect any place in which an offence is alleged to have been committed, or any other place which it is in his opinion necessary to view for the purpose of properly appreciating the evidence given at such inquiry or trial, and shall without unnecessary delay record a memorandum of any relevant facts observed at such inspection.
 
 (2) Such memorandum shall form part of the record of the case and if the prosecutor, complainant or accused or any other party to the case, so desires, a copy of the memorandum shall be furnished to him free of cost.
 
-**Corresponding Law:** S. 539-B of Act V of 1898.
+**Corresponding Law:** S. 539-B of Act V of 1898. 
 
-
-
-## Section 311. Power to summon material witness, or examine person present
-
-
+## Section 311. Power to summon material witness, or examine person present 
 
 Any Court may, at any stage of any inquiry, trial or other proceeding under this Code, summon any person as a witness, or examine any person in attendance, though not summoned as a witness, or recall and re-examine any person already examined; and the Court shall summon and examine or recall and re-examine any such person if his evidence appears to it to be essential to the just decision of the case.
 
@@ -7154,23 +5872,15 @@ Any Court may, at any stage of any inquiry, trial or other proceeding under this
 
 Provided that no order shall be made under this section unless the person has at some time been arrested in connection with such investigation or proceeding.]
 
-**Notes on Clauses to 2005 Amendment** The Supreme Court in *State of U.P.* v. *Ram Babu Misra*, (1980) 2 SCC 343 : 1980 SCC (Cri) 444 : AIR 1980 SC 791 suggested that a suitable legislation be made on the analogy of Section 5 of the Identification of Prisoners Act, 1980, to provide for the investiture of Magistrates with powers to issue directions to any person including an accused person to give specimen signatures and handwriting. A new Section 311-A is accordingly being inserted in the Code.
+**Notes on Clauses to 2005 Amendment** The Supreme Court in *State of U.P.* v. *Ram Babu Misra*, (1980) 2 SCC 343 : 1980 SCC (Cri) 444 : AIR 1980 SC 791 suggested that a suitable legislation be made on the analogy of Section 5 of the Identification of Prisoners Act, 1980, to provide for the investiture of Magistrates with powers to issue directions to any person including an accused person to give specimen signatures and handwriting. A new Section 311-A is accordingly being inserted in the Code. 
 
-
-
-## Section 312. Expenses of complainants and witnesses
-
-
+## Section 312. Expenses of complainants and witnesses 
 
 Subject to any rules made by the State Government, any Criminal Court may, if it thinks fit, order payment, on the part of Government, of the reasonable expenses of any complainant or witness attending for the purposes of any inquiry, trial or other proceeding before such Court under this Code.
 
-**Corresponding Law:** S. 544 of Act V of 1898.
+**Corresponding Law:** S. 544 of Act V of 1898. 
 
-
-
-## Section 313. Power to examine the accused
-
-
+## Section 313. Power to examine the accused 
 
 (1) In every inquiry or trial, for the purpose of enabling the accused personally to explain any circumstances appearing in the evidence against him, the Court
 
@@ -7198,13 +5908,9 @@ STATE AMENDMENTS
 
 **Rajasthan.** In its application to the State of Rajasthan, in sub-section (1) of Section 313, after the existing proviso, the following new proviso shall be *added*, namely:
 
-Provided further that when the accused is present through the medium of audio-video electronic means, he may be examined under this sub-section through such medium of audio-video electronic means. [*Vide* Raj. Act 1 of 2019, S. 7 (w.r.e.f. 10-7-2017).]
+Provided further that when the accused is present through the medium of audio-video electronic means, he may be examined under this sub-section through such medium of audio-video electronic means. [*Vide* Raj. Act 1 of 2019, S. 7 (w.r.e.f. 10-7-2017).] 
 
-
-
-## Section 314. Oral arguments and memorandum of arguments
-
-
+## Section 314. Oral arguments and memorandum of arguments 
 
 (1) Any party to a proceeding may, as soon as may be, after the close of his evidence, address concise oral arguments, and may, before he concludes the oral arguments, if any, submit a memorandum to the Court setting forth concisely and under distinct headings, the arguments in support of his case and every such memorandum shall form part of the record.
 
@@ -7212,13 +5918,9 @@ Provided further that when the accused is present through the medium of audio-vi
 
 (3) No adjournment of the proceedings shall be granted for the purpose of filing the written arguments unless the Court, for reasons to be recorded in writing, considers it necessary to grant such adjournment.
 
-(4) The Court may, if it is of opinion that the oral arguments are not concise or relevant, regulate such arguments.
+(4) The Court may, if it is of opinion that the oral arguments are not concise or relevant, regulate such arguments. 
 
-
-
-## Section 315. Accused person to be competent witness
-
-
+## Section 315. Accused person to be competent witness 
 
 (1) Any person accused of an offence before a criminal court shall be a competent witness for the defence and may give evidence on oath in disproof of the charges made against him or any person charged together with him at the same trial:
 
@@ -7234,23 +5936,15 @@ Provided that
 
 Provided that in proceedings under Section 108, Section 109 or Section 110, the failure of such person to give evidence shall not be made the subject of any comment by any of the parties or the Court or give rise to any presumption against him or any other person proceeded against together with him at the same inquiry.
 
-**Corresponding Law:** S. 340(2) of Act V of 1898.
+**Corresponding Law:** S. 340(2) of Act V of 1898. 
 
-
-
-## Section 316. No influence to be used to induce disclosure
-
-
+## Section 316. No influence to be used to induce disclosure 
 
 Except as provided in Sections 306 and 307, no influence, by means of any promise or threat or otherwise, shall be used to an accused person to induce him to disclose or withhold any matter within his knowledge.
 
-**Corresponding Law:** S. 343 of Act V of 1898.
+**Corresponding Law:** S. 343 of Act V of 1898. 
 
-
-
-## Section 317. Provision for inquiries and trial being held in the absence of accused in certain cases
-
-
+## Section 317. Provision for inquiries and trial being held in the absence of accused in certain cases 
 
 (1) At any stage of an inquiry or trial under this Code, if the Judge or Magistrate is satisfied, for reasons to be recorded, that the personal attendance of the accused before the Court is not necessary in the interests of justice, or that the accused persistently disturbs the proceedings in Court, the Judge or Magistrate may, if the accused is represented by a pleader, dispense with his attendance and proceed with such inquiry or trial in his absence, and may, at any subsequent stage of the proceedings, direct the personal attendance of such accused.
 
@@ -7262,23 +5956,15 @@ STATE AMENDMENTS
 
 **Gujarat**. In Section 317, the following Explanation shall be *added*, namely:
 
-*Explanation*. For the purpose of this section Personal attendance of the accused shall include his attendance through the medium of Electronic Video Linkage as provided in Section 273. [*Vide* Guj. Act 31 of 2017, S. 6, dt. 8-9-2017]
+*Explanation*. For the purpose of this section Personal attendance of the accused shall include his attendance through the medium of Electronic Video Linkage as provided in Section 273. [*Vide* Guj. Act 31 of 2017, S. 6, dt. 8-9-2017] 
 
-
-
-## Section 318. Procedure where accused does not understand proceedings
-
-
+## Section 318. Procedure where accused does not understand proceedings 
 
 If the accused, though not of unsound mind, cannot be made to understand the proceedings, the Court may proceed with the inquiry or trial; and, in the case of a Court other than a High Court, if such proceedings result in a conviction, the proceedings shall be forwarded to the High Court with a report of the circumstances of the case, and the High Court shall pass thereon such order as it thinks fit.
 
-**Corresponding Law:** S. 341 of Act V of 1898.
+**Corresponding Law:** S. 341 of Act V of 1898. 
 
-
-
-## Section 319. Power to proceed against other persons appearing to be guilty of offence
-
-
+## Section 319. Power to proceed against other persons appearing to be guilty of offence 
 
 (1) Where, in the course of any inquiry into, or trial of, an offence, it appears from the evidence that any person not being the accused has committed any offence for which such person could be tried together with the accused, the Court may proceed against such person for the offence which he appears to have committed.
 
@@ -7292,27 +5978,17 @@ If the accused, though not of unsound mind, cannot be made to understand the pro
 
 (*b*) subject to the provisions of clause (*a*), the case may proceed as if such person had been an accused person when the Court took cognizance of the offence upon which the inquiry or trial was commenced.
 
-**Corresponding Law:** S. 351 of Act V of 1898.
+**Corresponding Law:** S. 351 of Act V of 1898. 
 
-
-
-## Section 320. Compounding of offences
-
-
+## Section 320. Compounding of offences 
 
 (1) The offences punishable under the sections of the Indian Penal Code (45 of 1860) specified in the first two columns of the Table next following may be compounded by the persons mentioned in the third column of that Table:
 
-[163](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_163)[TABLE
-
-
+[163](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_163)[TABLE 
 
 | Offence | Section of the Indian Penal Code applicable | Person by whom offence may be compounded |
 | ------- | ------------------------------------------- | ---------------------------------------- |
 |         |                                             |                                          |
-
-
-
-
 
 | 1                                                            | 2             | 3                                                            |
 | :----------------------------------------------------------- | :------------ | :----------------------------------------------------------- |
@@ -7356,21 +6032,13 @@ If the accused, though not of unsound mind, cannot be made to understand the pro
 | Criminal intimidation                                        | 506           | The person intimidated                                       |
 | Inducing person to believe himself an object of divine displeasure | 508           | The person induced]                                          |
 
-
-
 (2) The offences punishable under the sections of the Indian Penal Code (45 of 1860) specified in the first two columns of the Table next following may, with the permission of the Court before which any prosecution for such offence is pending, be compounded by the persons mentioned in the third column of that Table:
 
-[164](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_164)[TABLE
-
-
+[164](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_164)[TABLE 
 
 | Offence | Section of the Indian Penal Code applicable | Person by whom offence may be compounded |
 | ------- | ------------------------------------------- | ---------------------------------------- |
 |         |                                             |                                          |
-
-
-
-
 
 | 1                                                            | 2    | 3                                                            |
 | :----------------------------------------------------------- | :--- | :----------------------------------------------------------- |
@@ -7388,13 +6056,9 @@ If the accused, though not of unsound mind, cannot be made to understand the pro
 | Defamation against the President or the Vice-President or the Governor of a State or the Administrator of a Union territory or a Minister in respect of his public functions when instituted upon a complaint made by the Public Prosecutor | 500  | The person defamed                                           |
 | Uttering words or sounds or making gestures or exhibiting any object intending to insult the modesty of a woman or intruding upon the privacy of a woman | 509  | The woman whom it was intended to insult or whose privacy was intruded upon] |
 
-
-
 STATE AMENDMENTS
 
-**Andhra Pradesh**. In Section 320, in sub-section (2), in the Table and in the column thereof; after item,
-
-
+**Andhra Pradesh**. In Section 320, in sub-section (2), in the Table and in the column thereof; after item, 
 
 | (1)                                                          | (2)   | (3)                                                          |
 | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
@@ -7402,13 +6066,9 @@ STATE AMENDMENTS
 | the following item and entries relating thereto shall be *inserted*, namely: |       |                                                              |
 | Husband or relative or husband of a woman subjecting her to cruelty. | 498-A | The women subjected to cruelty: Provided that a minimum period of three months shall elapse from the date of request or application for compromise before a Court and the Court can accept a request for compounding an offence under Section 498-A of the Indian Penal Code, 1860, provided none of the parties withdraw the case in the intervening period. [*Vide* A.P. Act 11 of 2003, S. 2 (w.e.f. 1-8-2003)]. |
 
-
-
 **Madhya Pradesh**. In the table below sub-section (2) of Section 320 of the Principal Act,
 
-(*i*) in column first, second and third, before Section 324 and entries relating thereto, the following Sections and entries relating thereto shall be *inserted*, namely:
-
-
+(*i*) in column first, second and third, before Section 324 and entries relating thereto, the following Sections and entries relating thereto shall be *inserted*, namely: 
 
 | (1)                                  | (2)  | (3)                                                          |
 | ------------------------------------ | ---- | ------------------------------------------------------------ |
@@ -7418,17 +6078,11 @@ STATE AMENDMENTS
 |                                      |      | Provided that the accused is not charged with other offence which is not compoundable. |
 | Obscene acts or use of obscene words | 294  | The person against whom obscene acts were done or obscene words were used. . |
 
-
-
-(*ii*) in column first, second and third, after Section 500 and entries relating thereto, the following Section and entries relating thereto shall be *inserted*, namely:
-
-
+(*ii*) in column first, second and third, after Section 500 and entries relating thereto, the following Section and entries relating thereto shall be *inserted*, namely: 
 
 | (1)                                                          | (2)                    | (3)                                                          |
 | ------------------------------------------------------------ | ---------------------- | ------------------------------------------------------------ |
 | Criminal intimidation if threat be to cause death or grievous hurt, etc. | Part II of Section 506 | The person against whom the offence of Criminal intimidation was committed. . [*Vide* M.P. Act 17 of 1999, S. 3 (28-5-1999)] |
-
-
 
 [165](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_165)[(3) When an offence is compoundable under this section, the abetment of such offence or an attempt to commit such offence (when such attempt is itself an offence) or where the accused is liable under Sections 34 or 149 of the Indian Penal Code (45 of 1860) may be compounded in like manner.]
 
@@ -7450,13 +6104,9 @@ STATE AMENDMENTS
 
 Sub-clause (*c*) seeks to amend the said Table so as to enhance the value of the property mentioned in respect of Sections 379, 381, 406, 407, 408, 411 and 414 of the Indian Penal Code to two thousand rupees instead of two hundred and fifty rupees since the value of money has gone down considerably.
 
-**Corresponding Law:** S. 345 of Act V of 1898.
+**Corresponding Law:** S. 345 of Act V of 1898. 
 
-
-
-## Section 321. Withdrawal from prosecution
-
-
+## Section 321. Withdrawal from prosecution 
 
 The Public Prosecutor or Assistant Public Prosecutor in charge of a case may, with the consent of the Court, at any time before the judgment is pronounced, withdraw from the prosecution of any person either generally or in respect of any one or more of the offences for which he is tried; and, upon such withdrawal,
 
@@ -7480,13 +6130,9 @@ and the Prosecutor in charge of the case has not been appointed by the Central G
 
 STATE AMENDMENTS
 
-**Uttar Pradesh**. In Section 321 after the words in charge of a case may the words on the written permission of the State Government to that effect (which shall be filed in Court) , shall be *inserted*. U.P. Act 18 of 1991, S. 3 (w.e.f. 16-2-1991).
+**Uttar Pradesh**. In Section 321 after the words in charge of a case may the words on the written permission of the State Government to that effect (which shall be filed in Court) , shall be *inserted*. U.P. Act 18 of 1991, S. 3 (w.e.f. 16-2-1991). 
 
-
-
-## Section 322. Procedure in cases which Magistrate cannot dispose of
-
-
+## Section 322. Procedure in cases which Magistrate cannot dispose of 
 
 (1) If, in the course of any inquiry into an offence or a trial before a Magistrate in any district, the evidence appears to him to warrant a presumption
 
@@ -7500,35 +6146,23 @@ he shall stay the proceedings and submit the case, with a brief report explainin
 
 (2) The Magistrate to whom the case is submitted may, if so empowered, either try the case himself, or refer it to any Magistrate subordinate to him having jurisdiction, or commit the accused for trial.
 
-**Corresponding Law:** S. 346 of Act V of 1898.
+**Corresponding Law:** S. 346 of Act V of 1898. 
 
-
-
-## Section 323. Procedure when, after commencement of inquiry or trial, Magistrate finds case should be committed
-
-
+## Section 323. Procedure when, after commencement of inquiry or trial, Magistrate finds case should be committed 
 
 If, in any inquiry into an offence or a trial before a Magistrate, it appears to him at any stage of the proceedings before signing judgment that the case is one which ought to be tried by the Court of Session, he shall commit it to that Court under the provisions hereinbefore contained [166](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_166)[and thereupon the provisions of Chapter XVIII shall apply to the commitment so made].
 
-**Corresponding Law:** S. 347 of Act V of 1898.
+**Corresponding Law:** S. 347 of Act V of 1898. 
 
-
-
-## Section 324. Trial of persons previously convicted of offences against coinage, stamp-law or property
-
-
+## Section 324. Trial of persons previously convicted of offences against coinage, stamp-law or property 
 
 (1) Where a person, having been convicted of an offence punishable under Chapter XII or Chapter XVII of the Indian Penal Code (45 of 1860) with imprisonment for a term of three years or upwards, is again accused of any offence punishable under either of those Chapters with imprisonment for a term of three years or upwards, and the Magistrate before whom the case is pending is satisfied that there is ground for presuming that such person has committed the offence, he shall be sent for trial to the Chief Judicial Magistrate or committed to the Court of Session, unless the Magistrate is competent to try the case and is of opinion that he can himself pass an adequate sentence if the accused is convicted.
 
 (2) When any person is sent for trial to the Chief Judicial Magistrate or committed to the Court of Session under sub-section (1) any other person accused jointly with him in the same inquiry or trial shall be similarly sent or committed, unless the Magistrate discharges such other person under Section 239 or Section 245, as the case may be.
 
-**Corresponding Law:** S. 348 of Act V of 1898.
+**Corresponding Law:** S. 348 of Act V of 1898. 
 
-
-
-## Section 325. Procedure when Magistrate cannot pass sentence sufficiently severe
-
-
+## Section 325. Procedure when Magistrate cannot pass sentence sufficiently severe 
 
 (1) Whenever a Magistrate is of opinion, after hearing the evidence for the prosecution and the accused, that the accused is guilty, and that he ought to receive a punishment different in kind from, or more severe than, that which such Magistrate is empowered to inflict, or, being a Magistrate of the second class, is of opinion that the accused ought to be required to execute a bond under Section 106, he may record the opinion and submit his proceedings, and forward the accused, to the Chief Judicial Magistrate to whom he is subordinate.
 
@@ -7536,13 +6170,9 @@ If, in any inquiry into an offence or a trial before a Magistrate, it appears to
 
 (3) The Chief Judicial Magistrate to whom the proceedings are submitted may, if he thinks fit, examine the parties and recall and examine any witness who has already given evidence in the case and may call for and take any further evidence, and shall pass such judgment, sentence or order in the case as he thinks fit, and as is according to law.
 
-**Corresponding Law:** S. 349 of Act V of 1898.
+**Corresponding Law:** S. 349 of Act V of 1898. 
 
-
-
-## Section 326. Conviction or commitment on evidence partly recorded by one Magistrate and partly by another
-
-
+## Section 326. Conviction or commitment on evidence partly recorded by one Magistrate and partly by another 
 
 (1) Whenever any [167](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_167)[Judge or Magistrate], after having heard and recorded the whole or any part of the evidence in an inquiry or a trial, ceases to exercise jurisdiction therein and is succeeded by another [168](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_168)[Judge or Magistrate] who has and who exercises such jurisdiction, the [169](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_169)[Judge or Magistrate] so succeeding may act on the evidence so recorded by his predecessor, or partly recorded by his predecessor and partly recorded by himself:
 
@@ -7562,13 +6192,9 @@ STATE AMENDMENTS
 
 (*a*) in sub-section (1) for the word Magistrate , wherever occurring the words Judge or Magistrate shall be *substituted*;
 
-(*b*) in sub-section (2), before the words from one Magistrate to another Magistrate , the words from one Judge to another Judge or shall be *inserted*. [*Vide* U.P. Act 16 of 1976, S. 8 (28-11-1975)].
+(*b*) in sub-section (2), before the words from one Magistrate to another Magistrate , the words from one Judge to another Judge or shall be *inserted*. [*Vide* U.P. Act 16 of 1976, S. 8 (28-11-1975)]. 
 
-
-
-## Section 327. Court to be open
-
-
+## Section 327. Court to be open 
 
 [172](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_172)[(1)] The place in which any Criminal Court is held for the purpose of inquiring into or trying any offence shall be deemed to be an open Court, to which the public generally may have access, so far as the same can conveniently contain them:
 
@@ -7668,13 +6294,9 @@ STATE AMENDMENTS
 
 Chapter XXV
 
-PROVISIONS AS TO ACCUSED PERSONS OF UNSOUND MIND
+PROVISIONS AS TO ACCUSED PERSONS OF UNSOUND MIND 
 
-
-
-## Section 328. Procedure in case of accused being lunatic
-
-
+## Section 328. Procedure in case of accused being lunatic 
 
 (1) When a Magistrate holding an inquiry has reason to believe that the person against whom the inquiry is being held is of unsound mind and consequently incapable of making his defence, the Magistrate shall inquire into the fact of such unsoundness of mind, and shall cause such person to be examined by the civil surgeon of the district or such other medical officer as the State Government may direct, and thereupon shall examine such surgeon or other officer as a witness, and shall reduce the examination to writing.
 
@@ -7694,13 +6316,9 @@ Provided that if the Magistrate finds that a prima facie case is made out agains
 
 (4) If such Magistrate is informed that the person referred to in sub-section (1-A) is a person with mental retardation, the Magistrate shall further determine whether the mental retardation renders the accused incapable of entering defence, and if the accused is found so incapable, the Magistrate shall order closure of the inquiry and deal with the accused in the manner provided under Section 330.]
 
-**Corresponding Law:** S. 464 of Act V of 1898.
+**Corresponding Law:** S. 464 of Act V of 1898. 
 
-
-
-## Section 329. Procedure in case of person of unsound mind tried before Court
-
-
+## Section 329. Procedure in case of person of unsound mind tried before Court 
 
 (1) If at the trial of any person before a Magistrate or Court of Session, it appears to the Magistrate or Court that such person is of unsound mind and consequently incapable of making his defence, the Magistrate or Court shall, in the first instance, try the fact of such unsoundness and incapacity, and if the Magistrate or Court, after considering such medical and other evidence as may be produced before him or it, is satisfied of the fact, he or it shall record a finding to that effect and shall postpone further proceedings in the case.
 
@@ -7718,13 +6336,9 @@ Provided that if the Magistrate or Court finds that a prima facie case is made o
 
 (3) If the Magistrate or Court finds that a prima facie case is made out against the accused and he is incapable of entering defence by reason of mental retardation, he or it shall not hold the trial and order the accused to be dealt with in accordance with Section 330.]
 
-**Corresponding Law:** S. 465 of Act V of 1898.
+**Corresponding Law:** S. 465 of Act V of 1898. 
 
-
-
-## Section 330. Release of person of unsound mind pending investigation or trial
-
-
+## Section 330. Release of person of unsound mind pending investigation or trial 
 
 [182](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_182)[(1) Whenever a person if found under Section 328 or Section 329 to be incapable of entering defence by reason of unsoundness of mind or mental retardation, the Magistrate or Court, as the case may be shall, whether the case is one in which bail may be taken or not, order release of such person on bail:
 
@@ -7742,57 +6356,37 @@ Provided that
 
 (*b*) if the Magistrate or Court, as the case may be, is of opinion that discharge of the accused cannot be ordered, the transfer of the accused to a residential facility for persons of unsound mind or mental retardation may be ordered wherein the accused may be provided care and appropriate education and training.]
 
-**Corresponding Law:** S. 466 of Act V of 1898.
+**Corresponding Law:** S. 466 of Act V of 1898. 
 
-
-
-## Section 331. Resumption of inquiry or trial
-
-
+## Section 331. Resumption of inquiry or trial 
 
 (1) Whenever an inquiry or a trial is postponed under Section 328 or Section 329, the Magistrate or Court, as the case may be, may at any time after the person concerned has ceased to be of unsound mind, resume the inquiry or trial, and require the accused to appear or be brought before such Magistrate or Court.
 
 (2) When the accused has been released under Section 330, and the sureties for his appearance produce him to the officer whom the Magistrate or Court appoints in this behalf, the certificate of such officer that the accused is capable of making his defence shall be receivable in evidence.
 
-**Corresponding Law:** S. 467 of Act V of 1898.
+**Corresponding Law:** S. 467 of Act V of 1898. 
 
-
-
-## Section 332. Procedure on accused appearing before Magistrate or Court
-
-
+## Section 332. Procedure on accused appearing before Magistrate or Court 
 
 (1) If, when the accused appears or is again brought before the Magistrate or Court, as the case may be, the Magistrate or Court considers him capable of making his defence, the inquiry or trial shall proceed.
 
 (2) If the Magistrate or Court considers the accused to be still incapable of making his defence, the Magistrate or Court shall act according to the provisions of Section 328 or Section 329, as the case may be, and if the accused is found to be of unsound mind and consequently incapable of making his defence, shall deal with such accused in accordance with the provisions of Section 330.
 
-**Corresponding Law:** S. 468 of Act V of 1898.
+**Corresponding Law:** S. 468 of Act V of 1898. 
 
-
-
-## Section 333. When accused appears to have been of sound mind
-
-
+## Section 333. When accused appears to have been of sound mind 
 
 When the accused appears to be of sound mind at the time of inquiry or trial, and the Magistrate is satisfied from the evidence given before him that there is reason to believe that the accused committed an act, which, if he had been of sound mind, would have been an offence, and that he was, at the time when the act was committed, by reason of unsoundness of mind, incapable of knowing the nature of the act or that it was wrong or contrary to law, the Magistrate shall proceed with the case, and, if the accused ought to be tried by the Court of Session, commit him for trial before the Court of Session.
 
-**Corresponding Law:** S. 469 of Act V of 1898.
+**Corresponding Law:** S. 469 of Act V of 1898. 
 
-
-
-## Section 334. Judgment of acquittal on ground of unsoundness of mind
-
-
+## Section 334. Judgment of acquittal on ground of unsoundness of mind 
 
 Whenever any person is acquitted upon the ground that, at the time at which he is alleged to have committed an offence, he was, by reason of unsoundness of mind, incapable of knowing the nature of the act alleged as constituting the offence, or that it was wrong or contrary to law, the finding shall state specifically whether he committed the act or not.
 
-**Corresponding Law:** S. 470 of Act V of 1898.
+**Corresponding Law:** S. 470 of Act V of 1898. 
 
-
-
-## Section 335. Person acquitted on such ground to be detained in safe custody
-
-
+## Section 335. Person acquitted on such ground to be detained in safe custody 
 
 (1) Whenever the finding states that the accused person committed the act alleged, the Magistrate or Court before whom or which the trial has been held, shall, if such act would, but for the incapacity found, have constituted an offence,
 
@@ -7810,45 +6404,29 @@ Whenever any person is acquitted upon the ground that, at the time at which he i
 
 (4) The Magistrate or Court shall report to the State Government the action taken under sub-section (1).
 
-**Corresponding Law:** S. 471(1) of Act V of 1898.
+**Corresponding Law:** S. 471(1) of Act V of 1898. 
 
-
-
-## Section 336. Power of State Government to empower officer in charge to discharge
-
-
+## Section 336. Power of State Government to empower officer in charge to discharge 
 
 The State Government may empower the officer in charge of the jail in which a person is confined under the provisions of Section 330 or Section 335 to discharge all or any of the functions of the Inspector-General of Prisons under Section 337 or Section 338.
 
-**Corresponding Law:** S. 471(2) of Act V of 1898.
+**Corresponding Law:** S. 471(2) of Act V of 1898. 
 
-
-
-## Section 337. Procedure where lunatic prisoner is reported capable of making his defence
-
-
+## Section 337. Procedure where lunatic prisoner is reported capable of making his defence 
 
 If such person is detained under the provisions of sub-section (2) of Section 330, and in the case of a person detained in a jail, the Inspector-General of Prisons, or, in the case of a person detained in a lunatic asylum, the visitors of such asylum or any two of them shall certify that, in his or their opinion, such person is capable of making his defence, he shall be taken before the Magistrate or Court, as the case may be, at such time as the Magistrate or Court appoints, and the Magistrate or Court shall deal with such person under the provisions of Section 332; and the certificate of such Inspector-General or visitors as aforesaid shall be receivable as evidence.
 
-**Corresponding Law:** S. 473 of Act V of 1898.
+**Corresponding Law:** S. 473 of Act V of 1898. 
 
-
-
-## Section 338. Procedure where lunatic detained is declared fit to be released
-
-
+## Section 338. Procedure where lunatic detained is declared fit to be released 
 
 (1) If such person is detained under the provisions of sub-section (2) of Section 330, or Section 335, and such Inspector-General or visitors shall certify that, in his or their judgment, he may be released without danger of his doing injury to himself or to any other person, the State Government may thereupon order him to be released, or to be detained in custody, or to be transferred to a public lunatic asylum if he has not been already sent to such an asylum; and, in case it orders him to be transferred to an asylum, may appoint a Commission, consisting of a judicial and two medical officers.
 
 (2) Such Commission shall make a formal inquiry into the state of mind of such person, take such evidence as is necessary, and shall report to the State Government, which may order his release or detention as it thinks fit.
 
-**Corresponding Law:** S. 474 of Act V of 1898.
+**Corresponding Law:** S. 474 of Act V of 1898. 
 
-
-
-## Section 339. Delivery of lunatic to care of relative or friend
-
-
+## Section 339. Delivery of lunatic to care of relative or friend 
 
 (1) Whenever any relative or friend of any person detained under the provisions of Section 330 or Section 335 desires that he shall be delivered to his care and custody, the State Government may, upon the application of such relative or friend and on his giving security to the satisfaction of such State Government, that the person delivered shall
 
@@ -7866,13 +6444,9 @@ order such person to be delivered to such relative or friend.
 
 Chapter XXVI
 
-PROVISIONS AS TO OFFENCES AFFECTING THE ADMINISTRATION OF JUSTICE
+PROVISIONS AS TO OFFENCES AFFECTING THE ADMINISTRATION OF JUSTICE 
 
-
-
-## Section 340. Procedure in cases mentioned in Section 195
-
-
+## Section 340. Procedure in cases mentioned in Section 195 
 
 (1) When, upon an application made to it in this behalf or otherwise, any Court is of opinion that it is expedient in the interests of justice that an inquiry should be made into any offence referred to in clause (*b*) of sub-section (1) of Section 195, which appears to have been committed in or in relation to a proceeding in that Court or, as the case may be, in respect of a document produced or given in evidence in a proceeding in that Court, such Court may, after such preliminary inquiry, if any, as it thinks necessary,
 
@@ -7900,35 +6474,23 @@ PROVISIONS AS TO OFFENCES AFFECTING THE ADMINISTRATION OF JUSTICE
 
 **Corresponding Law:** S. 476(1) Proviso of Act V of 1898.
 
-(4) In this section, Court has the same meaning as in Section 195.
+(4) In this section, Court has the same meaning as in Section 195. 
 
-
-
-## Section 341. Appeal
-
-
+## Section 341. Appeal 
 
 (1) Any person on whose application any Court other than a High Court has refused to make a complaint under sub-section (1) or sub-section (2) of Section 340, or against whom such a complaint has been made by such Court, may appeal to the Court to which such former Court is subordinate within the meaning of sub-section (4) of Section 195, and the superior Court may thereupon, after notice to the parties concerned, direct the withdrawal of the complaint, or, as the case may be, making of the complaint which such former Court might have made under Section 340, and if it makes such complaint, the provisions of that section shall apply accordingly.
 
 **Corresponding Law:** S. 376-B of Act V of 1898.
 
-(2) An order under this section, and subject to any such order, an order under Section 340, shall be final and shall not be subject to revision.
+(2) An order under this section, and subject to any such order, an order under Section 340, shall be final and shall not be subject to revision. 
 
-
-
-## Section 342. Power to order costs
-
-
+## Section 342. Power to order costs 
 
 Any Court dealing with an application made to it for filing a complaint under Section 340 or an appeal under Section 341, shall have power to make such order as to costs as may be just.
 
-**Corresponding Law:** S. 476 (Bombay Amendment) of Act V of 1898.
+**Corresponding Law:** S. 476 (Bombay Amendment) of Act V of 1898. 
 
-
-
-## Section 343. Procedure of Magistrate taking cognizance
-
-
+## Section 343. Procedure of Magistrate taking cognizance 
 
 (1) A Magistrate to whom a complaint is made under Section 340 or Section 341 shall, notwithstanding anything contained in Chapter XV, proceed, as far as may be, to deal with the case as if it were instituted on a police report.
 
@@ -7936,13 +6498,9 @@ Any Court dealing with an application made to it for filing a complaint under Se
 
 (2) Where it is brought to the notice of such Magistrate, or of any other Magistrate to whom the case may have been transferred, that an appeal is pending against the decision arrived at in the judicial proceeding out of which the matter has arisen, he may, if he thinks fit, at any stage, adjourn the hearing of the case until such appeal is decided.
 
-**Corresponding Law:** S. 476(3) of Act V of 1898.
+**Corresponding Law:** S. 476(3) of Act V of 1898. 
 
-
-
-## Section 344. Summary procedure for trial for giving false evidence
-
-
+## Section 344. Summary procedure for trial for giving false evidence 
 
 (1) If, at the time of delivery of any judgment or final order disposing of any judicial proceeding, a Court of Session or Magistrate of the first class expresses an opinion to the effect that any witness appearing in such proceeding had knowingly or wilfully given false evidence or had fabricated false evidence with the intention that such evidence should be used in such proceeding, it or he may, if satisfied that it is necessary and expedient in the interest of justice that the witness should be tried summarily for giving or fabricating, as the case may be, false evidence, take cognizance of the offence and may, after giving the offender a reasonable opportunity of showing cause why he should not be punished for such offence, try such offender summarily and sentence him to imprisonment for a term which may extend to three months, or to fine which may extend to five hundred rupees, or with both.
 
@@ -7952,13 +6510,9 @@ Any Court dealing with an application made to it for filing a complaint under Se
 
 (4) Where, after any action is initiated under sub-section (1), it is made to appear to the Court of Session or Magistrate of the first class that an appeal or an application for revision has been preferred or filed against the judgment or order in which the opinion referred to in that sub-section has been expressed, it or he shall stay further proceedings of the trial until the disposal of the appeal or the application for revision, as the case may be, and thereupon the further proceedings of the trial shall abide by the results of the appeal or application for revision.
 
-**Corresponding Law:** S. 479-A of Act V of 1898.
+**Corresponding Law:** S. 479-A of Act V of 1898. 
 
-
-
-## Section 345. Procedure in certain cases of contempt
-
-
+## Section 345. Procedure in certain cases of contempt 
 
 (1) When any such offence as is described in Section 175, Section 178, Section 179, Section 180 or Section 228 of the Indian Penal Code (45 of 1860) is committed in the view or presence of any Civil, Criminal or Revenue Court, the Court may cause the offender to be detained in custody and may, at any time before the rising of the Court on the same day, take cognizance of the offence and, after giving the offender a reasonable opportunity of showing cause why he should not be punished under this section, sentence the offender to fine not exceeding two hundred rupees, and, in default of payment of fine, to simple imprisonment for a term which may extend to one month, unless such fine be sooner paid.
 
@@ -7968,67 +6522,43 @@ Any Court dealing with an application made to it for filing a complaint under Se
 
 (3) If the offence is under Section 228 of the Indian Penal Code (45 of 1860), the record shall show the nature and stage of the judicial proceeding in which the Court interrupted or insulted was sitting, and the nature of the interruption or insult.
 
-**Corresponding Law:** S. 481 of Act V of 1898.
+**Corresponding Law:** S. 481 of Act V of 1898. 
 
-
-
-## Section 346. Procedure where Court considers that case should not be dealt with under Section 345
-
-
+## Section 346. Procedure where Court considers that case should not be dealt with under Section 345 
 
 (1) If the Court in any case considers that a person accused of any of the offences referred to in Section 345 and committed in its view or presence should be imprisoned otherwise than in default of payment of fine, or that a fine exceeding two hundred rupees should be imposed upon him, or such Court is for any other reason of opinion that the case should not be disposed of under Section 345, such Court, after recording the facts constituting the offence and the statement of the accused as hereinbefore provided, may forward the case to a Magistrate having jurisdiction to try the same, and may require security to be given for the appearance of such person before such Magistrate, or if sufficient security is not given shall forward such person in custody to such Magistrate.
 
 (2) The Magistrate to whom any case is forwarded under this section shall proceed to deal with, as far as may be, as if it were instituted on a police report.
 
-**Corresponding Law:** S. 482 of Act V of 1898.
+**Corresponding Law:** S. 482 of Act V of 1898. 
 
-
-
-## Section 347. When Registrar or Sub-Registrar to be deemed a civil court
-
-
+## Section 347. When Registrar or Sub-Registrar to be deemed a civil court 
 
 When the State Government so directs, any Registrar or any Sub-Registrar appointed under the [184](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_184)[* * *] Registration Act, 1908 (16 of 1908), shall be deemed to be a civil court within the meaning of Sections 345 and 346.
 
-**Corresponding Law:** S. 483 of Act V of 1898.
+**Corresponding Law:** S. 483 of Act V of 1898. 
 
-
-
-## Section 348. Discharge of offender on submission of apology
-
-
+## Section 348. Discharge of offender on submission of apology 
 
 When any Court has under Section 345 adjudged an offender to punishment, or has under Section 346 forwarded him to a Magistrate for trial, for refusing or omitting to do anything which he was lawfully required to do or for any intentional insult or interruption, the Court may, in its discretion, discharge the offender or remit the punishment on his submission to the order or requisition of such Court, or on apology being made to its satisfaction.
 
-**Corresponding Law:** S. 484 of Act V of 1898.
+**Corresponding Law:** S. 484 of Act V of 1898. 
 
-
-
-## Section 349. Imprisonment or committal of person refusing to answer or produce document
-
-
+## Section 349. Imprisonment or committal of person refusing to answer or produce document 
 
 If any witness or person called to produce a document or thing before a Criminal Court refuses to answer such questions as are put to him or to produce any document or thing in his possession or power which the Court requires him to produce, and does not, after a reasonable opportunity has been given to him so to do, offer any reasonable excuse for such refusal, such Court may, for reasons to be recorded in writing, sentence him to simple imprisonment, or by warrant under the hand of the Presiding Magistrate or Judge commit him to the custody of an officer of the Court for any term not exceeding seven days, unless in the meantime, such person consents to be examined and to answer, or to produce the document or thing and in the event of his persisting in his refusal, he may be dealt with according to the provisions of Section 345 or Section 346.
 
-**Corresponding Law:** S. 485 of Act V of 1898.
+**Corresponding Law:** S. 485 of Act V of 1898. 
 
-
-
-## Section 350. Summary procedure for punishment for non-attendance by a witness in obedience to summons
-
-
+## Section 350. Summary procedure for punishment for non-attendance by a witness in obedience to summons 
 
 (1) If any witness being summoned to appear before a Criminal Court is legally bound to appear at a certain place and time in obedience to the summons and without just excuse neglects or refuses to attend at that place or time or departs from the place where he has to attend before the time at which it is lawful for him to depart, and the Court before which the witness is to appear is satisfied that it is expedient in the interests of justice that such a witness should be tried summarily, the Court may take cognizance of the offence and after giving the offender an opportunity of showing cause why he should not be punished under this section, sentence him to fine not exceeding one hundred rupees.
 
 (2) In every such case the Court shall follow, as nearly as may be practicable, the procedure prescribed for summary trials.
 
-**Corresponding Law:** S. 485-A of Act V of 1898.
+**Corresponding Law:** S. 485-A of Act V of 1898. 
 
-
-
-## Section 351. Appeals from convictions under Sections 344, 345, 349 and 350
-
-
+## Section 351. Appeals from convictions under Sections 344, 345, 349 and 350 
 
 (1) Any person sentenced by any Court other than a High Court under Section 344, Section 345, Section 349, or Section 350 may, notwithstanding anything contained in this Code appeal to the Court to which decrees or orders made in such Court are ordinarily appealable.
 
@@ -8038,13 +6568,9 @@ If any witness or person called to produce a document or thing before a Criminal
 
 (4) An appeal from such conviction by any Registrar or Sub-Registrar deemed to be a civil court by virtue of a direction issued under Section 347 shall lie to the Court of Session for the sessions division within which the office of such Registrar or Sub-Registrar is situate.
 
-**Corresponding Law:** S. 486 of Act V of 1898.
+**Corresponding Law:** S. 486 of Act V of 1898. 
 
-
-
-## Section 352. Certain Judges and Magistrates not to try certain offences when committed before themselves
-
-
+## Section 352. Certain Judges and Magistrates not to try certain offences when committed before themselves 
 
 Except as provided in Sections 344, 345, 349 and 350, no Judge of a Criminal Court (other than a Judge of a High Court) or Magistrate shall try any person for any offence referred to in Section 195, when such offence is committed before himself or in contempt of his authority, or is brought under his notice as such Judge or Magistrate in the course of a judicial proceeding.
 
@@ -8052,13 +6578,9 @@ Except as provided in Sections 344, 345, 349 and 350, no Judge of a Criminal Cou
 
 Chapter XXVII
 
-THE JUDGMENT
+THE JUDGMENT 
 
-
-
-## Section 353. Judgment
-
-
+## Section 353. Judgment 
 
 (1) The judgment in every trial in any Criminal Court of original jurisdiction shall be pronounced in open Court by the presiding officer immediately after the termination of the trial or at some subsequent time of which notice shall be given to the parties or their pleaders,
 
@@ -8092,13 +6614,9 @@ STATE AMENDMENTS
 
 **Jharkhand**. in its application to the State of Jharkhand, in Section 353(5),
 
-(*i*) If accused is in custody, he shall be brought up to hear the judgement pronounced. After the words he shall be brought up the word in person or through the medium of electronic video linkage shall be *inserted*. [*Vide* Jharkhand Act 33 of 2016 (w.e.f. the date to be notified)]
+(*i*) If accused is in custody, he shall be brought up to hear the judgement pronounced. After the words he shall be brought up the word in person or through the medium of electronic video linkage shall be *inserted*. [*Vide* Jharkhand Act 33 of 2016 (w.e.f. the date to be notified)] 
 
-
-
-## Section 354. Language and contents of judgment
-
-
+## Section 354. Language and contents of judgment 
 
 (1) Except as otherwise expressly provided by this Code, every judgment referred to in Section 353,
 
@@ -8124,13 +6642,9 @@ STATE AMENDMENTS
 
 (6) Every order under Section 117 or sub-section (2) of Section 138 and every final order made under Section 125, Section 145 or Section 147 shall contain the point or points for determination, the decision thereon and the reasons for the decision.
 
-**Corresponding Law:** S. 367 of Act V of 1898.
+**Corresponding Law:** S. 367 of Act V of 1898. 
 
-
-
-## Section 355. Metropolitan Magistrate's judgment
-
-
+## Section 355. Metropolitan Magistrate's judgment 
 
 Instead of recording a judgment in the manner hereinbefore provided, a Metropolitan Magistrate shall record the following particulars, namely:
 
@@ -8152,13 +6666,9 @@ Instead of recording a judgment in the manner hereinbefore provided, a Metropoli
 
 (*i*) in all cases in which an appeal lies from the final order either under Section 373 or under sub-section (3) of Section 374, a brief statement of the reasons for the decision.
 
-**Corresponding Law:** S. 370 of Act V of 1898.
+**Corresponding Law:** S. 370 of Act V of 1898. 
 
-
-
-## Section 356. Order for notifying address of previously convicted offender
-
-
+## Section 356. Order for notifying address of previously convicted offender 
 
 (1) When any person, having been convicted by a Court in India of an offence punishable under Section 215, Section 489-A, Section 489-B, Section 489-C, or Section 489-D [185](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_185)[or Section 506 (in so far as it relates to criminal intimidation punishable with imprisonment for a term which may extend to seven years or with fine or with both)] of the Indian Penal Code (45 of 1860), or of any offence punishable under Chapter XII [186](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_186)[or Chapter XVI] or Chapter XVII of that Code, with imprisonment for a term of three years or upwards, is again convicted of any offence punishable under any of those sections or Chapters with imprisonment for a term of three years or upwards by any Court other than that of a Magistrate of the second class, such Court may, if it thinks fit, at the time of passing a sentence of imprisonment on such person, also order that his residence and any change of, or absence from, such residence after release be notified as hereinafter provided for a term not exceeding five years from the date of the expiration of such sentence.
 
@@ -8174,13 +6684,9 @@ Instead of recording a judgment in the manner hereinbefore provided, a Metropoli
 
 **Notes on Clauses to 2005 Amendment** In order to curb the goonda menace, sub-section (1) of Section 356 of the Code is being amended to bring within its ambit all offences in Chapter XVI of the Indian Penal Code (offences affecting the human body) punishable with imprisonment for three years or more as well as the aggravated form of offence under Section 506 (criminal intimidation punishable with imprisonment for a term which may extend to seven years, or with fine, or with both).
 
-**Corresponding Law:** S. 565 of Act V of 1898.
+**Corresponding Law:** S. 565 of Act V of 1898. 
 
-
-
-## Section 357. Order to pay compensation
-
-
+## Section 357. Order to pay compensation 
 
 (1) When a Court imposes a sentence of fine or a sentence (including a sentence of death) of which fine forms a part, the Court may, when passing judgment, order the whole or any part of the fine recovered to be applied
 
@@ -8294,13 +6800,9 @@ Provided that the Court may not order the accused person to pay by way of compen
 
 [188](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_188)[**357-B. Compensation to be in addition to fine under Section 326-A or Section 376-D of Indian Penal Code**. The compensation payable by the State Government under Section 357-A shall be in addition to the payment of fine to the victim [189](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_189)[under Section 326-A, Section 376-AB, Section 376-D, Section 376-DA and Section 376-DB of the Indian Penal Code (45 of 1860)].]
 
-[190](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_190)[**357-C. Treatment of victims**. All hospitals, public or private, whether run by the Central Government, the State Government, local bodies or any other person, shall immediately, provide the first-aid or medical treatment, free of cost, to the victims of any offence covered under Section 326-A, 376, [191](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_191)[376-A, 376-AB, 376-B, 376-C, 376-D, 376-DA, 376-DB] or Section 376-E of the Indian Penal Code (45 of 1860), and shall immediately inform the police of such incident.]
+[190](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_190)[**357-C. Treatment of victims**. All hospitals, public or private, whether run by the Central Government, the State Government, local bodies or any other person, shall immediately, provide the first-aid or medical treatment, free of cost, to the victims of any offence covered under Section 326-A, 376, [191](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_191)[376-A, 376-AB, 376-B, 376-C, 376-D, 376-DA, 376-DB] or Section 376-E of the Indian Penal Code (45 of 1860), and shall immediately inform the police of such incident.] 
 
-
-
-## Section 358. Compensation to persons groundlessly arrested
-
-
+## Section 358. Compensation to persons groundlessly arrested 
 
 (1) Whenever any person causes a police officer to arrest another person, if it appears to the Magistrate by whom the case is heard that there was no sufficient ground for causing such arrest, the Magistrate may award such compensation, not exceeding [192](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_192)[one thousand rupees], to be paid by the person so causing the arrest to the person so arrested, for his loss of time and expenses in the matter, as the Magistrate thinks fit.
 
@@ -8310,25 +6812,17 @@ Provided that the Court may not order the accused person to pay by way of compen
 
 **Notes on Clauses to 2005 Amendment** This clause seeks to amend Section 358 of the Code to enhance the limit to fine of one hundred rupees to one thousand rupees so as to make this provision more effective.
 
-**Corresponding Law:** S. 553 of Act V of 1898.
+**Corresponding Law:** S. 553 of Act V of 1898. 
 
-
-
-## Section 359. Order to pay costs in non-cognizable cases
-
-
+## Section 359. Order to pay costs in non-cognizable cases 
 
 (1) Whenever any complaint of a non-cognizable offence is made to a Court, the Court, if it convicts the accused, may, in addition to the penalty imposed upon him, order him to pay to the complainant, in whole or in part, the cost incurred by him in the prosecution, and may further order that in default of payment, the accused shall suffer simple imprisonment for a period not exceeding thirty days and such costs may include any expenses incurred in respect of process-fees, witnesses and pleader's fees which the Court may consider reasonable.
 
 (2) An order under this section may also be made by an Appellate Court or by the High Court or Court of Session when exercising its powers of revision.
 
-**Corresponding Law:** S. 546-A of Act V of 1898.
+**Corresponding Law:** S. 546-A of Act V of 1898. 
 
-
-
-## Section 360. Order to release on probation of good conduct or after admonition
-
-
+## Section 360. Order to release on probation of good conduct or after admonition 
 
 (1) When any person not under twenty-one years of age is convicted of an offence punishable with fine only or with imprisonment for a term of seven years or less, or when any person under twenty-one years of age or any woman is convicted of an offence not punishable with death or imprisonment for life, and no previous conviction is proved against the offender, if it appears to the Court before which he is convicted, regard being had to the age, character or antecedents of the offender, and to the circumstances in which the offence was committed, that it is expedient that the offender should be released on probation of good conduct, the Court may, instead of sentencing him at once to any punishment, direct that he be released on his entering into a bond, with or without sureties, to appear and receive sentence when called upon during such period (not exceeding three years) as the Court may direct and in the meantime to keep the peace and be of good behaviour:
 
@@ -8362,13 +6856,9 @@ Provided that the High Court or Court of Session shall not under this sub-sectio
 
 (10) Nothing in this section shall affect the provisions of the Probation of Offenders Act, 1958 (20 of 1958), or the Children Act, 1960 (60 of 1960), or any other law for the time being in force for the treatment, training or rehabilitation of youthful offenders.
 
-**Corresponding Law:** S. 564 of Act V of 1898.
+**Corresponding Law:** S. 564 of Act V of 1898. 
 
-
-
-## Section 361. Special reasons to be recorded in certain cases
-
-
+## Section 361. Special reasons to be recorded in certain cases 
 
 Where in any case the Court could have dealt with,
 
@@ -8376,23 +6866,15 @@ Where in any case the Court could have dealt with,
 
 (*b*) a youthful offender under the Children Act, 1960 (60 of 1960), or any other law for the time being in force for the treatment, training or rehabilitation of youthful offenders,
 
-but has not done so, it shall record in its judgment the special reasons for not having done so.
+but has not done so, it shall record in its judgment the special reasons for not having done so. 
 
-
-
-## Section 362. Court not to alter judgment
-
-
+## Section 362. Court not to alter judgment 
 
 Save as otherwise provided by this Code or by any other law for the time being in force, no Court, when it has signed its judgment or final order disposing of a case, shall alter or review the same except to correct a clerical or arithmetical error.
 
-**Corresponding Law:** S. 369 of Act V of 1898.
+**Corresponding Law:** S. 369 of Act V of 1898. 
 
-
-
-## Section 363. Copy of judgment to be given to the accused and other persons
-
-
+## Section 363. Copy of judgment to be given to the accused and other persons 
 
 (1) When the accused is sentenced to imprisonment, a copy of the judgment shall, immediately after the pronouncement of the judgment, be given to him free of cost.
 
@@ -8420,23 +6902,15 @@ STATE AMENDMENTS
 
 **Karnataka**. In Section 363 after the proviso to sub-section (5), the following proviso shall be *inserted*, namely:
 
-Provided further that the State shall, on an application made in this behalf by the Prosecuting Officer, be given free of cost, a certified copy of such judgment, order, deposition or record with the prescribed endorsement . [*Vide* Karnataka Act 19 of 1985, S. (w.e.f. 25-6-1985)]
+Provided further that the State shall, on an application made in this behalf by the Prosecuting Officer, be given free of cost, a certified copy of such judgment, order, deposition or record with the prescribed endorsement . [*Vide* Karnataka Act 19 of 1985, S. (w.e.f. 25-6-1985)] 
 
-
-
-## Section 364. Judgment when to be translated
-
-
+## Section 364. Judgment when to be translated 
 
 The original judgment shall be filed with the record of the proceedings and where the original is recorded in a language different from that of the Court and the accused so requires, a translation thereof into the language of the Court shall be added to such record.
 
-**Corresponding Law:** S. 372 of Act V of 1898.
+**Corresponding Law:** S. 372 of Act V of 1898. 
 
-
-
-## Section 365. Court of Session to send copy of finding and sentence to District Magistrate
-
-
+## Section 365. Court of Session to send copy of finding and sentence to District Magistrate 
 
 In cases tried by the Court of Session or a Chief Judicial Magistrate, the Court or such Magistrate, as the case may be, shall forward a copy of its or his finding and sentence (if any) to the District Magistrate within whose local jurisdiction the trial was held.
 
@@ -8444,25 +6918,17 @@ In cases tried by the Court of Session or a Chief Judicial Magistrate, the Court
 
 Chapter XXVIII
 
-SUBMISSION OF DEATH SENTENCES FOR CONFIRMATION
+SUBMISSION OF DEATH SENTENCES FOR CONFIRMATION 
 
-
-
-## Section 366. Sentence of death to be submitted by Court of Session for confirmation
-
-
+## Section 366. Sentence of death to be submitted by Court of Session for confirmation 
 
 (1) When the Court of Session passes a sentence of death, the proceedings shall be submitted to the High Court, and the sentence shall not be executed unless it is confirmed by the High Court.
 
 (2) The Court passing the sentence shall commit the convicted person to jail custody under a warrant.
 
-**Corresponding Law:** S. 374 of Act V of 1898.
+**Corresponding Law:** S. 374 of Act V of 1898. 
 
-
-
-## Section 367. Power to direct further inquiry to be made or additional evidence to be taken
-
-
+## Section 367. Power to direct further inquiry to be made or additional evidence to be taken 
 
 (1) If, when such proceedings are submitted, the High Court thinks that a further inquiry should be made into, or additional evidence taken upon, any point bearing upon the guilt or innocence of the convicted person, it may make such inquiry or take such evidence itself, or direct it to be made or taken by the Court of Session.
 
@@ -8470,13 +6936,9 @@ SUBMISSION OF DEATH SENTENCES FOR CONFIRMATION
 
 (3) When the inquiry or evidence (if any) is not made or taken by the High Court, the result of such inquiry or evidence shall be certified to such Court.
 
-**Corresponding Law:** S. 375 of Act V of 1898.
+**Corresponding Law:** S. 375 of Act V of 1898. 
 
-
-
-## Section 368. Power of High Court to confirm sentence or annul conviction
-
-
+## Section 368. Power of High Court to confirm sentence or annul conviction 
 
 In any case submitted under Section 366, the High Court
 
@@ -8488,33 +6950,21 @@ In any case submitted under Section 366, the High Court
 
 Provided that no order of confirmation shall be made under this section until the period allowed for preferring an appeal has expired, or, if an appeal is presented within such period, until such appeal is disposed of.
 
-**Corresponding Law:** S. 376 of Act V of 1898.
+**Corresponding Law:** S. 376 of Act V of 1898. 
 
-
-
-## Section 369. Confirmation or new sentence to be signed by two Judges
-
-
+## Section 369. Confirmation or new sentence to be signed by two Judges 
 
 In every case so submitted, the confirmation of the sentence, or any new sentence or order passed by the High Court, shall, when such Court consists of two or more Judges, be made, passed and signed by at least two of them.
 
-**Corresponding Law:** S. 377 of Act V of 1898.
+**Corresponding Law:** S. 377 of Act V of 1898. 
 
-
-
-## Section 370. Procedure in case of difference of opinion
-
-
+## Section 370. Procedure in case of difference of opinion 
 
 Where any such case is heard before a Bench of Judges and such Judges are equally divided in opinion, the case shall be decided in the manner provided by Section 392.
 
-**Corresponding Law:** S. 378 of Act V of 1898.
+**Corresponding Law:** S. 378 of Act V of 1898. 
 
-
-
-## Section 371. Procedure in cases submitted to High Court for confirmation
-
-
+## Section 371. Procedure in cases submitted to High Court for confirmation 
 
 In cases submitted by the Court of Session to the High Court for the confirmation of a sentence of death, the proper officer of the High Court shall, without delay, after the order of confirmation or other order has been made by the High Court, send a copy of the order, under the seal of the High Court and attested with his official signature, to the Court of Session.
 
@@ -8522,25 +6972,17 @@ In cases submitted by the Court of Session to the High Court for the confirmatio
 
 Chapter XXIX
 
-APPEALS
+APPEALS 
 
-
-
-## Section 372. No appeal to lie unless otherwise provided
-
-
+## Section 372. No appeal to lie unless otherwise provided 
 
 No appeal shall lie from any judgment or order of a Criminal Court except as provided for by this Code or by any other law for the time being in force:
 
 [194](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_194)[Provided that the victim shall have a right to prefer an appeal against any order passed by the Court acquitting the accused or convicting for a lesser offence or imposing inadequate compensation, and such appeal shall lie to the Court to which an appeal ordinarily lies against the order of conviction of such Court.]
 
-**Corresponding Law:** S. 404 of Act V of 1898.
+**Corresponding Law:** S. 404 of Act V of 1898. 
 
-
-
-## Section 373. Appeal from orders requiring security or refusal to accept or rejecting surety for keeping peace or good behaviour
-
-
+## Section 373. Appeal from orders requiring security or refusal to accept or rejecting surety for keeping peace or good behaviour 
 
 Any person,
 
@@ -8552,13 +6994,9 @@ may appeal against such order to the Court of Session:
 
 Provided that nothing in this section shall apply to persons the proceedings against whom are laid before a Sessions Judge in accordance with the provisions of sub-section (2) or sub-section (4) of Section 122.
 
-**Corresponding Law:** S. 406 and 406-A of Act V of 1898.
+**Corresponding Law:** S. 406 and 406-A of Act V of 1898. 
 
-
-
-## Section 374. Appeals from convictions
-
-
+## Section 374. Appeals from convictions 
 
 (1) Any person convicted on a trial held by a High Court in its extraordinary original criminal jurisdiction may appeal to the Supreme Court.
 
@@ -8586,13 +7024,9 @@ STATE AMENDMENTS
 
 **Manipur**. In its application to the State of Manipur in S. 374, in clause (*a*) of sub-section (3), for the words Magistrate of the first class or of the second class , the words Magistrate of the first class, Specified Executive Magistrate or Magistrate of the second class shall be *substituted*. Mani. Act 3 of 1985, S. 4(2), Sch. (23-3-1985 up to a period of three years).
 
-**Punjab**. In its application to the whole of State of Punjab, in relation to the specified offences, sub-section (3) of Section 374 of the Code shall be so read as if for the words Magistrate of the first class , the words Executive Magistrate were *substituted*. [*vide* Punjab Act 22 of 1983, S. 9 (w.e.f. 27-6-1983, for a limited period). Repealed by Punjab Act 9 of 1986 (4-4-1986)]
+**Punjab**. In its application to the whole of State of Punjab, in relation to the specified offences, sub-section (3) of Section 374 of the Code shall be so read as if for the words Magistrate of the first class , the words Executive Magistrate were *substituted*. [*vide* Punjab Act 22 of 1983, S. 9 (w.e.f. 27-6-1983, for a limited period). Repealed by Punjab Act 9 of 1986 (4-4-1986)] 
 
-
-
-## Section 375. No appeal in certain cases when accused pleads guilty
-
-
+## Section 375. No appeal in certain cases when accused pleads guilty 
 
 Notwithstanding anything contained in Section 374, where an accused person has pleaded guilty and has been convicted on such plea, there shall be no appeal,
 
@@ -8600,13 +7034,9 @@ Notwithstanding anything contained in Section 374, where an accused person has p
 
 (*b*) if the conviction is by a Court of Session, Metropolitan Magistrate or Magistrate of the first or second class, except as to the extent or legality of the sentence.
 
-**Corresponding Law:** S. 412 of Act V of 1898.
+**Corresponding Law:** S. 412 of Act V of 1898. 
 
-
-
-## Section 376. No appeal in petty cases
-
-
+## Section 376. No appeal in petty cases 
 
 Notwithstanding anything contained in Section 374, there shall be no appeal by a convicted person in any of the following cases, namely:
 
@@ -8628,13 +7058,9 @@ Provided that an appeal may be brought against any such sentence if any other pu
 
 (*ii*) that a direction for imprisonment in default of payment of fine is included in the sentence; or
 
-(*iii*) that more than one sentence of fine is passed in the case, if the total amount of fine imposed does not exceed the amount hereinbefore specified in respect of the case.
+(*iii*) that more than one sentence of fine is passed in the case, if the total amount of fine imposed does not exceed the amount hereinbefore specified in respect of the case. 
 
-
-
-## Section 377. Appeal by the State Government against sentence
-
-
+## Section 377. Appeal by the State Government against sentence 
 
 (1) Save as otherwise provided in sub-section (2), the State Government may, in any case of conviction on a trial held by any Court other than a High Court, direct the Public Prosecutor to present [197](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_197)[an appeal against the sentence on the ground of its inadequacy
 
@@ -8652,13 +7078,9 @@ Provided that an appeal may be brought against any such sentence if any other pu
 
 [201](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_201)[(4) When an appeal has been filed against a sentence passed under Section 376, Section 376-A, Section 376-AB, Section 376-B, Section 376-C, Section 376-D, Section 376-DA, Section 376-DB or Section 376-E of the Indian Penal Code (45 of 1860), the appeal shall be disposed of within a period of six months from the date of filing of such appeal.]
 
-**Notes on Clauses to 2005 Amendment** Section 377 is being amended so as to permit the filing of an appeal in the Court of Session instead of the High Court on the ground of inadequacy of sentence passed by a Magistrate. This amendment is intended not only to make it easier for the administration to prefer appeals against unduly lenient sentences by Magistrates but will also deter the latter from passing sentence that are grossly inadequate.
+**Notes on Clauses to 2005 Amendment** Section 377 is being amended so as to permit the filing of an appeal in the Court of Session instead of the High Court on the ground of inadequacy of sentence passed by a Magistrate. This amendment is intended not only to make it easier for the administration to prefer appeals against unduly lenient sentences by Magistrates but will also deter the latter from passing sentence that are grossly inadequate. 
 
-
-
-## Section 378. Appeal in case of acquittal
-
-
+## Section 378. Appeal in case of acquittal 
 
 [202](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_202)[(1) Save as otherwise provided in sub-section (2), and subject to the provisions of sub-sections (3) and (5),
 
@@ -8682,31 +7104,19 @@ Provided that an appeal may be brought against any such sentence if any other pu
 
 **Notes on Clauses to 2005 Amendment** In order to guard against the arbitrary exercise of power and to reduce reckless acquittals, Section 378 is being amended to provide that an appeal against an order of acquittal passed by a Magistrate in respect of a cognizable and non-bailable offence filed on a police report would lie to the Court of Sessions, and the District Magistrate will be authorised to direct the Public Prosecutor to file such appeals. In respect of all other cases filed on a police report, on appeal against an order of acquittal passed by any court other than the High Court should lie only to the High Court and the authority to direct the Public Prosecutor to present an appeal shall continue to be with the State Government.
 
-**Corresponding Law:** S. 417 of Act V of 1898.
+**Corresponding Law:** S. 417 of Act V of 1898. 
 
+## Section 379. Appeal against conviction by High Court in certain cases 
 
+Where the High Court has, on appeal, reversed an order of acquittal of an accused person and convicted him and sentenced him to death or to imprisonment for life or to imprisonment for a term of ten years or more, he may appeal to the Supreme Court. 
 
-## Section 379. Appeal against conviction by High Court in certain cases
-
-
-
-Where the High Court has, on appeal, reversed an order of acquittal of an accused person and convicted him and sentenced him to death or to imprisonment for life or to imprisonment for a term of ten years or more, he may appeal to the Supreme Court.
-
-
-
-## Section 380. Special right of appeal in certain cases
-
-
+## Section 380. Special right of appeal in certain cases 
 
 Notwithstanding anything contained in this Chapter, when more persons than one are convicted in one trial, and an appealable judgment or order has been passed in respect of any of such persons, all or any of the persons convicted at such trial shall have a right of appeal.
 
-**Corresponding Law:** S. 415-A of Act V of 1898.
+**Corresponding Law:** S. 415-A of Act V of 1898. 
 
-
-
-## Section 381. Appeal to Court of Session how heard
-
-
+## Section 381. Appeal to Court of Session how heard 
 
 (1) Subject to the provisions of sub-section (2), an appeal to the Court of Session or Sessions Judge shall be heard by the Sessions Judge or by an Additional Sessions Judge:
 
@@ -8714,13 +7124,9 @@ Provided that an appeal against a conviction on a trial held by a Magistrate of 
 
 (2) An Additional Sessions Judge, Assistant Sessions Judge or a Chief Judicial Magistrate shall hear only such appeals as the Sessions Judge of the division may, by general or special order, make over to him or as the High Court may, by special order, direct him to hear.
 
-**Corresponding Law:** S. 409 of Act V of 1898.
+**Corresponding Law:** S. 409 of Act V of 1898. 
 
-
-
-## Section 382. Petition of appeal
-
-
+## Section 382. Petition of appeal 
 
 Every appeal shall be made in the form of a petition in writing presented by the appellant or his pleader, and every such petition shall (unless the Court to which it is presented otherwise directs) be accompanied by a copy of the judgment or order appealed against.
 
@@ -8738,13 +7144,9 @@ Provided further that the order so made by the Administrator or the Executive Ma
 
 (2) In Section 382, after sub-section (1) as so re-numbered, the following sub-section shall be *inserted*, namely:
 
-(2) For purposes of computation of the period of limitation, and for all other purposes, an appeal presented to an Administrator or an Executive Magistrate under sub-section (1) or, as the case may be, under Section 383, shall be deemed to be an appeal presented to the proper Appellate Court. Reg. 1 of 1974 (30.3.1974).
+(2) For purposes of computation of the period of limitation, and for all other purposes, an appeal presented to an Administrator or an Executive Magistrate under sub-section (1) or, as the case may be, under Section 383, shall be deemed to be an appeal presented to the proper Appellate Court. Reg. 1 of 1974 (30.3.1974). 
 
-
-
-## Section 383. Procedure when appellant in jail
-
-
+## Section 383. Procedure when appellant in jail 
 
 If the appellant is in jail, he may present his petition of appeal and the copies accompanying the same to the officer in charge of the jail, who shall thereupon forward such petition and copies to the proper Appellate Court.
 
@@ -8754,13 +7156,9 @@ STATE AMENDMENTS
 
 **Andaman & Nicobar Islands and Lakshadweep**. In Section 383, the following words shall be *inserted* at the end, namely:
 
-or if, by reason of the weather, transport or other difficulties, it is not possible to forward them to the proper Appellate Court, they shall be forwarded to the Administrator or an Executive Magistrate, not below the rank of a Sub-Divisional Magistrate, who shall, on receipt of such petition of appeal and copies, record thereon the date of receipt thereof and thereafter forward the same to the proper Appellate Court. Reg. 1 of 1974 (30-3-1974).
+or if, by reason of the weather, transport or other difficulties, it is not possible to forward them to the proper Appellate Court, they shall be forwarded to the Administrator or an Executive Magistrate, not below the rank of a Sub-Divisional Magistrate, who shall, on receipt of such petition of appeal and copies, record thereon the date of receipt thereof and thereafter forward the same to the proper Appellate Court. Reg. 1 of 1974 (30-3-1974). 
 
-
-
-## Section 384. Summary dismissal of appeal
-
-
+## Section 384. Summary dismissal of appeal 
 
 (1) If upon examining the petition of appeal and copy of the judgment received under Section 382 or Section 383, the Appellate Court considers that there is no sufficient ground for interfering, it may dismiss the appeal summarily:
 
@@ -8778,13 +7176,9 @@ Provided that
 
 (4) Where an appeal presented under Section 383 has been dismissed summarily under this section and the Appellate Court finds that another petition of appeal duly presented under Section 382 on behalf of the same appellant has not been considered by it, that Court may, notwithstanding anything contained in Section 393, it satisfied that it is necessary in the interests of justice so to do, hear and dispose of such appeal in accordance with law.
 
-**Corresponding Law:** S. 421 of Act V of 1898.
+**Corresponding Law:** S. 421 of Act V of 1898. 
 
-
-
-## Section 385. Procedure for hearing appeals not dismissed summarily
-
-
+## Section 385. Procedure for hearing appeals not dismissed summarily 
 
 (1) If the Appellate Court does not dismiss the appeal summarily, it shall cause notice of the time and place at which such appeal will be heard to be given
 
@@ -8806,13 +7200,9 @@ Provided that if the appeal is only as to the extent or the legality of the sent
 
 **Corresponding Law:** S. 423(1) of Act V of 1898.
 
-(3) Where the only ground for appeal from a conviction is the alleged severity of the sentence, the appellant shall not, except with the leave of the Court, urge or be heard in support of any other ground.
+(3) Where the only ground for appeal from a conviction is the alleged severity of the sentence, the appellant shall not, except with the leave of the Court, urge or be heard in support of any other ground. 
 
-
-
-## Section 386. Powers of the Appellate Court
-
-
+## Section 386. Powers of the Appellate Court 
 
 After perusing such record and hearing the appellant or his pleader, if he appears, and the Public Prosecutor if he appears, and in case of an appeal under Section 377 or Section 378, the accused, if he appears, the Appellate Court may, if it considers that there is no sufficient ground for interfering, dismiss the appeal, or may
 
@@ -8846,37 +7236,25 @@ Provided that the sentence shall not be enhanced unless the accused has had an o
 
 Provided further that the Appellate Court shall not inflict greater punishment for the offence which in its opinion the accused has committed, than might have been inflicted for that offence by the Court passing the order or sentence under appeal.
 
-**Corresponding Law:** S. 423(1) of Act V of 1898.
+**Corresponding Law:** S. 423(1) of Act V of 1898. 
 
-
-
-## Section 387. Judgments of subordinate Appellate Court
-
-
+## Section 387. Judgments of subordinate Appellate Court 
 
 The rules contained in Chapter XXVII as to the judgment of a Criminal Court of original jurisdiction shall apply, so far as may be practicable, to the judgment in appeal of a Court of Session or Chief Judicial Magistrate:
 
 Provided that, unless the Appellate Court otherwise directs, the accused shall not be brought up, or required to attend, to hear judgment delivered.
 
-**Corresponding Law:** S. 424 of Act V of 1898.
+**Corresponding Law:** S. 424 of Act V of 1898. 
 
-
-
-## Section 388. Order of High Court on appeal to be certified to lower Court
-
-
+## Section 388. Order of High Court on appeal to be certified to lower Court 
 
 (1) Whenever a case is decided on appeal by the High Court under this Chapter, it shall certify its judgment or order to the Court by which the finding, sentence or order appealed against was recorded or passed and if such Court is that of a Judicial Magistrate other than the Chief Judicial Magistrate, the High Court's judgment or order shall be sent through the Chief Judicial Magistrate; and if such Court is that of an Executive Magistrate, the High Court's judgment or order shall be sent through the District Magistrate.
 
 (2) The Court to which the High Court certifies its judgment or order shall thereupon make such orders as are conformable to the judgment or order of the High Court; and, if necessary, the record shall be amended in accordance therewith.
 
-**Corresponding Law:** S. 425 of Act V of 1898.
+**Corresponding Law:** S. 425 of Act V of 1898. 
 
-
-
-## Section 389. Suspension of sentence pending the appeal; release of appellant on bail
-
-
+## Section 389. Suspension of sentence pending the appeal; release of appellant on bail 
 
 (1) Pending any appeal by a convicted person, the Appellate Court may, for reasons to be recorded by it in writing, order that the execution of the sentence or order appealed against be suspended and, also, if he is in confinement, that he be released on bail, or on his own bond:
 
@@ -8898,23 +7276,15 @@ order that the convicted person be released on bail, unless there are special re
 
 **Notes on Clauses to 2005 Amendment** This clause adds two provisos to sub-section (1) of Section 389 of the Code to the effect that (*i*) the Appellate Court will give notice to the prosecution before releasing a convicted person on bail, if he was convicted of an offence punishable with death, imprisonment for life or imprisonment for a term of not less than ten years; and (*ii*) the prosecution should be permitted to move an application for cancellation of bail granted by the Appellate Court.
 
-**Corresponding Law:** S. 426 of Act V of 1898.
+**Corresponding Law:** S. 426 of Act V of 1898. 
 
-
-
-## Section 390. Arrest of accused in appeal from acquittal
-
-
+## Section 390. Arrest of accused in appeal from acquittal 
 
 When an appeal is presented under Section 378, the High Court may issue a warrant directing that the accused be arrested and brought before it or any subordinate Court, and the Court before which he is brought may commit him to prison pending the disposal of the appeal or admit him to bail.
 
-**Corresponding Law:** S. 427 of Act V of 1898.
+**Corresponding Law:** S. 427 of Act V of 1898. 
 
-
-
-## Section 391. Appellate Court may take further evidence or direct it to be taken
-
-
+## Section 391. Appellate Court may take further evidence or direct it to be taken 
 
 (1) In dealing with any appeal under this Chapter, the Appellate Court, if it thinks additional evidence to be necessary, shall record its reasons and may either take such evidence itself, or direct it to be taken by a Magistrate, or when the Appellate Court is a High Court, by a Court of Session or a Magistrate.
 
@@ -8924,25 +7294,17 @@ When an appeal is presented under Section 378, the High Court may issue a warran
 
 (4) The taking of evidence under this section shall be subject to the provisions of Chapter XXIII, as if it were an inquiry.
 
-**Corresponding Law:** S. 428 of Act V of 1898.
+**Corresponding Law:** S. 428 of Act V of 1898. 
 
-
-
-## Section 392. Procedure where Judges of Court of Appeal are equally divided
-
-
+## Section 392. Procedure where Judges of Court of Appeal are equally divided 
 
 When an appeal under this Chapter is heard by a High Court before a Bench of Judges and they are divided in opinion, the appeal, with their opinions, shall be laid before another Judge of that Court, and that Judge, after such hearing as he thinks fit, shall deliver his opinion, and the judgment or order shall follow that opinion:
 
 Provided that if one of the Judges constituting the Bench, or where the appeal is laid before another Judge under this section, that Judge, so requires, the appeal shall be re-heard and decided by a larger Bench of Judges.
 
-**Corresponding Law:** S. 429 of Act V of 1898.
+**Corresponding Law:** S. 429 of Act V of 1898. 
 
-
-
-## Section 393. Finality of judgments and orders on appeal
-
-
+## Section 393. Finality of judgments and orders on appeal 
 
 Judgments and orders passed by an Appellate Court upon an appeal shall be final, except in the cases provided for in Section 377, Section 378, sub-section (4) of Section 384 or Chapter XXX:
 
@@ -8952,13 +7314,9 @@ Provided that notwithstanding the final disposal of an appeal against conviction
 
 (*b*) an appeal for the enhancement of sentence under Section 377, arising out of the same case.
 
-**Corresponding Law:** S. 430 of Act V of 1898.
+**Corresponding Law:** S. 430 of Act V of 1898. 
 
-
-
-## Section 394. Abatement of appeals
-
-
+## Section 394. Abatement of appeals 
 
 (1) Every appeal under Section 377 or Section 378 shall finally abate on the death of the accused.
 
@@ -8972,13 +7330,9 @@ Provided that where the appeal is against a conviction and sentence of death or 
 
 Chapter XXX
 
-REFERENCE AND REVISION
+REFERENCE AND REVISION 
 
-
-
-## Section 395. Reference to High Court
-
-
+## Section 395. Reference to High Court 
 
 (1) Where any Court is satisfied that a case pending before it involves a question as to the validity of any Act, Ordinance or Regulation or of any provision contained in an Act, Ordinance or Regulation, the determination of which is necessary for the disposal of the case, and is of opinion that such Act, Ordinance, Regulation or provision is invalid or inoperative, but has not been so declared by the High Court to which that Court is subordinate or by the Supreme Court, the Court shall state a case setting out its opinion and the reasons therefor, and refer the same for the decision of the High Court.
 
@@ -8988,25 +7342,17 @@ REFERENCE AND REVISION
 
 (3) Any Court making a reference to the High Court under sub-section (1) or sub-section (2) may, pending the decision of the High Court thereon, either commit the accused to jail or release him on bail to appear when called upon.
 
-**Corresponding Law:** S. 432 of Act V of 1898.
+**Corresponding Law:** S. 432 of Act V of 1898. 
 
-
-
-## Section 396. Disposal of case according to decision of High Court
-
-
+## Section 396. Disposal of case according to decision of High Court 
 
 (1) When a question has been so referred, the High Court shall pass such order thereon as it thinks fit, and shall cause a copy of such order to be sent to the Court by which the reference was made, which shall dispose of the case conformably to the said order.
 
 (2) The High Court may direct by whom the costs of such reference shall be paid.
 
-**Corresponding Law:** S. 433 of Act V of 1898.
+**Corresponding Law:** S. 433 of Act V of 1898. 
 
-
-
-## Section 397. Calling for records to exercise of powers of revision
-
-
+## Section 397. Calling for records to exercise of powers of revision 
 
 (1) The High Court or any Sessions Judge may call for and examine the record of any proceeding before any inferior Criminal Court situate within its or his local jurisdiction for the purpose of satisfying itself or himself as to the correctness, legality or propriety of any finding, sentence or order, recorded or passed, and as to the regularity of any proceedings of such inferior Court, and may, when calling for such record, direct that the execution of any sentence or order be suspended, and if the accused is in confinement, that he be released on bail or on his own bond pending the examination of the record.
 
@@ -9016,25 +7362,17 @@ REFERENCE AND REVISION
 
 (3) If an application under this section has been made by any person either to the High Court or to the Sessions Judge, no further application by the same person shall be entertained by the other of them.
 
-**Corresponding Law:** S. 435 of Act V of 1898.
+**Corresponding Law:** S. 435 of Act V of 1898. 
 
-
-
-## Section 398. Power to order inquiry
-
-
+## Section 398. Power to order inquiry 
 
 On examining any record under Section 397 or otherwise, the High Court or the Sessions Judge may direct the Chief Judicial Magistrate by himself or by any of the Magistrates subordinate to him to make, and the Chief Judicial Magistrate may himself make or direct any subordinate Magistrate to make, further inquiry into any complaint which has been dismissed under Section 203 or sub-section (4) of Section 204, or into the case of any person accused of an offence who has been discharged:
 
 Provided that no Court shall make any direction under this section for inquiry into the case of any person who has been discharged unless such person has had an opportunity of showing cause why such direction should not be made.
 
-**Corresponding Law:** S. 436 of Act V of 1898.
+**Corresponding Law:** S. 436 of Act V of 1898. 
 
-
-
-## Section 399. Sessions Judge's powers of revision
-
-
+## Section 399. Sessions Judge's powers of revision 
 
 (1) In the case of any proceeding the record of which has been called for by himself, the Sessions Judge may exercise all or any of the powers which may be exercised by the High Court under sub-section (1) of Section 401.
 
@@ -9042,23 +7380,15 @@ Provided that no Court shall make any direction under this section for inquiry i
 
 (3) Where any application for revision is made by or on behalf of any person before the Sessions Judge, the decision of the Sessions Judge thereon in relation to such person shall be final and no further proceeding by way of revision at the instance of such person shall be entertained by the High Court or any other Court.
 
-**Corresponding Law:** Ss. 437 and 438(1) Act V of 1898.
+**Corresponding Law:** Ss. 437 and 438(1) Act V of 1898. 
 
-
-
-## Section 400. Power of Additional Sessions Judge
-
-
+## Section 400. Power of Additional Sessions Judge 
 
 An Additional Sessions Judge shall have and may exercise all the powers of a Sessions Judge under this Chapter in respect of any case which may be transferred to him by or under any general or special order of the Sessions Judge.
 
-**Corresponding Law:** S. 438(2) of Act V of 1898.
+**Corresponding Law:** S. 438(2) of Act V of 1898. 
 
-
-
-## Section 401. High Court's powers of revision
-
-
+## Section 401. High Court's powers of revision 
 
 (1) In the case of any proceeding the record of which has been called for by itself or which otherwise comes to its knowledge, the High Court may, in its discretion, exercise any of the powers conferred on a court of appeal by Sections 386, 389, 390 and 391 or on a Court of Session by Section 307 and, when the Judges composing the Court of revision are equally divided in opinion, the case shall be disposed of in the manner provided by Section 392.
 
@@ -9070,13 +7400,9 @@ An Additional Sessions Judge shall have and may exercise all the powers of a Ses
 
 (5) Where under this Code an appeal lies but an application for revision has been made to the High Court by any person and the High Court is satisfied that such application was made under the erroneous belief that no appeal lies thereto and that it is necessary in the interests of justice so to do, the High Court may treat the application for revision as a petition of appeal and deal with the same accordingly.
 
-**Corresponding Law:** S. 439 of Act V of 1898.
+**Corresponding Law:** S. 439 of Act V of 1898. 
 
-
-
-## Section 402. Power of High Court to withdraw or transfer revision cases
-
-
+## Section 402. Power of High Court to withdraw or transfer revision cases 
 
 (1) Whenever one or more persons convicted at the same trial makes or make application to a High Court for revision and any other person convicted at the same trial makes an application to the Sessions Judge for revision, the High Court shall decide, having regard to the general convenience of the parties and the importance of the questions involved, which of the two Courts should finally dispose of the applications for revision and when the High Court decides that all the applications for revision should be disposed of by itself, the High Court shall direct that the applications for revision pending before the Sessions Judge be transferred to itself and where the High Court decides that it is not necessary for it to dispose of the applications for revision, it shall direct that the applications for revision made to it be transferred to the Sessions Judge.
 
@@ -9084,33 +7410,21 @@ An Additional Sessions Judge shall have and may exercise all the powers of a Ses
 
 (3) Whenever any application for revision is transferred to the Sessions Judge, that Judge shall deal with the same as if it were an application duly made before himself.
 
-(4) Where an application for revision is transferred by the High Court to the Sessions Judge, no further application for revision shall lie to the High Court or to any other Court at the instance of the person or persons whose applications for revision have been disposed of by the Sessions Judge.
+(4) Where an application for revision is transferred by the High Court to the Sessions Judge, no further application for revision shall lie to the High Court or to any other Court at the instance of the person or persons whose applications for revision have been disposed of by the Sessions Judge. 
 
-
-
-## Section 403. Option of Court to hear parties
-
-
+## Section 403. Option of Court to hear parties 
 
 Save as otherwise expressly provided by this Code, no party has any right to be heard either personally or by the pleader before any Court exercising its powers of revision; but the Court may, if it thinks fit, when exercising such powers, hear any party either personally or by pleader.
 
-**Corresponding Law:** S. 440 of Act V of 1898.
+**Corresponding Law:** S. 440 of Act V of 1898. 
 
-
-
-## Section 404. Statement by Metropolitan Magistrate of grounds of his decision to be considered by High Court
-
-
+## Section 404. Statement by Metropolitan Magistrate of grounds of his decision to be considered by High Court 
 
 When the record of any trial held by a Metropolitan Magistrate is called for by the High Court or Court of Session under Section 397, the Magistrate may submit with the record a statement setting forth the grounds of his decision or order and any facts which he thinks material to the issue; and the Court shall consider such statement before overruling or setting aside the said decision or order.
 
-**Corresponding Law:** S. 441 of Act V of 1898.
+**Corresponding Law:** S. 441 of Act V of 1898. 
 
-
-
-## Section 405. High Court's order to be certified to lower Court
-
-
+## Section 405. High Court's order to be certified to lower Court 
 
 When a case is revised under this Chapter by the High Court or a Sessions Judge, it or he shall, in the manner provided by Section 388, certify its decision or order to the Court by which the finding, sentence or order revised was recorded or passed, and the Court to which the decision or order is so certified shall thereupon make such orders as are conformable to the decision so certified; and, if necessary, the record shall be amended in accordance therewith.
 
@@ -9118,9 +7432,7 @@ When a case is revised under this Chapter by the High Court or a Sessions Judge,
 
 Chapter XXXI
 
-TRANSFER OF CRIMINAL CASES
-
-
+TRANSFER OF CRIMINAL CASES 
 
 ## Section 406. Power of Supreme Court to transfer cases and appeals
 
@@ -9136,9 +7448,7 @@ Supreme Court Of India
 
 Supreme Court Of India
 
-28 Mar 2018
-
-
+28 Mar 2018 
 
 (1) Whenever it is made to appear to the Supreme Court that an order under this section is expedient for the ends of justice, it may direct that any particular case or appeal be transferred from one High Court to another High Court or from a Criminal Court subordinate to one High Court to another Criminal Court of equal or superior jurisdiction subordinate to another High Court.
 
@@ -9146,13 +7456,9 @@ Supreme Court Of India
 
 (3) Where any application for the exercise of the powers conferred by this section is dismissed, the Supreme Court may, if it is of opinion that the application was frivolous or vexatious, order the applicant to pay by way of compensation to any person who has opposed the application such sum not exceeding one thousand rupees as it may consider appropriate in the circumstances of the case.
 
-**Corresponding Law:** S. 527 of Act V of 1898.
+**Corresponding Law:** S. 527 of Act V of 1898. 
 
-
-
-## Section 407. Power of High Court to transfer cases and appeals
-
-
+## Section 407. Power of High Court to transfer cases and appeals 
 
 (1) Whenever it is made to appear to the High Court
 
@@ -9192,13 +7498,9 @@ Provided that such stay shall not affect the subordinate Court's power of remand
 
 (9) Nothing in this section shall be deemed to affect any order of Government under Section 197.
 
-**Corresponding Law:** S. 526 of Act V of 1898.
+**Corresponding Law:** S. 526 of Act V of 1898. 
 
-
-
-## Section 408. Power of Sessions Judge to transfer cases and appeals
-
-
+## Section 408. Power of Sessions Judge to transfer cases and appeals 
 
 (1) Whenever it is made to appear to a Sessions Judge that an order under this sub-section is expedient for the ends of justice, he may order that any particular case be transferred from one Criminal Court to another Criminal Court in his sessions division.
 
@@ -9206,13 +7508,9 @@ Provided that such stay shall not affect the subordinate Court's power of remand
 
 (3) The provisions of sub-sections (3), (4), (5), (6), (7) and (9) of Section 407 shall apply in relation to an application to the Sessions Judge for an order under sub-section (1) as they apply in relation to an application to the High Court for an order under sub-section (1) of Section 407, except that sub-section (7) of that section shall so apply as if for the words one thousand rupees occurring therein, the words two hundred and fifty rupees were substituted.
 
-**Corresponding Law:** S. 528 of Act V of 1898.
+**Corresponding Law:** S. 528 of Act V of 1898. 
 
-
-
-## Section 409. Withdrawal of cases and appeals by Sessions Judges
-
-
+## Section 409. Withdrawal of cases and appeals by Sessions Judges 
 
 (1) A Sessions Judge may withdraw any case or appeal from, or recall any case or appeal which he has made over to, any Assistant Sessions Judge or Chief Judicial Magistrate subordinate to him.
 
@@ -9220,25 +7518,17 @@ Provided that such stay shall not affect the subordinate Court's power of remand
 
 (3) Where a Sessions Judge withdraws or recalls a case or appeal under sub-section (1) or sub-section (2), he may either try the case in his own Court or hear the appeal himself, or make it over in accordance with the provisions of this Code to another Court for trial or hearing, as the case may be.
 
-**Corresponding Law:** S. 528 of Act V of 1898.
+**Corresponding Law:** S. 528 of Act V of 1898. 
 
-
-
-## Section 410. Withdrawal of cases by Judicial Magistrates
-
-
+## Section 410. Withdrawal of cases by Judicial Magistrates 
 
 (1) Any Chief Judicial Magistrate may withdraw any case from, or recall any case which he has made over to, any Magistrate subordinate to him, and may inquire into or try such case himself, or refer it for inquiry or trial to any other such Magistrate competent to inquire into or try the same.
 
 (2) Any Judicial Magistrate may recall any case made over by him under sub-section (2) of Section 192 to any other Magistrate and may inquire into or try such case himself.
 
-**Corresponding Law:** S. 528 of Act V of 1898.
+**Corresponding Law:** S. 528 of Act V of 1898. 
 
-
-
-## Section 411. Making over or withdrawal of cases by Executive Magistrates
-
-
+## Section 411. Making over or withdrawal of cases by Executive Magistrates 
 
 Any District Magistrate or Sub-Divisional Magistrate may
 
@@ -9246,13 +7536,9 @@ Any District Magistrate or Sub-Divisional Magistrate may
 
 (*b*) withdraw any case from, or recall any case which he has made over to, any Magistrate subordinate to him, and dispose of such proceeding himself or refer it for disposal to any other Magistrate.
 
-**Corresponding Law:** S. 528 of Act V of 1898.
+**Corresponding Law:** S. 528 of Act V of 1898. 
 
-
-
-## Section 412. Reasons to be recorded
-
-
+## Section 412. Reasons to be recorded 
 
 A Sessions Judge or Magistrate making an order under Section 408, Section 409, Section 410 or Section 411 shall record his reasons for making it.
 
@@ -9260,55 +7546,35 @@ A Sessions Judge or Magistrate making an order under Section 408, Section 409, S
 
 ## Chapter XXXII EXECUTION, SUSPENSION, REMISSION AND COMMUTATION OF SENTENCES
 
-## A. *Death sentences*
+## A. *Death sentences* 
 
-
-
-## Section 413. Execution of order passed under Section 368
-
-
+## Section 413. Execution of order passed under Section 368 
 
 When in a case submitted to the High Court for the confirmation of a sentence of death, the Court of Session receives the order of confirmation or other order of the High Court thereon, it shall cause such order to be carried into effect by issuing a warrant or taking such other steps as may be necessary.
 
-**Corresponding Law:** S. 381 of Act V of 1898.
+**Corresponding Law:** S. 381 of Act V of 1898. 
 
+## Section 414. Execution of sentence of death passed by High Court 
 
+When a sentence of death is passed by the High Court in appeal or in revision, the Court of Session shall, on receiving the order of the High Court, cause the sentence to be carried into effect by issuing a warrant. 
 
-## Section 414. Execution of sentence of death passed by High Court
-
-
-
-When a sentence of death is passed by the High Court in appeal or in revision, the Court of Session shall, on receiving the order of the High Court, cause the sentence to be carried into effect by issuing a warrant.
-
-
-
-## Section 415. Postponement of execution of sentence of death in case of appeal to Supreme Court
-
-
+## Section 415. Postponement of execution of sentence of death in case of appeal to Supreme Court 
 
 (1) Where a person is sentenced to death by the High Court and an appeal from its judgment lies to the Supreme Court under sub-clause (*a*) or sub-clause (*b*) of clause (1) of Article 134 of the Constitution, the High Court shall order the execution of the sentence to be postponed until the period allowed for preferring such appeal has expired, or, if an appeal is preferred within that period, until such appeal is disposed of.
 
 (2) Where a sentence of death is passed or confirmed by the High Court, and the person sentenced makes an application to the High Court for the grant of a certificate under Article 132 or under sub-clause (*c*) of clause (1) of Article 134 of the Constitution, the High Court shall order the execution of the sentence to be postponed until such application is disposed of by the High Court, or if a certificate is granted on such application, until the period allowed for preferring an appeal to the Supreme Court on such certificate has expired.
 
-(3) Where a sentence of death is passed or confirmed by the High Court, and the High Court is satisfied that the person sentenced intends to present a petition to the Supreme Court for the grant of special leave to appeal under Article 136 of the Constitution, the High Court shall order the execution of the sentence to be postponed for such period as it considers sufficient to enable him to present such petition.
+(3) Where a sentence of death is passed or confirmed by the High Court, and the High Court is satisfied that the person sentenced intends to present a petition to the Supreme Court for the grant of special leave to appeal under Article 136 of the Constitution, the High Court shall order the execution of the sentence to be postponed for such period as it considers sufficient to enable him to present such petition. 
 
-
-
-## Section 416. Postponement of capital sentence on pregnant woman
-
-
+## Section 416. Postponement of capital sentence on pregnant woman 
 
 If a woman sentenced to death is found to be pregnant, the High Court shall [206](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_206)[* * *] commute the sentence to imprisonment for life.
 
 **Corresponding Law:** S. 382 of Act V of 1898.
 
-## B. *Imprisonment*
+## B. *Imprisonment* 
 
-
-
-## Section 417. Power to appoint place of imprisonment
-
-
+## Section 417. Power to appoint place of imprisonment 
 
 (1) Except when otherwise provided by any law for the time being in force, the State Government may direct in what place any person liable to be imprisoned or committed to custody under this Code shall be confined.
 
@@ -9320,13 +7586,9 @@ If a woman sentenced to death is found to be pregnant, the High Court shall [206
 
 (*b*) the Court which ordered his imprisonment in the civil jail has certified to the officer in charge of the criminal jail that he is entitled to be released under Section 58 of the Code of Civil Procedure, 1908 (5 of 1908), or under Section 23 of the Provincial Insolvency Act, 1920 (5 of 1920), as the case may be.
 
-**Corresponding Law:** S. 541 of Act V of 1898.
+**Corresponding Law:** S. 541 of Act V of 1898. 
 
-
-
-## Section 418. Execution of sentence of imprisonment
-
-
+## Section 418. Execution of sentence of imprisonment 
 
 (1) Where the accused is sentenced to imprisonment for life or to imprisonment for a term in cases other than those provided for by Section 413, the Court passing the sentence shall forthwith forward a warrant to the jail or other place in which he is, or is to be, confined, and, unless the accused is already confined in such jail or other place, shall forward him to such jail or other place, with the warrant:
 
@@ -9334,35 +7596,23 @@ Provided that where the accused is sentenced to imprisonment till the rising of 
 
 **Corresponding Law:** S. 383 of Act V of 1898.
 
-(2) Where the accused is not present in Court when he is sentenced to such imprisonment as is mentioned in sub-section (1), the Court shall issue a warrant for his arrest for the purpose of forwarding him to the jail or other place in which he is to be confined; and in such case, the sentence shall commence on the date of his arrest.
+(2) Where the accused is not present in Court when he is sentenced to such imprisonment as is mentioned in sub-section (1), the Court shall issue a warrant for his arrest for the purpose of forwarding him to the jail or other place in which he is to be confined; and in such case, the sentence shall commence on the date of his arrest. 
 
-
-
-## Section 419. Direction of warrant for execution
-
-
+## Section 419. Direction of warrant for execution 
 
 Every warrant for the execution of a sentence of imprisonment shall be directed to the officer in charge of the jail or other place in which the prisoner is, or is to be, confined.
 
-**Corresponding Law:** S. 384 of Act V of 1898.
+**Corresponding Law:** S. 384 of Act V of 1898. 
 
-
-
-## Section 420. Warrant with whom to be lodged
-
-
+## Section 420. Warrant with whom to be lodged 
 
 When the prisoner is to be confined in a jail, the warrant shall be lodged with the jailor.
 
 **Corresponding Law:** S. 385 of Act V of 1898.
 
-## C. *Levy of fine*
+## C. *Levy of fine* 
 
-
-
-## Section 421. Warrant for levy of fine
-
-
+## Section 421. Warrant for levy of fine 
 
 (1) When an offender has been sentenced to pay a fine, the Court passing the sentence may take action for the recovery of the fine in either or both of the following ways, that is to say, it may
 
@@ -9378,33 +7628,21 @@ Provided that, if the sentence directs that in default of payment of the fine, t
 
 Provided that no such warrant shall be executed by the arrest or detention in prison of the offender.
 
-**Corresponding Law:** S. 386 of Act V of 1898.
+**Corresponding Law:** S. 386 of Act V of 1898. 
 
-
-
-## Section 422. Effect of such warrant
-
-
+## Section 422. Effect of such warrant 
 
 A warrant issued under clause *(a)* of sub-section (1) of Section 421 by any Court may be executed within the local jurisdiction of such Court, and it shall authorise the attachment and sale of any such property outside such jurisdiction, when it is endorsed by the District Magistrate within whose local jurisdiction such property is found.
 
-**Corresponding Law:** S. 387 of Act V of 1898.
+**Corresponding Law:** S. 387 of Act V of 1898. 
 
-
-
-## Section 423. Warrant for levy of fine issued by a Court in any territory to which this Code does not extend
-
-
+## Section 423. Warrant for levy of fine issued by a Court in any territory to which this Code does not extend 
 
 Notwithstanding anything contained in this Code or in any other law for the time being in force, when an offender has been sentenced to pay a fine by a Criminal Court in any territory to which this Code does not extend and the Court passing the sentence issues a warrant to the Collector of a district in the territories to which this Code extends, authorizing him to realize the amount as if it were an arrear of land revenue, such warrant shall be deemed to be a warrant issued under clause *(b)* of sub-section (1) of Section 421 by a Court in the territories to which this Code extends, and the provisions of sub-section (3) of the said section as to the execution of such warrant shall apply accordingly.
 
-**Corresponding Law:** S. 387-A of Act V of 1898.
+**Corresponding Law:** S. 387-A of Act V of 1898. 
 
-
-
-## Section 424. Suspension of execution of sentence of imprisonment
-
-
+## Section 424. Suspension of execution of sentence of imprisonment 
 
 (1) When an offender has been sentenced to fine only and to imprisonment in default of payment of the fine, and the fine is not paid forthwith, the Court may
 
@@ -9416,23 +7654,15 @@ Notwithstanding anything contained in this Code or in any other law for the time
 
 **Corresponding Law:** S. 388 of Act V of 1898.
 
-## D. *General provisions regarding execution*
+## D. *General provisions regarding execution* 
 
-
-
-## Section 425. Who may issue warrant
-
-
+## Section 425. Who may issue warrant 
 
 Every warrant for the execution of a sentence may be issued either by the Judge or Magistrate who passed the sentence, or by his successor-in-office.
 
-**Corresponding Law:** S. 389 of Act V of 1898.
+**Corresponding Law:** S. 389 of Act V of 1898. 
 
-
-
-## Section 426. Sentence on escaped convict when to take effect
-
-
+## Section 426. Sentence on escaped convict when to take effect 
 
 (1) When a sentence of death, imprisonment for life or fine is passed under this Code on an escaped convict, such sentence shall, subject to the provisions hereinbefore contained, take effect immediately.
 
@@ -9444,13 +7674,9 @@ Every warrant for the execution of a sentence may be issued either by the Judge 
 
 (3) For the purposes of sub-section (2), a sentence of rigorous imprisonment shall be deemed to be severer in kind than a sentence of simple imprisonment.
 
-**Corresponding Law:** S. 396 of Act V of 1898.
+**Corresponding Law:** S. 396 of Act V of 1898. 
 
-
-
-## Section 427. Sentence on offender already sentenced for another offence
-
-
+## Section 427. Sentence on offender already sentenced for another offence 
 
 (1) When a person already undergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment or imprisonment for life, such imprisonment or imprisonment for life shall commence at the expiration of the imprisonment to which he has been previously sentenced, unless the Court directs that the subsequent sentence shall run concurrently with such previous sentence:
 
@@ -9464,45 +7690,29 @@ STATE AMENDMENTS
 
 **Tamil Nadu**. In Section 427 of the Code of Criminal Procedure, 1973, after sub-section (1), the following sub-section shall be *inserted*, namely:
 
-(1-A) Notwithstanding anything contained in sub-section (1), when a person already undergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment under sub-section (2) of Section 380 of the Indian Penal Code (Central Act XLV of 1860), for an offence of theft of any idol or icon in any building used as a place of worship, such imprisonment shall commence at the expiration of the imprisonment to which he has been previously sentenced. . *Vide* T.N. Act 28 of 1993, S. 6 (dated 13-7-1993).
+(1-A) Notwithstanding anything contained in sub-section (1), when a person already undergoing a sentence of imprisonment is sentenced on a subsequent conviction to imprisonment under sub-section (2) of Section 380 of the Indian Penal Code (Central Act XLV of 1860), for an offence of theft of any idol or icon in any building used as a place of worship, such imprisonment shall commence at the expiration of the imprisonment to which he has been previously sentenced. . *Vide* T.N. Act 28 of 1993, S. 6 (dated 13-7-1993). 
 
-
-
-## Section 428. Period of detention undergone by the accused to be set-off against the sentence of imprisonment
-
-
+## Section 428. Period of detention undergone by the accused to be set-off against the sentence of imprisonment 
 
 Where an accused person has, on conviction, been sentenced to imprisonment for a term [207](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_207)[, not being imprisonment in default of payment of fine,] the period of detention, if any, undergone by him during the investigation, inquiry or trial of the same case and before the date of such conviction, shall be setoff against the term of imprisonment imposed on him on such conviction, and the *liability of such person to undergo imprisonment on such conviction shall be restricted to the remainder*, if any, of the term of imprisonment imposed on him:
 
-[208](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_208)[Provided that in cases referred to in Section 433-A, such period of detention shall be set off against the period of fourteen years referred to in that section.]
+[208](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_208)[Provided that in cases referred to in Section 433-A, such period of detention shall be set off against the period of fourteen years referred to in that section.] 
 
-
-
-## Section 429. Saving
-
-
+## Section 429. Saving 
 
 (1) Nothing in Section 426 or Section 427 shall be held to excuse any person from any part of the punishment to which he is liable upon his former or subsequent conviction.
 
 (2) When an award of imprisonment in default of payment of a fine is annexed to a substantive sentence of imprisonment and the person undergoing the sentence is after its execution to undergo a further substantive sentence or further substantive sentences of imprisonment, effect shall not be given to the award of imprisonment in default of payment of the fine until the person has undergone the further sentence or sentences.
 
-**Corresponding Law:** S. 398 of Act V of 1898.
+**Corresponding Law:** S. 398 of Act V of 1898. 
 
-
-
-## Section 430. Return of warrant on execution of sentence
-
-
+## Section 430. Return of warrant on execution of sentence 
 
 When a sentence has been fully executed, the officer executing it shall return the warrant to the Court from which it is issued, with an endorsement under his hand certifying the manner in which the sentence has been executed.
 
-**Corresponding Law:** S. 400 of Act V of 1898.
+**Corresponding Law:** S. 400 of Act V of 1898. 
 
-
-
-## Section 431. Money ordered to be paid recoverable as a fine
-
-
+## Section 431. Money ordered to be paid recoverable as a fine 
 
 Any money (other than a fine) payable by virtue of any order made under this Code, and the method of recovery of which is not otherwise expressly provided for, shall be recoverable as if it were a fine:
 
@@ -9510,13 +7720,9 @@ Provided that Section 421 shall, in its application to an order under Section 35
 
 **Corresponding Law:** S. 547 of Act V of 1898.
 
-## E. *Suspension, remission and commutation of sentences*
+## E. *Suspension, remission and commutation of sentences* 
 
-
-
-## Section 432. Power to suspend or remit sentences
-
-
+## Section 432. Power to suspend or remit sentences 
 
 (1) When any person has been sentenced to punishment for an offence, the appropriate Government may, at any time, without conditions or upon any conditions which the person sentenced accepts, suspend the execution of his sentence or remit the whole or any part of the punishment to which he has been sentenced.
 
@@ -9544,13 +7750,9 @@ Provided that in the case of any sentence (other than a sentence of fine) passed
 
 (*b*) in other cases, the Government of the State within which the offender is sentenced or the said order is passed.
 
-**Corresponding Law:** S. 402(3) of Act V of 1898.
+**Corresponding Law:** S. 402(3) of Act V of 1898. 
 
-
-
-## Section 433. Power to commute sentence
-
-
+## Section 433. Power to commute sentence 
 
 The appropriate Government may, *without the consent of the person sentenced*, commute
 
@@ -9566,23 +7768,15 @@ The appropriate Government may, *without the consent of the person sentenced*, c
 
 [209](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_209)[**433-A. Restriction on powers of remission or commutation in certain cases**. Notwithstanding anything contained in Section 432, where a sentence of imprisonment for life is imposed on conviction of a person for an offence for which death is one of the punishments provided by law, or where a sentence of death imposed on a person has been commuted under Section 433 into one of imprisonment for life, *such person shall not be released from prison unless he had served at least fourteen years of imprisonment.]*
 
-**Notes on Clauses to 2005 Amendment** The provision of Section 433-A adversely affects the reformation of lifer, whose case inspite of good conduct in jail cannot be referred to the Advisory Board for recommending his premature release to the State Government, unless he has completed 14 years of actual imprisonment. Proposed amendment to Section 428 is intended to provide that the period for which the life convict remained in detention during investigation, inquiry or trial shall be set off against the period of 14 years of actual imprisonment prescribed in Section 433-A.
+**Notes on Clauses to 2005 Amendment** The provision of Section 433-A adversely affects the reformation of lifer, whose case inspite of good conduct in jail cannot be referred to the Advisory Board for recommending his premature release to the State Government, unless he has completed 14 years of actual imprisonment. Proposed amendment to Section 428 is intended to provide that the period for which the life convict remained in detention during investigation, inquiry or trial shall be set off against the period of 14 years of actual imprisonment prescribed in Section 433-A. 
 
-
-
-## Section 434. Concurrent power of Central Government in case of death sentences
-
-
+## Section 434. Concurrent power of Central Government in case of death sentences 
 
 The powers conferred by Sections 432 and 433 upon the State Government may, in the case of sentences of death, also be exercised by the Central Government.
 
-**Corresponding Law:** S. 402-A of Act V of 1898.
+**Corresponding Law:** S. 402-A of Act V of 1898. 
 
-
-
-## Section 435. State Government to act after consultation with Central Government in certain cases
-
-
+## Section 435. State Government to act after consultation with Central Government in certain cases 
 
 (1) The powers conferred by Sections 432 and 433 upon the State Government to remit or commute a sentence, in any case where the sentence is for an offence
 
@@ -9596,19 +7790,13 @@ The powers conferred by Sections 432 and 433 upon the State Government may, in t
 
 NOTES: Here consultation means concurrence as held by Constitution bench of honorable Supreme Court in the case of Union of India v. Sriharan @murugan 2015. 
 
-(2) No order of suspension, remission or commutation of sentences passed by the State Government in relation to a person, who has been convicted of offences, some of which relate to matters to which the executive power of the Union extends, and who has been sentenced to separate terms of imprisonment which are to run concurrently, shall have effect unless an order for the suspension, remission or commutation, as the case may be, of such sentences has also been made by the Central Government in relation to the offences committed by such person with regard to matters to which the executive power of the Union extends.
-
-
+(2) No order of suspension, remission or commutation of sentences passed by the State Government in relation to a person, who has been convicted of offences, some of which relate to matters to which the executive power of the Union extends, and who has been sentenced to separate terms of imprisonment which are to run concurrently, shall have effect unless an order for the suspension, remission or commutation, as the case may be, of such sentences has also been made by the Central Government in relation to the offences committed by such person with regard to matters to which the executive power of the Union extends. 
 
 Chapter XXXIII
 
-PROVISIONS AS TO BAIL AND BONDS
+PROVISIONS AS TO BAIL AND BONDS 
 
-
-
-## Section 436. In what cases bail to be taken
-
-
+## Section 436. In what cases bail to be taken 
 
 (1) When any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage of the proceeding before such Court to give bail, such person shall be released on bail:
 
@@ -9638,13 +7826,9 @@ Provided further that no such person shall in any case be detained during the pe
 
 **Notes on Clauses to 2005 Amendment** There had been instances, where undertrail prisoners were detained in jail for periods beyond the maximum period of imprisonment provided for the alleged offence. A new Section 436-A is being inserted in the Code to provide that where an undertrial prisoner other than the one accused of an offence for which death has been prescribed as one of the punishments, has been under detention for a period extending to one-half of the maximum period of imprisonment provided for the alleged offence, he should be released on his personal bond, with or without sureties.
 
-It is also proposed to provide that in no case will an undertrial prisoner be detained beyond the maximum period of imprisonment for which he can be convicted for the alleged offence.
+It is also proposed to provide that in no case will an undertrial prisoner be detained beyond the maximum period of imprisonment for which he can be convicted for the alleged offence. 
 
-
-
-## Section 437. When bail may be taken in case of non-bailable offence
-
-
+## Section 437. When bail may be taken in case of non-bailable offence 
 
 [214](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_214)[(1) When any person accused of, or suspected of, the commission of any non-bailable offence is arrested or detained without warrant by an officer-in-charge of a police station or appears or is brought before a Court other than the High Court or Court of Session, he may be released on bail, but
 
@@ -9696,13 +7880,9 @@ STATE AMENDMENTS
 
 [220](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_220)[**437-A. Bail to require accused to appear before next appellate Court**. (1) Before conclusion of the trial and before disposal of the appeal, the Court trying the offence of the Appellate Court, as the case may be, shall require the accused to execute bail bonds with sureties, to appear before the higher Court as and when such Court issues notice in respect of any appeal or petition filed against the judgment of the respective Court and such bail bonds shall be in force for six months.
 
-(2) If such accused fails to appear, the bond stand forfeited and the procedure under Section 446 shall apply.]
+(2) If such accused fails to appear, the bond stand forfeited and the procedure under Section 446 shall apply.] 
 
-
-
-## Section 438. Direction for grant of bail to person apprehending arrest
-
-
+## Section 438. Direction for grant of bail to person apprehending arrest 
 
 [221](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_221)[(1) Where any person has reason to believe that he may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court may, after taking into consideration, inter alia, the following factors, namely:
 
@@ -9842,13 +8022,9 @@ Provided that where the apprehended accusation relates to an offence punishable 
 
 (*c*) If any person is arrested and detained in custody by an officer-in-charge of a police station before the disposal of the application of such person for a direction under this sub-section, the release of such person on bail by a Court having jurisdiction, pending such disposal, shall be subject to the provisions of Section 437.
 
-(1-A) The provisions of sub-section (1) shall have effect notwithstanding anything to the contrary contained elsewhere in this Act or in any judgment, decree or order of any Court, tribunal or other authority. . [*Vide* W.B. Act 25 of 1990, S. 3 (w.e.f. the notified date)].
+(1-A) The provisions of sub-section (1) shall have effect notwithstanding anything to the contrary contained elsewhere in this Act or in any judgment, decree or order of any Court, tribunal or other authority. . [*Vide* W.B. Act 25 of 1990, S. 3 (w.e.f. the notified date)]. 
 
-
-
-## Section 439. Special powers of High Court or Court of Session regarding bail
-
-
+## Section 439. Special powers of High Court or Court of Session regarding bail 
 
 (1) A High Court or Court of Session may direct
 
@@ -9916,25 +8092,17 @@ shall be released on bail or, as the case may be, directed to be released on bai
 
 (*iii*) that the Court including the High Court or the Court of Sessions, for reasons to be recorded in writing, is satisfied that there are exceptional and sufficient grounds to release or direct the release of the accused on bail. Tripura Act 1 of 2004, S. 3 (6-2-2004).
 
-[**Note**. The above amendment by Tripura Act to remain in force of three years from the date of commencement.]
+[**Note**. The above amendment by Tripura Act to remain in force of three years from the date of commencement.] 
 
-
-
-## Section 440. Amount of bond and reduction thereof
-
-
+## Section 440. Amount of bond and reduction thereof 
 
 (1) The amount of every bond executed under this Chapter shall be fixed with due regard to the circumstances of the case and shall not be excessive.
 
 (2) The High Court or Court of Session may direct that the bail required by a police officer or Magistrate be reduced.
 
-**Corresponding Law:** S. 498 of Act V of 1898.
+**Corresponding Law:** S. 498 of Act V of 1898. 
 
-
-
-## Section 441. Bond of accused and sureties
-
-
+## Section 441. Bond of accused and sureties 
 
 (1) Before any person is released on bail or released on his own bond, a bond for such sum of money as the police officer or Court, as the case may be, thinks sufficient shall be executed by such person, and, when he is released on bail, by one or more sufficient sureties conditioned that such person shall attend at the time and place mentioned in the bond, and shall continue so to attend until otherwise directed by the police officer or Court, as the case may be.
 
@@ -9954,35 +8122,23 @@ and for imposition of a fine not exceeding the amount prescribed in the surely b
 
 [225](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_225)[**441-A. Declaration by sureties**. Every person standing surety to an accused person for his release on bail, shall make a declaration before the Court as to the number of persons to whom he has stood surety including the accused, giving therein all the relevant particulars.]
 
-**Notes on Clauses to 2005 Amendment** This clause seeks to insert a new section, Section 441-A which provides that a person standing surety for an accused person shall disclose as to in how many cases he has already stood surety for accused persons.
+**Notes on Clauses to 2005 Amendment** This clause seeks to insert a new section, Section 441-A which provides that a person standing surety for an accused person shall disclose as to in how many cases he has already stood surety for accused persons. 
 
-
-
-## Section 442. Discharge from custody
-
-
+## Section 442. Discharge from custody 
 
 (1) As soon as the bond has been executed, the person for whose appearance it has been executed shall be released; and, when he is in jail, the Court admitting him to bail shall issue an order of release to the officer-in-charge of the jail, and such officer on receipt of the orders shall release him.
 
 (2) Nothing in this section, Section 436 or Section 437 shall be deemed to require the release of any person liable to be detained for some matter other than that in respect of which the bond was executed.
 
-**Corresponding Law:** S. 500 of Act V of 1898.
+**Corresponding Law:** S. 500 of Act V of 1898. 
 
-
-
-## Section 443. Power to order sufficient bail when that first taken is insufficient
-
-
+## Section 443. Power to order sufficient bail when that first taken is insufficient 
 
 If, through mistake, fraud, or otherwise, insufficient sureties have been accepted, or if they afterwards, become insufficient, the Court may issue a warrant of arrest directing that the person released on bail be brought before it and may order him to find sufficient sureties, and, on his failing so to do, may commit him to jail.
 
-**Corresponding Law:** S. 501 of Act V of 1898.
+**Corresponding Law:** S. 501 of Act V of 1898. 
 
-
-
-## Section 444. Discharge of sureties
-
-
+## Section 444. Discharge of sureties 
 
 (1) All or any sureties for the attendance and appearance of a person released on bail may at any time apply to a Magistrate to discharge the bond, either wholly or so far as relates to the applicants.
 
@@ -10004,13 +8160,9 @@ STATE AMENDMENTS
 
 (3) for sub-section (2), the following sub-section shall be *substituted*:
 
-(2) If the Magistrate is satisfied, on enquiry made under sub-section (1-A), that all or any of the sureties applying for discharge may be discharged, he shall issue warrant of arrest directing that the person so released be brought before him; . [*Vide* W.B. Act 24 of 2003, S. 3 (w.e.f. the notified date).].
+(2) If the Magistrate is satisfied, on enquiry made under sub-section (1-A), that all or any of the sureties applying for discharge may be discharged, he shall issue warrant of arrest directing that the person so released be brought before him; . [*Vide* W.B. Act 24 of 2003, S. 3 (w.e.f. the notified date).]. 
 
-
-
-## Section 445. Deposit instead of recognizance
-
-
+## Section 445. Deposit instead of recognizance 
 
 When any person is required by any Court or officer to execute a bond with or without sureties, such Court or officer may, except in the case of a bond for good behaviour, permit him to deposit a sum of money or Government promissory notes to such amount as the Court or officer may fix in lieu of executing such bond.
 
@@ -10022,13 +8174,9 @@ STATE AMENDMENTS
 
 (*a*) the words with or without sureties shall be *omitted*; and
 
-(*b*) for the word permit , the word direct shall be *substituted*. [*vide* W.B. Act 24 of 2003, S. 4 (w.e.f. the date to be notified).]
+(*b*) for the word permit , the word direct shall be *substituted*. [*vide* W.B. Act 24 of 2003, S. 4 (w.e.f. the date to be notified).] 
 
-
-
-## Section 446. Procedure when bond has been forfeited
-
-
+## Section 446. Procedure when bond has been forfeited 
 
 (1) Where a bond under this Code is for appearance, or for production of property, before a Court and it is proved to the satisfaction of that Court, or of any Court to which the case has subsequently been transferred, that the bond has been forfeited, or where, in respect of any other bond under this Code, it is proved to the satisfaction of the Court by which the bond was taken, or of any Court to which the case has subsequently been transferred, or of the Court of any Magistrate of the first class, that the bond has been forfeited,
 
@@ -10056,33 +8204,21 @@ the Court shall record the grounds of such proof, and may call upon any person b
 
 (*b*) thereafter no such person shall be released only on his own bond in that case, if the Police Officer or the Court, as the case may be, for appearance before whom the bond was executed, is satisfied that there was no sufficient cause for the failure of the person bound by the bond to comply with its condition:
 
-Provided that subject to any other provision of this Code he may be released in that case upon the execution of a fresh personal bond for such sum of money and bond by one or more of such sureties as the Police Officer or the Court, as the case may be, thinks sufficient.]
+Provided that subject to any other provision of this Code he may be released in that case upon the execution of a fresh personal bond for such sum of money and bond by one or more of such sureties as the Police Officer or the Court, as the case may be, thinks sufficient.] 
 
-
-
-## Section 447. Procedure in case of insolvency or death of surety or when a bond is forfeited
-
-
+## Section 447. Procedure in case of insolvency or death of surety or when a bond is forfeited 
 
 When any surety to a bond under this Code becomes insolvent or dies, or when any bond is forfeited under the provisions of Section 446, the Court by whose order such bond was taken, or a Magistrate of the first class may order the person from whom such security was demanded to furnish fresh security in accordance with the directions of the original order, and if such security is not furnished, such Court or Magistrate may proceed as if there had been a default in complying with such original order.
 
-**Corresponding Law:** S. 514-A of Act V of 1898.
+**Corresponding Law:** S. 514-A of Act V of 1898. 
 
-
-
-## Section 448. Bond required from minor
-
-
+## Section 448. Bond required from minor 
 
 When the person required by any Court, or officer to execute a bond is a minor, such Court or officer may accept, in lieu thereof, a bond executed by a surety or sureties only.
 
-**Corresponding Law:** S. 514-B of Act V of 1898.
+**Corresponding Law:** S. 514-B of Act V of 1898. 
 
-
-
-## Section 449. Appeal from orders under Section 446
-
-
+## Section 449. Appeal from orders under Section 446 
 
 All orders passed under Section 446, shall be appealable,
 
@@ -10090,13 +8226,9 @@ All orders passed under Section 446, shall be appealable,
 
 (*ii*) in the case of an order made by a Court of Session, to the Court to which an appeal lies from an order made by such Court.
 
-**Corresponding Law:** S. 515 of Act V of 1898.
+**Corresponding Law:** S. 515 of Act V of 1898. 
 
-
-
-## Section 450. Power to direct levy of amount due on certain recognizances
-
-
+## Section 450. Power to direct levy of amount due on certain recognizances 
 
 The High Court or Court of Session may direct any Magistrate to levy the amount due on a bond for appearance or attendance at such High Court or Court of Session.
 
@@ -10104,13 +8236,9 @@ The High Court or Court of Session may direct any Magistrate to levy the amount 
 
 Chapter XXXIV
 
-DISPOSAL OF PROPERTY
+DISPOSAL OF PROPERTY 
 
-
-
-## Section 451. Order for custody and disposal of property pending trial in certain cases
-
-
+## Section 451. Order for custody and disposal of property pending trial in certain cases 
 
 When any property is produced before any Criminal Court during any inquiry or trial, the Court may make such order as it thinks fit for the proper custody of such property pending the conclusion of the inquiry or trial, and, if the property is subject to speedy and natural decay, or if it is otherwise expedient so to do, the Court may, after recording such evidence as it thinks necessary, order it to be sold or otherwise disposed of.
 
@@ -10120,13 +8248,9 @@ When any property is produced before any Criminal Court during any inquiry or tr
 
 (*b*) any property regarding which an offence appears to have been committed or which appears to have been used for the commission of any offence.
 
-**Corresponding Law:** S. 516-A of Act V of 1898.
+**Corresponding Law:** S. 516-A of Act V of 1898. 
 
-
-
-## Section 452. Order for disposal of property at conclusion of trial
-
-
+## Section 452. Order for disposal of property at conclusion of trial 
 
 (1) When an inquiry or trial in any Criminal Court is concluded, the Court may make such order as it thinks fit for the disposal, by destruction, confiscation or delivery to any person claiming to be entitled to possession thereof or otherwise, of any property or document produced before it or in its custody, or regarding which any offence appears to have been committed, or which has been used for the commission of any offence.
 
@@ -10144,23 +8268,15 @@ When any property is produced before any Criminal Court during any inquiry or tr
 
 (5) In this section, the term property includes, in the case of property regarding which an offence appears to have been committed, not only such property as has been originally in the possession or under the control of any party, but also any property into or for which the same may have been converted or exchanged, and anything acquired by such conversion or exchange, whether immediately or otherwise.
 
-**Corresponding Law:** S. 517 Expln. of Act V of 1898.
+**Corresponding Law:** S. 517 Expln. of Act V of 1898. 
 
-
-
-## Section 453. Payment to innocent purchaser of money found on accused
-
-
+## Section 453. Payment to innocent purchaser of money found on accused 
 
 When any person is convicted of any offence which includes, or amounts to, theft or receiving stolen property, and it is proved that any other person bought the stolen property from him without knowing or having reason to believe that the same was stolen, and that any money has on his arrest been taken out of the possession of the convicted person, the Court may, on the application of such purchaser and on the restitution of the stolen property to the person entitled to the possession thereof, order that out of such money a sum not exceeding the price paid by such purchaser be delivered to him.
 
-**Corresponding Law:** S. 519 of Act V of 1898.
+**Corresponding Law:** S. 519 of Act V of 1898. 
 
-
-
-## Section 454. Appeal against orders under Section 452 or Section 453
-
-
+## Section 454. Appeal against orders under Section 452 or Section 453 
 
 (1) Any person aggrieved by an order made by a Court under Section 452 or Section 453, may appeal against it to the Court to which appeals ordinarily lie from convictions by the former Court.
 
@@ -10168,13 +8284,9 @@ When any person is convicted of any offence which includes, or amounts to, theft
 
 (3) The powers referred to in sub-section (2) may also be exercised by a Court of appeal, confirmation or revision while dealing with the case in which the order referred to in sub-section (1) was made.
 
-**Corresponding Law:** S. 520 of Act V of 1898.
+**Corresponding Law:** S. 520 of Act V of 1898. 
 
-
-
-## Section 455. Destruction of libellous and other matter
-
-
+## Section 455. Destruction of libellous and other matter 
 
 (1) On a conviction under Section 292, Section 293, Section 501 or Section 502 of the Indian Penal Code (45 of 1860), the Court may order the destruction of all the copies of the thing in respect of which the conviction was had, and which are in the custody of the Court or remain in the possession or power of the person convicted.
 
@@ -10186,13 +8298,9 @@ STATE AMENDMENTS
 
 **Tamil Nadu**. In sub-section (1) of Section 455, after the word and figures Section 292 , the word, figures and letter Section 292-A shall be *inserted*. T.N. Act 13 of 1982, S. 3 (w.e.f. 21-9-1981).
 
-Further *omitted* by T.N. Act 30 of 1984, S. 3 (2-7-1984).
+Further *omitted* by T.N. Act 30 of 1984, S. 3 (2-7-1984). 
 
-
-
-## Section 456. Power to restore possession of immovable property
-
-
+## Section 456. Power to restore possession of immovable property 
 
 (1) When a person is convicted of an offence attended by criminal force or show of force or by criminal intimidation, and it appears to the Court that, by such force or show of force or intimidation, any person has been dispossessed of any immovable property, the Court may, if it thinks fit, order that possession of the same be restored to that person after evicting by force, if necessary, any other person who may be in possession of the property:
 
@@ -10204,37 +8312,25 @@ Provided that no such order shall be made by the Court more than one month after
 
 (4) No order made under this section shall prejudice any right or interest to or in such immovable property which any person may be able to establish in a civil suit.
 
-**Corresponding Law:** S. 522 of Act V of 1898.
+**Corresponding Law:** S. 522 of Act V of 1898. 
 
-
-
-## Section 457. Procedure by police upon seizure of property
-
-
+## Section 457. Procedure by police upon seizure of property 
 
 (1) Whenever the seizure of property by any police officer is reported to a Magistrate under the provisions of this Code, and such property is not produced before a Criminal Court during an inquiry or trial, the Magistrate may make such order as he thinks fit respecting the disposal of such property or the delivery of such property to the person entitled to the possession thereof, or if such person cannot be ascertained, respecting the custody and production of such property.
 
 (2) If the person so entitled is known, the Magistrate may order the property to be delivered to him on such conditions (if any) as the Magistrate thinks fit and if such person is unknown, the Magistrate may detain it and shall, in such case, issue a proclamation specifying the articles of which such property consists, and requiring any person who may have a claim thereto, to appear before him and establish his claim within six months from the date of such proclamation.
 
-**Corresponding Law:** S. 523 of Act V of 1898.
+**Corresponding Law:** S. 523 of Act V of 1898. 
 
-
-
-## Section 458. Procedure where no claimant appears within six months
-
-
+## Section 458. Procedure where no claimant appears within six months 
 
 (1) If no person within such period establishes his claim to such property, and if the person in whose possession such property was found is unable to show that it was legally acquired by him, the Magistrate may by order direct that such property shall be at the disposal of the State Government and may be sold by that Government and the proceeds of such sale shall be dealt with in such manner as may be prescribed.
 
 (2) An appeal shall lie against any such order to the Court to which appeals ordinarily lie from convictions by the Magistrate.
 
-**Corresponding Law:** S. 524 of Act V of 1898.
+**Corresponding Law:** S. 524 of Act V of 1898. 
 
-
-
-## Section 459. Power to sell perishable property
-
-
+## Section 459. Power to sell perishable property 
 
 If the person entitled to the possession of such property is unknown or absent and the property is subject to speedy and natural decay, or if the Magistrate to whom its seizure is reported is of opinion that its sale would be for the benefit of the owner, or that the value of such property is less than [229](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_229)[five hundred rupees], the Magistrate may at any time direct it to be sold; and the provisions of Sections 457 and 458 shall, as nearly as may be practicable, apply to the net proceeds of such sale.
 
@@ -10244,13 +8340,9 @@ If the person entitled to the possession of such property is unknown or absent a
 
 Chapter XXXV
 
-IRREGULAR PROCEEDINGS
+IRREGULAR PROCEEDINGS 
 
-
-
-## Section 460. Irregularities which do not vitiate proceedings
-
-
+## Section 460. Irregularities which do not vitiate proceedings 
 
 If any Magistrate not empowered by law to do any of the following things, namely:
 
@@ -10274,13 +8366,9 @@ If any Magistrate not empowered by law to do any of the following things, namely
 
 erroneously in good faith does that thing, his proceedings shall not be set aside merely on the ground of his not being so empowered.
 
-**Corresponding Law:** S. 529 of Act V of 1898.
+**Corresponding Law:** S. 529 of Act V of 1898. 
 
-
-
-## Section 461. Irregularities which vitiate proceedings
-
-
+## Section 461. Irregularities which vitiate proceedings 
 
 If any Magistrate, not being empowered by law in this behalf, does any of the following things, namely:
 
@@ -10320,35 +8408,23 @@ If any Magistrate, not being empowered by law in this behalf, does any of the fo
 
 his proceedings shall be void.
 
-**Corresponding Law:** S. 530 of Act V of 1898.
+**Corresponding Law:** S. 530 of Act V of 1898. 
 
-
-
-## Section 462. Proceedings in wrong place
-
-
+## Section 462. Proceedings in wrong place 
 
 No finding, sentence or order of any Criminal Court shall be set aside merely on the ground that the inquiry, trial or other proceedings in the course of which it was arrived at or passed, took place in a wrong sessions division, district, sub-division or other local area, unless it appears that such error has in fact occasioned a failure of justice.
 
-**Corresponding Law:** S. 531 of Act V of 1898.
+**Corresponding Law:** S. 531 of Act V of 1898. 
 
-
-
-## Section 463. Non-compliance with provisions of Section 164 or Section 281
-
-
+## Section 463. Non-compliance with provisions of Section 164 or Section 281 
 
 (1) If any Court before which a confession or other statement of an accused person recorded, or purporting to be recorded under Section 164 or Section 281, is tendered, or has been received, in evidence finds that any of the provisions of either of such sections have not been complied with by the Magistrate recording the statement, it may, notwithstanding anything contained in Section 91 of the Indian Evidence Act, 1872 (1 of 1872), take evidence in regard to such non-compliance, and may, if satisfied that such non-compliance has not injured the accused in his defence on the merits and that he duly made the statement recorded, admit such statement.
 
 (2) The provisions of this section apply to Courts of appeal, reference and revision.
 
-**Corresponding Law:** S. 533 of Act V of 1898.
+**Corresponding Law:** S. 533 of Act V of 1898. 
 
-
-
-## Section 464. Effect of omission to frame, or absence of, or error in, charge
-
-
+## Section 464. Effect of omission to frame, or absence of, or error in, charge 
 
 (1) No finding, sentence or order by a Court of competent jurisdiction shall be deemed invalid merely on the ground that no charge was framed or on the ground of any error, omission or irregularity in the charge including any misjoinder of charges, unless, in the opinion of the Court of appeal, confirmation or revision, a failure of justice has in fact been occasioned thereby.
 
@@ -10362,25 +8438,17 @@ No finding, sentence or order of any Criminal Court shall be set aside merely on
 
 Provided that if the Court is of opinion that the facts of the case are such that no valid charge could be preferred against the accused in respect of the facts proved, it shall quash the conviction.
 
-**Corresponding Law:** S. 232(2) of Act V of 1898.
+**Corresponding Law:** S. 232(2) of Act V of 1898. 
 
-
-
-## Section 465. Finding or sentence when reversible by reason of error, omission or irregularity
-
-
+## Section 465. Finding or sentence when reversible by reason of error, omission or irregularity 
 
 (1) Subject to the provisions hereinbefore contained, no finding, sentence or order passed by a Court of competent jurisdiction shall be reversed or altered by a Court of appeal, confirmation or revision on account of any error, omission or irregularity in the complaint, summons, warrant, proclamation, order, judgment or other proceedings before or during trial or in any inquiry or other proceedings under this Code, or any error, or irregularity in any sanction for the prosecution, unless in the opinion of that Court, a failure of justice has in fact been occasioned thereby.
 
 (2) In determining whether any error, omission or irregularity in any proceeding under this Code, or any error, or irregularity in any sanction for the prosecution has occasioned a failure of justice, the Court shall have regard to the fact whether the objection could and should have been raised at an earlier stage in the proceedings.
 
-**Corresponding Law:** S. 537 of Act V of 1898.
+**Corresponding Law:** S. 537 of Act V of 1898. 
 
-
-
-## Section 466. Defect or error not to make attachment unlawful
-
-
+## Section 466. Defect or error not to make attachment unlawful 
 
 No attachment made under this Code shall be deemed unlawful, nor shall any person making the same be deemed a trespasser, on account of any defect or want of form in the summons, conviction, writ of attachment or other proceedings relating thereto.
 
@@ -10388,21 +8456,13 @@ No attachment made under this Code shall be deemed unlawful, nor shall any perso
 
 Chapter XXXVI
 
-LIMITATION FOR TAKING COGNIZANCE OF CERTAIN OFFENCES
+LIMITATION FOR TAKING COGNIZANCE OF CERTAIN OFFENCES 
 
+## Section 467. Definitions 
 
+For the purposes of this Chapter, unless the context otherwise requires, period of limitation means the period specified in Section 468 for taking cognizance of an offence. 
 
-## Section 467. Definitions
-
-
-
-For the purposes of this Chapter, unless the context otherwise requires, period of limitation means the period specified in Section 468 for taking cognizance of an offence.
-
-
-
-## Section 468. Bar to taking cognizance after lapse of the period of limitation
-
-
+## Section 468. Bar to taking cognizance after lapse of the period of limitation 
 
 (1) Except as otherwise provided elsewhere in this Code, no Court shall take cognizance of an offence of the category specified in sub-section (2), after the expiry of the period of limitation.
 
@@ -10576,13 +8636,9 @@ THE SCHEDULE
 
 \2. The Bombay Stamp Act, 1958 (Bom LX of 1958).
 
-\3. The Maharashtra Advertisements Tax Act, 1967 (Mah. XVIII of 1967).
+\3. The Maharashtra Advertisements Tax Act, 1967 (Mah. XVIII of 1967). 
 
-
-
-## Section 469. Commencement of the period of limitation
-
-
+## Section 469. Commencement of the period of limitation 
 
 (1) The period of limitation, in relation to an offender, shall commence,
 
@@ -10592,13 +8648,9 @@ THE SCHEDULE
 
 (*c*) where it is not known by whom the offence was committed, the first day on which the identity of the offender is known to the person aggrieved by the offence or to the police officer making investigation into the offence, whichever is earlier.
 
-(2) In computing the said period, the day from which such period is to be computed shall be excluded.
+(2) In computing the said period, the day from which such period is to be computed shall be excluded. 
 
-
-
-## Section 470. Exclusion of time in certain cases
-
-
+## Section 470. Exclusion of time in certain cases 
 
 (1) In computing the period of limitation, the time during which any person has been prosecuting with due diligence another prosecution, whether in a Court of first instance or in a Court of appeal or revision, against the offender, shall be excluded:
 
@@ -10616,51 +8668,31 @@ Provided that no such exclusion shall be made unless the prosecution relates to 
 
 (*b*) has avoided arrest by absconding or concealing himself,
 
-shall be excluded.
+shall be excluded. 
 
-
-
-## Section 471. Exclusion of date on which Court is closed
-
-
+## Section 471. Exclusion of date on which Court is closed 
 
 Where the period of limitation expires on a day when the Court is closed, the Court may take cognizance on the day on which the Court reopens.
 
-*Explanation*. A Court shall be deemed to be closed on any day within the meaning of this section, if, during its normal working hours, it remains closed on that day.
+*Explanation*. A Court shall be deemed to be closed on any day within the meaning of this section, if, during its normal working hours, it remains closed on that day. 
 
+## Section 472. Continuing offence 
 
+In the case of a continuing offence, a fresh period of limitation shall begin to run at every moment of the time during which the offence continues. 
 
-## Section 472. Continuing offence
-
-
-
-In the case of a continuing offence, a fresh period of limitation shall begin to run at every moment of the time during which the offence continues.
-
-
-
-## Section 473. Extension of period of limitation in certain cases
-
-
+## Section 473. Extension of period of limitation in certain cases 
 
 Notwithstanding anything contained in the foregoing provisions of this Chapter, any Court may take cognizance of an offence after the expiry of the period of limitation, if it is satisfied on the facts and in the circumstances of the case that the delay has been properly explained or that it is necessary so to do in the interests of justice.
 
 Chapter XXXVII
 
-MISCELLANEOUS
+MISCELLANEOUS 
 
+## Section 474. Trials before High Courts 
 
+When an offence is tried by the High Court otherwise than under Section 407, it shall, in the trial of the offence, observe the same procedure as a Court of Session would observe if it were trying the case. 
 
-## Section 474. Trials before High Courts
-
-
-
-When an offence is tried by the High Court otherwise than under Section 407, it shall, in the trial of the offence, observe the same procedure as a Court of Session would observe if it were trying the case.
-
-
-
-## Section 475. Delivery to commanding officers of persons liable to be tried by Court-martial
-
-
+## Section 475. Delivery to commanding officers of persons liable to be tried by Court-martial 
 
 (1) The Central Government may make rules consistent with this Code and the Army Act, 1950 (46 of 1950), the Navy Act, 1957 (62 of 1957), and the Air Force Act, 1950 (45 of 1950), and any other law, relating to the Armed Forces of the Union, for the time being in force, as to cases in which persons subject to military, naval or air force law, or such other law, shall be tried by a Court to which this Code applies or by a Court-martial; and when any person is brought before a Magistrate and charged with an offence for which he is liable to be tried either by a Court to which this Code applies or by a Court-martial, such Magistrate shall have regard to such rules, and shall in proper cases deliver him, together with a statement of the offence of which he is accused, to the commanding officer of the unit to which he belongs, or to the commanding officer of the nearest military, naval or air force station, as the case may be, for the purpose of being tried by a Court-martial.
 
@@ -10674,23 +8706,15 @@ When an offence is tried by the High Court otherwise than under Section 407, it 
 
 (3) A High Court may, if it thinks fit, direct that a prisoner detained in any jail situated within the State be brought before a Court-martial for trial or to be examined touching any matter pending before the Court-martial.
 
-**Corresponding Law:** S. 549 of Act V of 1898.
+**Corresponding Law:** S. 549 of Act V of 1898. 
 
-
-
-## Section 476. Forms
-
-
+## Section 476. Forms 
 
 Subject to the power conferred by Article 227 of the Constitution, the forms set forth in the Second Schedule, with such variations as the circumstances of each case require, may be used for the respective purposes therein mentioned, and if used shall be sufficient.
 
-**Corresponding Law:** S. 555 of Act V of 1898.
+**Corresponding Law:** S. 555 of Act V of 1898. 
 
-
-
-## Section 477. Power of High Court to make rules
-
-
+## Section 477. Power of High Court to make rules 
 
 (1) Every High Court may, with the previous approval of the State Government, make rules
 
@@ -10704,13 +8728,9 @@ Subject to the power conferred by Article 227 of the Constitution, the forms set
 
 (2) All rules made under this section shall be published in the Official Gazette.
 
-**Corresponding Law:** S. 555-A of Act V of 1898.
+**Corresponding Law:** S. 555-A of Act V of 1898. 
 
-
-
-## Section 478. Power to alter functions allocated to Executive Magistrates in certain cases
-
-
+## Section 478. Power to alter functions allocated to Executive Magistrates in certain cases 
 
 [231](https://www.casemine.com/act/in/5a979daf4a93263ca60b7265#note_231)[If the Legislative Assembly of a State by a resolution so permits, the State Government may, after consultation with the High Court, by notification, direct that references in Sections 108, 109, 110, 145 and 147 to an Executive Magistrate shall be construed as references to a Judicial Magistrate of the first class.]
 
@@ -10718,25 +8738,17 @@ STATE AMENDMENTS
 
 **Andaman and Nicobar Islands, Dadra and Nagar Haveli and Lakshadweep**. In the Code, as it applies to the Union Territories to which this Regulation extends, in old Section 478, the words If the State Legislature by a resolution so requires , shall be *omitted*. Regulation 1 of 1974 (w.e.f. 30-3-1974).
 
-**Maharashtra**. In old Section 478 of the said Code, in clause *(b)*, for the words to an Executive Magistrate shall be construed the words to an Executive Magistrate in the areas of the State outside Greater Bombay shall be construed shall be *substituted*. [*Vide* Maharashtra Act 1 of 1978, Section 4 with effect from 15-4-1978].
+**Maharashtra**. In old Section 478 of the said Code, in clause *(b)*, for the words to an Executive Magistrate shall be construed the words to an Executive Magistrate in the areas of the State outside Greater Bombay shall be construed shall be *substituted*. [*Vide* Maharashtra Act 1 of 1978, Section 4 with effect from 15-4-1978]. 
 
-
-
-## Section 479. Case in which Judge or Magistrate is personally interested
-
-
+## Section 479. Case in which Judge or Magistrate is personally interested 
 
 No Judge or Magistrate shall, except with the permission of the Court to which an appeal lies from his Court, try or commit for trial any case to or in which he is a party, or personally interested, and no Judge or Magistrate shall hear, an appeal from any judgment or order passed or made by himself.
 
 *Explanation*. A Judge or Magistrate shall not be deemed to be a party to, or personally interested in, any case by reason only that he is concerned therein in a public capacity, or by reason only that he has viewed the place in which an offence is alleged to have been committed or any other place in which any other transaction material to the case is alleged to have occurred and made an inquiry in connection with the case.
 
-**Corresponding Law:** S. 556 of Act V of 1898.
+**Corresponding Law:** S. 556 of Act V of 1898. 
 
-
-
-## Section 480. Practising pleader not to sit as Magistrate in certain Courts
-
-
+## Section 480. Practising pleader not to sit as Magistrate in certain Courts 
 
 No pleader who practises in the Court of any Magistrate shall sit as a Magistrate in that Court or in any Court within the local jurisdiction of that Court.
 
@@ -10746,41 +8758,25 @@ STATE AMENDMENTS
 
 **Karnataka** After Section 480, the following section shall be *inserted*, namely:
 
-480-A. *Other powers of Magistrates*. Any Judicial Magistrate or Executive Magistrate shall be entitled to attest, verify or authenticate any document brought before him for the purpose of attestation, verification or authentication, as the case may be, and to affix seals thereon, as may be prescribed by any law for the time being in force. (*Vide* Karnataka Act 35 of 1984, S. 2, w.e.f. 2-7-1984).
+480-A. *Other powers of Magistrates*. Any Judicial Magistrate or Executive Magistrate shall be entitled to attest, verify or authenticate any document brought before him for the purpose of attestation, verification or authentication, as the case may be, and to affix seals thereon, as may be prescribed by any law for the time being in force. (*Vide* Karnataka Act 35 of 1984, S. 2, w.e.f. 2-7-1984). 
 
-
-
-## Section 481. Public servant concerned in sale not to purchase or bid for property
-
-
+## Section 481. Public servant concerned in sale not to purchase or bid for property 
 
 A public servant having any duty to perform in connection with the sale of any property under this Code shall not purchase or bid for the property.
 
-**Corresponding Law:** S. 560 of Act V of 1898.
+**Corresponding Law:** S. 560 of Act V of 1898. 
 
-
-
-## Section 482. Saving of inherent powers of High Court
-
-
+## Section 482. Saving of inherent powers of High Court 
 
 Nothing in this Code shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.
 
-**Corresponding Law:** S. 561-A of Act V of 1898.
+**Corresponding Law:** S. 561-A of Act V of 1898. 
 
+## Section 483. Duty of High Court to exercise continuous superintendence over Courts of Judicial Magistrates 
 
+Every High Court shall so exercise its superintendence over the Courts of Judicial Magistrates subordinate to it as to ensure that there is an expeditious and proper disposal of cases by such Magistrates. 
 
-## Section 483. Duty of High Court to exercise continuous superintendence over Courts of Judicial Magistrates
-
-
-
-Every High Court shall so exercise its superintendence over the Courts of Judicial Magistrates subordinate to it as to ensure that there is an expeditious and proper disposal of cases by such Magistrates.
-
-
-
-## Section 484. Repeal and savings
-
-
+## Section 484. Repeal and savings 
 
 (1) The Code of Criminal Procedure, 1898 (5 of 1898), is hereby repealed.
 
@@ -10924,19 +8920,13 @@ Now, therefore, in exercise of the powers conferred by sub-sections (1) and (2) 
 
 ## Schedule 1
 
-CLASSIFICATION OF OFFENCES
-
-
+CLASSIFICATION OF OFFENCES 
 
 | EXPLANATORY NOTE: | (1)  | In regard to offences under the Indian Penal Code, the entries in the second and third columns against a section the number of which is given in the first column are not intended as the definition of, and the punishment prescribed for, the offence in the Indian Penal Code, but merely as indication of the substance of the section. |
 | ----------------- | ---- | ------------------------------------------------------------ |
 |                   | (2)  | In this Schedule, (*i*) the expression Magistrate of the first class and Any Magistrate include Metropolitan Magistrates but not Executive Magistrates; (*ii*) the word cognizable stands for a police officer may arrest without warrant ; and (*iii*) the word non-cognizable stands for a police officer shall not arrest without warrant . |
 
-
-
-I. OFFENCES UNDER THE INDIAN PENAL CODE
-
-
+I. OFFENCES UNDER THE INDIAN PENAL CODE 
 
 | Section                                                      | Offence                                                      | Punishment                                                   | Cognizable or non-cognizable                                 | Bailable or non-bailable                                     | By what Court triable                                        |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -11578,19 +9568,13 @@ I. OFFENCES UNDER THE INDIAN PENAL CODE
 | Chapter XXIII ATTEMPTS TO COMMIT OFFENCES                    |                                                              |                                                              |                                                              |                                                              |                                                              |
 | 511                                                          | Attempting to commit offences punishable with imprisonment for life or imprisonment, and in such attempt doing any act towards the commission of the offence. | Imprisonment for life or imprisonment not exceeding half of the longest term provided for the offence, or fine, or both. | According as the offence is cognizable or non-cognizable.    | According as the offence attempted by the offender is bailable or not. | The Court by which the offence attempted is triable.         |
 
-
-
-II. CLASSIFICATION OF OFFENCES AGAINST OTHER LAWS
-
-
+II. CLASSIFICATION OF OFFENCES AGAINST OTHER LAWS 
 
 | Offence                                                      | Cognizable or Non-cognizable | Bailable or non-bailable | By what Court triable          |
 | :----------------------------------------------------------- | :--------------------------- | :----------------------- | :----------------------------- |
 | If punishable with death, imprisonment for life, or imprisonment for more than 7 years. | Cognizable                   | Non-bailable             | Court of Session.              |
 | If punishable with imprisonment for 3 years and upwards but not more than 7 years. | Ditto                        | Ditto                    | Magistrate of the first class. |
 | If punishable with imprisonment for less than 3 years or with fine only. | Non-cognizable               | Bailable                 | Any Magistrate.                |
-
-
 
 Notes on Clauses to 2005 Amendment
 
@@ -11616,15 +9600,11 @@ To (name of accused) of (address).
 
 Whereas your attendance is necessary to answer to a charge of (*state shortly the offence charged*), you are hereby required to appear in person (or by pleader, *as the case may be*) before the (*Magistrate*) of , on the day of Herein fail not.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form I and Section 68 of Act V of 1898.
 
@@ -11638,15 +9618,11 @@ To (*name and designation of the person or persons who is or are to execute the 
 
 Whereas (*name of the accused*) of (*address*) stands charged with the offence of (*state the offence*), you are hereby directed to arrest the said , and to produce him before me. Herein fail not.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 [*See* Section 71]
 
@@ -11654,15 +9630,11 @@ Dated, this day of , 20
 
 If the said shall give bail himself in the sum of rupees with one surety in the sum of rupees (*or* two sureties each in the sum of rupees) to attend before me on the day of and to continue so to attend until otherwise directed by me, he may be released.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form II and Sections 75 and 76 of Act V of 1898.
 
@@ -11696,15 +9668,11 @@ Whereas complaint has been made before me that (*name*, *description and address
 
 Proclamation is hereby made that the said of is required to appear at (*place*) before this Court (*or* before me) to answer the said complaint on the day of
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form IV and Section 87 of Act V of 1898.
 
@@ -11718,15 +9686,11 @@ Whereas complaint has been made before me that (*name*, *description and address
 
 Proclamation is hereby made that the said (*name*) is required to appear at (*place*) before the Court of on the day of next at o'clock, to be examined touching the offence complained of.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form V and Section 87 of Act V of 1898.
 
@@ -11742,15 +9706,11 @@ Whereas a warrant has been duly issued to compel the attendance of (*name*, *des
 
 This is to authorise and require you to attach by seizure the movable property belonging to the said to the value of rupees which you may find within the District of and to hold the said property under attachment pending the further order of this Court, and to return this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form VI and Section 88 of Act V of 1898.
 
@@ -11766,15 +9726,11 @@ Whereas complaint has been made before me that (*name*, *description and address
 
 You are hereby required to attach the said property in the manner specified in clause (*a*), or clause (*c*), or both*, of sub-section (2) of Section 83, and to hold the same under attachment pending further order of this Court, and to return this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 *Strike out the one which is not applicable, depending on the nature of the property to be attached.
 
@@ -11792,15 +9748,11 @@ Whereas complaint has been made before me that (*name*, *description and address
 
 You are hereby authorised and requested to cause the said land to be attached, in the manner specified in clause (*a*), or clause (*c*), or both*, of sub-section (4) of Section 83, and to be held under attachment pending the further order of this Court, and to certify without delay what you may have done in pursuance of this order.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 *Strike out the one which is not desired.
 
@@ -11818,15 +9770,11 @@ Whereas complaint has been made before me that (*name and description of accused
 
 This is to authorise and require you to arrest the said (*name of witness*), and on the day of to bring him before this Court, to be examined touching the offence complained of.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form VII and Section 90 of Act V of 1898.
 
@@ -11842,15 +9790,11 @@ Whereas information has been laid (*or* complaint has been made) before me of th
 
 This is to authorise and require you to search for the said (*the thing specified*) in the (*describe the house or place or part thereof to which the search is to be confined*), and, if found, to produce the same forthwith before this Court, returning this warrant, with an endorsement certifying what you have done under it, immediately upon its execution.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form VIII and Section 96 of Act V of 1898.
 
@@ -11866,15 +9810,11 @@ Whereas information has been laid before me, and on due inquiry thereupon had, I
 
 This is to authorise and require you to enter the said house (*or other place*) with such assistance as shall be required, and to use, if necessary, reasonable force for that purpose, and to search every part of the said house (*or other place*, *or if the search is to be confined to a part*, *specify the part clearly*), and to seize and take possession of any property (*or* documents, *or* stamps, *or* seals, *or* coins *or* obscene objects, *as the case may be*) (*add*, *when the case requires it*) and also of any instruments and materials which you may reasonably believe to be kept for the manufacture of forged documents, *or* counterfeit stamps, *or* false seals, *or* counterfeit coins *or* counterfeit currency notes (*as the case may be*), and forthwith to bring before this Court such of the said things as may be taken possession of, returning this warrant, with an endorsement certifying what you have done under it, immediately upon its execution.
 
-Dated, this day of , 20
-
-
+Dated, this day of , 20 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form IX and Section 98 of Act V of 1898.
 
@@ -11924,15 +9864,11 @@ To of
 
 Whereas it has been made to appear to me by credible information that (*state the substance of the information*), and that you are likely to commit a breach of the peace (*or* by which act a breach of the peace will probably be occasioned), you are hereby required to attend in person (*or* by a duly authorised agent) at the office of the Magistrate of on the day of 20 , at ten o'clock in the forenoon, to show cause why you should not be required to enter into a bond for rupees [*when sureties are required*, *add*, and also to give security by the bond of one (*or* two, *as the case may be*) surety (*or* sureties) in the sum of rupees (each *if more than one*)], that you will keep the peace for the term of
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XII and Section 114 of Act V of 1898.
 
@@ -11948,15 +9884,11 @@ Whereas (*name and address*) appeared before me in person (*or* by his authorise
 
 This is to authorise and require you to receive the said (*name*) into your custody, together with this warrant, and him safely to keep in the said Jail for the said period of (*term of imprisonment*) unless he shall in the meantime be lawfully ordered to be released, and to return this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XIII and Section 130 of Act V of 1898.
 
@@ -11978,15 +9910,11 @@ And whereas an order has been recorded stating the same and requiring the said (
 
 This is to authorise and require you to receive the said (*name*) into your custody, together with this warrant and him safely to keep in the Jail, *or* if he is already in prison, be detained therein, for the said period of (*term of imprisonment*) unless he shall in the meantime be lawfully ordered to be released, and to return this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XIV and Section 123 of Act V of 1898.
 
@@ -12006,15 +9934,11 @@ Whereas (*name and description of prisoner*) was committed to your custody under
 
 This is to authorise and require you forthwith to discharge the said (*name*) from your custody unless he is liable to be detained for some other cause.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law**: Form XV and Sections 123 and 124 of Act V of 1898.
 
@@ -12032,15 +9956,11 @@ And thereupon an order was made adjudging him to undergo imprisonment in the sai
 
 This is to authorise and require you to receive the said (*name*) into your custody in the said Jail, together with this warrant, and there carry the said order into execution according to law, returning this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XL and Section 488 of Act V of 1898.
 
@@ -12056,15 +9976,11 @@ Whereas an order has been duly made requiring (*name*) to allow to his said wife
 
 This is to authorise and require you to attach any movable property belonging to the said (*name*) which may be found within the district of , and if within (*state the number of days or hours allowed*) next after such attachment the said sum shall not be paid (*or forthwith*), to sell the movable property attached to, or so much thereof as shall be sufficient to satisfy the said sum, returning this warrant, with an endorsement certifying what you have done under it, immediately upon its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XLI and Section 488 of Act V of 1898.
 
@@ -12104,15 +10020,11 @@ or
 
 I do hereby direct and require you, etc., etc., (*as the case may be*).
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XVI and Section 133 of Act V of 1898.
 
@@ -12126,15 +10038,11 @@ To (*name*, *description and address*).
 
 I hereby give you notice that it has been found that the order issued on the day of requiring you (*state substantially the requisition in the order*) is reasonable and proper. Such order has been made absolute, and I hereby direct and require you to obey the said order within (*state the time allowed*), on peril of the penalty provided by the Indian Penal code for disobedience thereto.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XVIII and Section 140 of Act V of 1898.
 
@@ -12148,15 +10056,11 @@ To (*name*, *description and address*).
 
 Whereas the inquiry into the conditional order issued by me on the day of , 20 , is pending, and it has been made to appear to me that the nuisance mentioned in the said order is attended with such imminent danger or injury of a serious kind to the public as to render necessary immediate measures to prevent such danger or injury, I do hereby, under the provisions of Section 142 of the Code of Criminal Procedure, 1973, direct and enjoin you forthwith to (*state plainly what is required to be done as a temporary safeguard*), pending the result of the inquiry.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XIX and Section 142 of Act V of 1898.
 
@@ -12172,15 +10076,11 @@ Whereas it has been made to appear to me that, etc. (*state the proper recital*,
 
 I do hereby strictly order and enjoin you not to repeat or continue, the said nuisance.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XX and Section 143 of Act V of 1898.
 
@@ -12208,15 +10108,11 @@ or
 
 I do hereby prohibit the procession passing along the said street; and strictly warn and enjoin you not to take any part in such procession (*or as the case recited may require*).
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXI and Section 144 of Act V of 1898.
 
@@ -12228,15 +10124,11 @@ Magistrate's order declaring party entitled to retainpossession of land, etc. in
 
 It appears to me, on the grounds duly recorded, that a dispute, likely to induce a breach of the peace, existed between (*describe the parties by name and residence*, *or residence only if the dispute be between bodies of villagers*) concerning certain (*state concisely the subject of dispute*), situate within my local jurisdiction, all the said parties were called upon to give in a written statement of their respective claims as to the fact of actual possession of the said (*the subject of dispute*), and being satisfied by due inquiry had thereupon, without reference to the merits of the claim of either of the said parties to the legal right of possession, that the claim of actual possession by the said (*name or names or description*) is true; I do decide and declare that he is (*or* they are) in possession of the said (*the subject of dispute*) and entitled to retain such possession until ousted by due course of law, and do strictly forbid any disturbance of his (*or* their) possession in the meantime.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXII and Section 145 of Act V of 1898.
 
@@ -12254,15 +10146,11 @@ Whereas it has been made to appear to me that a dispute likely to induce a breac
 
 This is to authorise and require you to attach the said (*the subject of dispute*) by taking and keeping possession thereof, and to hold the same under attachment until the decree or order of a competent Court determining the rights of the parties, or the claim to possession, shall have been obtained, and to return this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXIII and Section 146 of Act V of 1898.
 
@@ -12276,15 +10164,11 @@ A dispute having arisen concerning the right of use of (*state concisely the sub
 
 I do order that the said (*the claimant or claimants of possession*) or any one in their interest, shall not take (*or* retain) possession of the said land (*or* water) to the exclusion of the enjoyment of the right of use aforesaid, until he (*or* they) shall obtain the decree or order of a competent Court adjudging him (*or* them) to be entitled to exclusive possession.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXIV and Section 147 of Act V of 1898.
 
@@ -12340,15 +10224,11 @@ of (address)
 
 Whereas your attendance is necessary to answer a charge of petty offence (*state shortly the offence charged*), you are hereby required to appear in person (*or* by pleader) before (Magistrate) of on the day of 20 , or if you desire to plead guilty to the charge without appearing before the Magistrate, to transmit before the aforesaid date the plea of guilty in writing and the sum of rupees as fine, or if you desire to appear by pleader and to plead guilty through such pleader, to authorise such pleader in writing to make such a plea of guilty on your behalf and to pay the fine through such pleader. Herein fail not.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 (*Note*. The amount of fine specified in this summons shall not exceed one hundred rupees.)
 
@@ -12362,15 +10242,11 @@ The Magistrate of hereby gives notice that he has committed one for trial at the
 
 The charge against the accused is that, etc. (*state the offence as in the charge*).
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXVII and Section 218 of Act V of 1898.
 
@@ -12492,15 +10368,11 @@ Whereas complaint has been made before me that (*name of the accused*) of (*addr
 
 You are hereby summoned to appear before this Court on the day of next at ten o'clock in the forenoon, to produce such document or thing or to testify what you know concerning the matter of the said complaint, and not to depart thence without leave of the Court; and you are hereby warned that, if you shall without just excuse neglect or refuse to appear on the said date, a warrant will be issued to compel your attendance.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXI and Sections 69 and 252 of Act V of 1898.
 
@@ -12516,15 +10388,11 @@ Whereas on the day of , (*name of prisoner*), the (1st, 2nd, 3rd, *as the case m
 
 This is to authorise and require you to receive the said (*prisoner's name*) into your custody in the said Jail, together with this warrant, and thereby carry the aforesaid sentence into execution according to law.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXIX and Sections 245 and 258 of Act V of 1898.
 
@@ -12540,15 +10408,11 @@ Whereas (*name and description*) has brought against (*name and description of t
 
 This is to authorise and require you to receive the said (*name*) into your custody, together with this warrant, and him safely to keep in the said Jail for the period of (*term of imprisonment*), subject to the provisions of Section 69 of the Indian Penal Code, unless the said sum be sooner paid, and on the receipt thereof, forthwith to set him at liberty, returning this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXX and Section 250 of Act V of 1898.
 
@@ -12568,15 +10432,11 @@ You are hereby required to produce the said under safe and sure conduct before t
 
 And you are further required to inform the said of the contents of this order and deliver to him the attached copy thereof.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*)(*Seal*) | (*Signature*)Countersigned.(*Signature*) |
 | ----------------------------- | ---------------------------------------- |
 |                               |                                          |
-
-
 
 Form 37
 
@@ -12592,15 +10452,11 @@ You are hereby required to produce the said under safe and sure conduct before t
 
 And you are further required to inform the said of the contents of this order and deliver to him the attached copy thereof.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*)(*Seal*) | (*Signature*)Countersigned.(*Signature*) |
 | ----------------------------- | ---------------------------------------- |
 |                               |                                          |
-
-
 
 **Corresponding Law:** *New Provision*
 
@@ -12618,15 +10474,11 @@ And whereas for such contempt the said (*name of the offender*) has been adjudge
 
 This is to authorise and require you to receive the said (*name of offender*) into your custody, together with this warrant, and him safely to keep in the said Jail for the said period of (*term of imprisonment*), unless the said fine be sooner paid; and, on the receipt thereof, forthwith to set him at liberty returning this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXVIII and Section 480 of Act V of 1898.
 
@@ -12642,15 +10494,11 @@ Whereas (*name and description*), being summoned (*or* brought before this Court
 
 This is to authorise and require you to take the said (*name*) into custody, and him safely to keep in your custody for the period of days, unless in the meantime he shall consent to be examined and to answer the questions asked of him, or to produce the document called for from him, and on the last of the said days, or forthwith on such consent being known, to bring him before this Court to be dealt with according to law, returning this warrant with an endorsement certifying the manner of its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXIX and Section 485 of Act V of 1898.
 
@@ -12666,15 +10514,11 @@ Whereas at the Session held before me on the day of , 20 , (*name of prisoner*),
 
 This is to authorise and require you to receive the said (*prisoner's name*) into your custody in the said Jail, together with this warrant, and him there safely to keep until you shall receive the further warrant or order of this Court, carrying into effect the order of the said Court.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXIV and Section 304 of Act V of 1898.
 
@@ -12694,15 +10538,11 @@ or
 
 *if the mitigated sentence is one of imprisonment*, *say*, *after the words* custody in the said Jail , and there to carry into execution the punishment of imprisonment under the said order according to law
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXVI and Sections 381 and 382 of Act V of 1898.
 
@@ -12718,15 +10558,11 @@ Whereas (*name of prisoner*), the (1st, 2nd, 3rd, *as the case may be*) prisoner
 
 This is to authorise and require you to carry the said sentence into execution by causing the said to be hanged by the neck until he be dead, at (*time and place of execution*), and to return this warrant to the Court with an endorsement certifying that the sentence has been executed.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXV and Section 381 of Act V of 1898.
 
@@ -12742,15 +10578,11 @@ Whereas (*name and description of the offender*) was on the day of , 20 , convic
 
 This is to authorise, and require you to attach any movable property belonging to the said (*name*), which may be found within the district of ; and, if within (*state the number of days or hours allowed*) next after such attachment the said sum shall not be paid (*or* forthwith), to sell the movable property attached, or so much thereof as shall be sufficient to satisfy the said fine, returning this warrant, with an endorsement certifying what you have done under it, immediately upon its execution.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXVII and Section 386(1)(*a*) of Act V of 1898.
 
@@ -12768,15 +10600,11 @@ Whereas the said (*name*), although required to pay the said fine, has not paid 
 
 You are hereby authorised and requested to realise the amount of the said fine as arrears of land revenue from the movable or immovable property, or both, of the said (*name*) and to certify without delay what you may have done in pursuance of this order.
 
-Dated, this day of , 20 .
-
-
+Dated, this day of , 20 . 
 
 | (*Seal of the Court*) | (*Signature*) |
 | --------------------- | ------------- |
 |                       |               |
-
-
 
 **Corresponding Law:** Form XXXVII and Section 386 of Act V of 1898.
 
