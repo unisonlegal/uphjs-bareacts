@@ -1519,83 +1519,41 @@ STATE AMENDMENTS▼
 
 **11. Rejection of plaint.** - The plaint shall be rejected in the following cases:-
 
+(a) where it **does not disclose a cause of action**;
 
+(b) where the relief claimed is **undervalued**, and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so;
 
-(a) where it does not disclose a cause of action;
+(c) where the relief claimed is properly valued, but the plaint is returned upon paper **insufficiently stamped**, and the plaintiff, on being required by the Court to supply the requisite stamp-paper within a time to be fixed by the Court, fails to do so;
 
-(b) where the relief claimed is undervalued, and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so;
+(d) where the suit appears from the statement in the **plaint to be barred by any law** :
 
-(c) where the relief claimed is properly valued, but the plaint is returned upon paper insufficiently stamped, and the plaintiff, on being required by the Court to supply the requisite stamp-paper within a time to be fixed by the Court, fails to do so;
+[(e)where it is **not filed in duplicate;**]
 
-(d) where the suit appears from the statement in the plaint to be barred by any law :
-
-[(e)where it is not filed in duplicate;]
-
-[(f) where the plaintiff fails to comply with the provisions of rule 9:]
+[(f) where the plaintiff **fails to comply with the provisions of rule 9**:]
 
 [Provided that the time fixed by the Court for the correction of the valuation or supplying of the requisite stamp-paper shall not be extended unless the Court, for reasons to be recorded, is satisfied that the plaintiff was prevented by any cause of an exceptional nature form correcting the valuation or supplying the requisite stamp-paper , as the case may be, within the time fixed by the Court and that refusal to extend such time would cause grave injustice to the plaintiff.]
 
-
-
-
-
-
-
-
-
 **12. Procedure on rejecting plaint.** - Where a plaint is rejected the Judge shall record an order to that effect with the reasons for such order.
-
-
 
 **13. Where rejection of plaint does not preclude presentation of fresh plaint.** - The rejection of the plaint on any of the grounds herein before mentioned shall not of its own force preclude the plaintiff from presenting a fresh plaint in respect of the same cause of action.
 
+### Documents Relied On In Plaint
 
+**[14. Production of document on which plaintiff sues.** - (1) Where a plaintiff sues upon a document in his possession or power, he shall produce it in Court when the plaint is presented, and shall at the same time deliver the document or a copy thereof to be filed with the plaint.
 
-
-
-
-
-Documents Relied On In Plaint
-
-**[14. Production of document on which plaintiff sues.** - (1) Where a plaintiff sues upon a document in his possession or power, he shall produce it in Court when the plaint is presented, and shall at the same time deliver the document or a copy thereof to be filed with the plaint.(2) Where any such document is not in the possession or power of the plaintiff, he shall, where possible, state in whose possession or power it is.]
-
-
+(2) Where any such document is not in the possession or power of the plaintiff, he shall, where possible, state in whose possession or power it is.]
 
 [(3) A document which ought to be produced in Court by the plaintiff when the plaint is presented, or to be entered in the list to be added or annexed to the plaint but is not produced or entered accordingly, shall not, without the leave of the Court, be received in evidence on his behalf at the hearing of the suit.]
 
-
-
 [(4) Nothing in this rule shall apply to document produced for the cross-examination of the plaintiff's witnesses, or, handed over to a witness merely to refresh his memory.]
-
-
-
-
-
-
-
-
 
 **15. Statement in case of documents not in plaintiff's possession or power.** -*[Omitted by the Code of Civil Procedure (Amendment) Act, 1999 (46 of 1999), section 17 (w.e.f. 1.7.2002).]*
 
-
-
 **16. Suits on lost negotiable instruments.** - Where the suit is founded upon a negotiable instrument, and it is proved that the instrument is lost, and an indemnity is given by the plaintiff, to the satisfaction of the Court, against the claims of any other person upon such instrument, the Court may pass such decree as it would have passed if the plaintiff had produced the instrument in Court when the plaint was presented, and had at the same time delivered a copy of the instrument to be filed with the plaint.
-
-
 
 **17. Production of shop-book.** - (1) Save in so far as is otherwise provided by the Bankers' Books Evidence Act, 1891 (18 of 1891), where the document on which the plaintiff sues is an entry in shop-book or other account in his possession or power the plaintiff shall produce the book or account at the time of filing the plaint, together with a copy of the entry on which he relies.
 
-
-
 (2) **Original entry to be marked and returned.-**The Court, or such officer as it appoints in this behalf, shall forthwith mark the document for the purpose of identification, and, after examining and comparing the copy with the original, shall, if it is found correct, certify it to be so and return the book to the plaintiff and cause the copy to be filed.
-
-
-
-
-
-
-
-
 
 **18. Inadmissibility of document not produced when plaint filed.** - [Omitted by the Code of Civil Procedure (Amendment) Act, 2002 (22 of 2002), section 8 (w.e.f. 1.7.2002).]
 
@@ -1607,23 +1565,9 @@ Documents Relied On In Plaint
 
 
 
-
-
-
-
 **1. Written statement.** - [(1)] The defendant shall, at or before the first hearing or within such time as the Court may permit, present a written statement of his defence.
 
-
-
 Provided that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the same on such other day, as may be specified by the Court, for reasons to be recorded in writing, but which shall not be later than ninety days from the date of service oof summons.
-
-
-
-
-
-
-
-
 
 **[1-A. Duty of defendant to produce documents upon which relief is claimed or relied upon by him.-**(1) Where the defendant bases his defence upon a document or relies upon any document in his possession or power, in support of his defence or claim for set-off or counter-claim, he shall enter such document in a list, and shall produce it in Court when the written statement is presented by him and shall, at the same time, deliver the document and a copy thereof, to be filed with the written statement.(2) Where any such document is not in the possession or power of the defendant, he shall, wherever possible, state in whose possession or power it is.]
 
